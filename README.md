@@ -113,22 +113,28 @@ workforce-analytics/
 ## 📸 Dashboard Preview
 
 ### 📊 Main Dashboard
-![Main Dashboard](dashboard/main_dashboard.png)
+![Main Dashboard](images/dashboard.png)
 
 ---
 
 ### 🧠 AI Insights Dashboard
-![AI Insights](dashboard/ai_insights.png)
+![AI Insights](images/AI_Insights.png)
 
 ---
 
 ### ☁️ AWS S3 Data Storage
-![AWS S3](dashboard/aws_s3.png)
+![AWS S3](images/aws_s3.png)
 
 ---
 
 ### 🌐 Power BI Service Deployment
-![Power BI Service](dashboard/powerbi_service.png)
+![Power BI Service]
+(images/powerbi_service1.png)
+(images/powerbi_service2.png)
+(images/powerbi_service3.png)
+(images/powerbi_service4.png)
+(images/powerbi_service5.png)
+
 
 ---
 
