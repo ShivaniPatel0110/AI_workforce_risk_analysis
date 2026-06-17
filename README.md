@@ -129,10 +129,10 @@ workforce-analytics/
 
 ### 🌐 Power BI Service Deployment
 ![Power BI Service](images/powerbi_service_1.png)
-![Power BI Service](images/powerbiservice2.png)
-![Power BI Service](images/powerbiservice3.png)
-![Power BI Service](images/powerbiservice4.png)
-![Power BI Service](images/powerbiservice5.png)
+![Power BI Service](images/powerbi_service_2.png)
+![Power BI Service](images/powerbi_service_3.png)
+![Power BI Service](images/powerbi_service_4.png)
+![Power BI Service](images/powerbi_service_5.png)
 
 
 ---
