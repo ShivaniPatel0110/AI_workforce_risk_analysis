@@ -85,31 +85,6 @@ Dynamic insights using DAX:
 
 ---
 
-workforce-analytics/
-│
-├── data/
-│ └── workforce_dataset.csv
-│
-├── notebooks/
-│ └── data_cleaning.ipynb
-│
-├── dashboard/
-│ ├── main_dashboard.png
-│ ├── ai_insights.png
-│ ├── aws_s3.png
-│ └── powerbi_service.png
-│
-├── powerbi/
-│ └── workforce_dashboard.pbix
-│
-├── aws/
-└── s3_setup_steps.txt
-
----
-
-
----
-
 ## 📸 Dashboard Preview
 
 ### 📊 Main Dashboard
