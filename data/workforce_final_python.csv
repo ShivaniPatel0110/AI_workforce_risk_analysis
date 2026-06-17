@@ -1,0 +1,1471 @@
+department,job_role,salary,overtime,overtime_hours,hours_worked,projects_handled,performance_rating,productivity_score,years_at_company,attrition,hourly_rate,overtime_cost,efficiency_score,high_risk
+Sales,Sales Executive,5993.0,Yes,15.0,55.0,8,3.0,0.6,6,Yes,37.45625,561.84375,0.0375,1
+Research & Development,Research Scientist,5130.0,No,5.0,45.0,8,4.0,0.8,10,No,32.0625,160.3125,0.13333333333333333,0
+Research & Development,Laboratory Technician,2090.0,Yes,15.0,55.0,3,3.0,0.6,0,Yes,13.0625,195.9375,0.0375,1
+Research & Development,Research Scientist,2909.0,Yes,15.0,55.0,7,3.0,0.6,8,No,18.18125,272.71875,0.0375,1
+Research & Development,Laboratory Technician,3468.0,No,5.0,45.0,6,3.0,0.6,2,No,21.675,108.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3068.0,No,5.0,45.0,8,3.0,0.6,7,No,19.175,95.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2670.0,Yes,15.0,55.0,7,4.0,0.8,1,No,16.6875,250.3125,0.05,0
+Research & Development,Laboratory Technician,2693.0,No,5.0,45.0,5,4.0,0.8,1,No,16.83125,84.15625,0.13333333333333333,0
+Research & Development,Manufacturing Director,9526.0,No,5.0,45.0,8,4.0,0.8,9,No,59.5375,297.6875,0.13333333333333333,0
+Research & Development,Healthcare Representative,5237.0,No,5.0,45.0,7,3.0,0.6,7,No,32.73125,163.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2426.0,No,5.0,45.0,6,3.0,0.6,5,No,15.1625,75.8125,0.09999999999999999,0
+Research & Development,Laboratory Technician,4193.0,Yes,15.0,55.0,5,3.0,0.6,9,No,26.20625,393.09375,0.0375,1
+Research & Development,Research Scientist,2911.0,No,5.0,45.0,6,3.0,0.6,5,No,18.19375,90.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2661.0,No,5.0,45.0,4,3.0,0.6,2,No,16.63125,83.15625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2028.0,Yes,15.0,55.0,3,3.0,0.6,4,Yes,12.675,190.125,0.0375,1
+Research & Development,Manufacturing Director,9980.0,No,5.0,45.0,5,3.0,0.6,10,No,62.375,311.875,0.09999999999999999,0
+Research & Development,Research Scientist,3298.0,Yes,15.0,55.0,6,3.0,0.6,6,No,20.6125,309.1875,0.0375,1
+Research & Development,Laboratory Technician,2935.0,Yes,15.0,55.0,3,3.0,0.6,1,No,18.34375,275.15625,0.0375,1
+Sales,Manager,15427.0,No,5.0,45.0,6,3.0,0.6,25,No,96.41875,482.09375,0.09999999999999999,0
+Research & Development,Research Scientist,3944.0,Yes,15.0,55.0,7,3.0,0.6,3,No,24.65,369.75,0.0375,1
+Research & Development,Manufacturing Director,4011.0,No,5.0,45.0,4,3.0,0.6,4,No,25.06875,125.34375,0.09999999999999999,0
+Sales,Sales Representative,3407.0,No,5.0,45.0,8,4.0,0.8,5,Yes,21.29375,106.46875,0.13333333333333333,0
+Research & Development,Research Director,11994.0,No,5.0,45.0,3,3.0,0.6,12,No,74.9625,374.8125,0.09999999999999999,0
+Research & Development,Research Scientist,1232.0,No,5.0,45.0,4,3.0,0.6,0,No,7.7,38.5,0.09999999999999999,0
+Research & Development,Research Scientist,2960.0,No,5.0,45.0,7,3.0,0.6,4,Yes,18.5,92.5,0.09999999999999999,0
+Research & Development,Manager,19094.0,No,5.0,45.0,3,3.0,0.6,14,No,119.3375,596.6875,0.09999999999999999,0
+Research & Development,Research Scientist,3919.0,Yes,15.0,55.0,5,4.0,0.8,10,Yes,24.49375,367.40625,0.05,0
+Sales,Sales Executive,6825.0,No,5.0,45.0,3,3.0,0.6,9,No,42.65625,213.28125,0.09999999999999999,0
+Research & Development,Healthcare Representative,10248.0,No,5.0,45.0,7,3.0,0.6,22,No,64.05,320.25,0.09999999999999999,0
+Sales,Manager,18947.0,No,5.0,45.0,4,3.0,0.6,2,No,118.41875,592.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2496.0,No,5.0,45.0,4,3.0,0.6,1,No,15.6,78.0,0.09999999999999999,0
+Research & Development,Healthcare Representative,6465.0,Yes,15.0,55.0,8,3.0,0.6,4,No,40.40625,606.09375,0.0375,1
+Research & Development,Laboratory Technician,2206.0,No,5.0,45.0,3,3.0,0.6,10,No,13.7875,68.9375,0.09999999999999999,0
+Sales,Sales Representative,2086.0,No,5.0,45.0,3,3.0,0.6,1,Yes,13.0375,65.1875,0.09999999999999999,0
+Research & Development,Research Scientist,2293.0,Yes,15.0,55.0,6,3.0,0.6,2,Yes,14.33125,214.96875,0.0375,1
+Research & Development,Research Scientist,2645.0,No,5.0,45.0,7,3.0,0.6,5,No,16.53125,82.65625,0.09999999999999999,0
+Sales,Sales Representative,2683.0,Yes,15.0,55.0,4,3.0,0.6,3,Yes,16.76875,251.53125,0.0375,1
+Sales,Sales Representative,2014.0,No,5.0,45.0,8,3.0,0.6,2,No,12.5875,62.9375,0.09999999999999999,0
+Research & Development,Research Scientist,3419.0,Yes,15.0,55.0,4,3.0,0.6,1,No,21.36875,320.53125,0.0375,1
+Sales,Sales Executive,5376.0,No,5.0,45.0,8,3.0,0.6,5,No,33.6,168.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,1951.0,No,5.0,45.0,8,3.0,0.6,1,No,12.19375,60.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2341.0,No,5.0,45.0,6,3.0,0.6,1,No,14.63125,73.15625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2293.0,No,5.0,45.0,4,3.0,0.6,1,Yes,14.33125,71.65625,0.09999999999999999,0
+Sales,Sales Executive,8726.0,No,5.0,45.0,8,3.0,0.6,9,No,54.5375,272.6875,0.09999999999999999,0
+Research & Development,Laboratory Technician,4011.0,No,5.0,45.0,4,4.0,0.8,12,No,25.06875,125.34375,0.13333333333333333,0
+Research & Development,Research Director,19545.0,No,5.0,45.0,4,3.0,0.6,22,Yes,122.15625,610.78125,0.09999999999999999,0
+Sales,Sales Executive,4568.0,No,5.0,45.0,5,4.0,0.8,9,No,28.55,142.75,0.13333333333333333,0
+Research & Development,Research Scientist,3022.0,No,5.0,45.0,3,4.0,0.8,1,No,18.8875,94.4375,0.13333333333333333,0
+Sales,Sales Executive,5772.0,Yes,15.0,55.0,7,4.0,0.8,9,No,36.075,541.125,0.05,0
+Research & Development,Laboratory Technician,2269.0,No,5.0,45.0,8,3.0,0.6,1,No,14.18125,70.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5381.0,Yes,15.0,55.0,7,3.0,0.6,1,Yes,33.63125,504.46875,0.0375,1
+Research & Development,Laboratory Technician,3441.0,Yes,15.0,55.0,3,3.0,0.6,2,Yes,21.50625,322.59375,0.0375,1
+Sales,Sales Executive,5454.0,Yes,15.0,55.0,8,4.0,0.8,4,No,34.0875,511.3125,0.05,0
+Research & Development,Healthcare Representative,9884.0,Yes,15.0,55.0,8,3.0,0.6,4,No,61.775,926.625,0.0375,1
+Sales,Sales Executive,4157.0,Yes,15.0,55.0,4,3.0,0.6,2,No,25.98125,389.71875,0.0375,1
+Research & Development,Research Director,13458.0,Yes,15.0,55.0,6,3.0,0.6,15,No,84.1125,1261.6875,0.0375,1
+Sales,Sales Executive,9069.0,No,5.0,45.0,4,4.0,0.8,9,No,56.68125,283.40625,0.13333333333333333,0
+Research & Development,Laboratory Technician,4014.0,Yes,15.0,55.0,4,3.0,0.6,2,No,25.0875,376.3125,0.0375,1
+Research & Development,Laboratory Technician,5915.0,No,5.0,45.0,3,4.0,0.8,7,No,36.96875,184.84375,0.13333333333333333,0
+Research & Development,Manufacturing Director,5993.0,No,5.0,45.0,3,3.0,0.6,7,No,37.45625,187.28125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6162.0,Yes,15.0,55.0,5,4.0,0.8,9,No,38.5125,577.6875,0.05,0
+Research & Development,Laboratory Technician,2406.0,No,5.0,45.0,5,3.0,0.6,10,No,15.0375,75.1875,0.09999999999999999,0
+Research & Development,Research Director,18740.0,Yes,15.0,55.0,8,3.0,0.6,27,No,117.125,1756.875,0.0375,1
+Sales,Sales Executive,7637.0,No,5.0,45.0,6,3.0,0.6,21,No,47.73125,238.65625,0.09999999999999999,0
+Research & Development,Healthcare Representative,10096.0,No,5.0,45.0,6,3.0,0.6,17,No,63.1,315.5,0.09999999999999999,0
+Research & Development,Manager,14756.0,Yes,15.0,55.0,4,3.0,0.6,5,No,92.225,1383.375,0.0375,1
+Research & Development,Manufacturing Director,6499.0,No,5.0,45.0,5,3.0,0.6,6,No,40.61875,203.09375,0.09999999999999999,0
+Research & Development,Research Scientist,9724.0,No,5.0,45.0,7,3.0,0.6,1,No,60.775,303.875,0.09999999999999999,0
+Research & Development,Research Scientist,2194.0,No,5.0,45.0,8,3.0,0.6,3,No,13.7125,68.5625,0.09999999999999999,0
+Research & Development,Research Scientist,3388.0,Yes,15.0,55.0,5,3.0,0.6,1,Yes,21.175,317.625,0.0375,1
+Sales,Sales Executive,5473.0,No,5.0,45.0,5,3.0,0.6,4,No,34.20625,171.03125,0.09999999999999999,0
+Research & Development,Research Scientist,2703.0,No,5.0,45.0,8,4.0,0.8,5,No,16.89375,84.46875,0.13333333333333333,0
+Research & Development,Research Scientist,2501.0,No,5.0,45.0,8,3.0,0.6,1,No,15.63125,78.15625,0.09999999999999999,0
+Research & Development,Research Scientist,6220.0,No,5.0,45.0,8,3.0,0.6,10,No,38.875,194.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3038.0,No,5.0,45.0,7,3.0,0.6,1,No,18.9875,94.9375,0.09999999999999999,0
+Research & Development,Manufacturing Director,4424.0,No,5.0,45.0,6,4.0,0.8,11,No,27.65,138.25,0.13333333333333333,0
+Sales,Sales Executive,4312.0,No,5.0,45.0,4,3.0,0.6,15,No,26.95,134.75,0.09999999999999999,0
+Research & Development,Research Director,13245.0,Yes,15.0,55.0,3,3.0,0.6,0,No,82.78125,1241.71875,0.0375,1
+Research & Development,Research Director,13664.0,No,5.0,45.0,4,3.0,0.6,5,No,85.4,427.0,0.09999999999999999,0
+Human Resources,Human Resources,5021.0,Yes,15.0,55.0,3,4.0,0.8,4,No,31.38125,470.71875,0.05,0
+Research & Development,Laboratory Technician,5126.0,Yes,15.0,55.0,5,3.0,0.6,10,No,32.0375,480.5625,0.0375,1
+Research & Development,Research Scientist,2859.0,No,5.0,45.0,4,3.0,0.6,6,No,17.86875,89.34375,0.09999999999999999,0
+Sales,Sales Executive,10239.0,No,5.0,45.0,7,3.0,0.6,1,No,63.99375,319.96875,0.09999999999999999,0
+Research & Development,Research Scientist,5329.0,Yes,15.0,55.0,3,3.0,0.6,13,No,33.30625,499.59375,0.0375,1
+Research & Development,Manufacturing Director,4325.0,No,5.0,45.0,5,3.0,0.6,5,No,27.03125,135.15625,0.09999999999999999,0
+Research & Development,Manufacturing Director,7260.0,No,5.0,45.0,8,3.0,0.6,6,No,45.375,226.875,0.09999999999999999,0
+Sales,Sales Representative,2322.0,No,5.0,45.0,6,3.0,0.6,0,No,14.5125,72.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2075.0,No,5.0,45.0,7,4.0,0.8,4,No,12.96875,64.84375,0.13333333333333333,0
+Research & Development,Healthcare Representative,4152.0,No,5.0,45.0,4,3.0,0.6,11,No,25.95,129.75,0.09999999999999999,0
+Sales,Sales Executive,9619.0,No,5.0,45.0,4,3.0,0.6,9,Yes,60.11875,300.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,13503.0,No,5.0,45.0,8,4.0,0.8,22,No,84.39375,421.96875,0.13333333333333333,0
+Sales,Sales Executive,5441.0,Yes,15.0,55.0,4,4.0,0.8,10,No,34.00625,510.09375,0.05,0
+Sales,Sales Executive,5209.0,Yes,15.0,55.0,5,3.0,0.6,11,No,32.55625,488.34375,0.0375,1
+Research & Development,Healthcare Representative,10673.0,Yes,15.0,55.0,8,3.0,0.6,10,No,66.70625,1000.59375,0.0375,1
+Sales,Sales Executive,5010.0,No,5.0,45.0,8,3.0,0.6,11,No,31.3125,156.5625,0.09999999999999999,0
+Research & Development,Research Director,13549.0,No,5.0,45.0,5,3.0,0.6,4,No,84.68125,423.40625,0.09999999999999999,0
+Sales,Sales Executive,4999.0,No,5.0,45.0,5,4.0,0.8,3,No,31.24375,156.21875,0.13333333333333333,0
+Sales,Sales Executive,4221.0,No,5.0,45.0,7,3.0,0.6,5,No,26.38125,131.90625,0.09999999999999999,0
+Sales,Sales Executive,13872.0,No,5.0,45.0,7,3.0,0.6,37,No,86.7,433.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,2042.0,No,5.0,45.0,3,3.0,0.6,3,No,12.7625,63.8125,0.09999999999999999,0
+Human Resources,Human Resources,2073.0,Yes,15.0,55.0,6,4.0,0.8,3,Yes,12.95625,194.34375,0.05,0
+Research & Development,Research Scientist,2956.0,No,5.0,45.0,5,3.0,0.6,1,No,18.475,92.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2926.0,Yes,15.0,55.0,4,3.0,0.6,1,Yes,18.2875,274.3125,0.0375,1
+Research & Development,Research Scientist,4809.0,No,5.0,45.0,7,3.0,0.6,16,No,30.05625,150.28125,0.09999999999999999,0
+Research & Development,Healthcare Representative,5163.0,No,5.0,45.0,7,3.0,0.6,1,No,32.26875,161.34375,0.09999999999999999,0
+Human Resources,Manager,18844.0,No,5.0,45.0,8,4.0,0.8,3,No,117.775,588.875,0.13333333333333333,0
+Research & Development,Research Director,18172.0,Yes,15.0,55.0,7,3.0,0.6,8,No,113.575,1703.625,0.0375,1
+Sales,Sales Executive,5744.0,Yes,15.0,55.0,5,3.0,0.6,6,Yes,35.9,538.5,0.0375,1
+Research & Development,Research Scientist,2889.0,No,5.0,45.0,6,3.0,0.6,2,No,18.05625,90.28125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2871.0,No,5.0,45.0,5,3.0,0.6,0,No,17.94375,89.71875,0.09999999999999999,0
+Research & Development,Healthcare Representative,7484.0,No,5.0,45.0,8,4.0,0.8,13,No,46.775,233.875,0.13333333333333333,0
+Research & Development,Laboratory Technician,6074.0,Yes,15.0,55.0,8,4.0,0.8,9,Yes,37.9625,569.4375,0.05,0
+Human Resources,Manager,17328.0,Yes,15.0,55.0,4,3.0,0.6,5,No,108.3,1624.5,0.0375,1
+Research & Development,Laboratory Technician,2774.0,No,5.0,45.0,7,3.0,0.6,5,No,17.3375,86.6875,0.09999999999999999,0
+Research & Development,Research Scientist,4505.0,No,5.0,45.0,5,3.0,0.6,1,No,28.15625,140.78125,0.09999999999999999,0
+Sales,Sales Executive,7428.0,No,5.0,45.0,5,3.0,0.6,5,No,46.425,232.125,0.09999999999999999,0
+Research & Development,Manager,11631.0,No,5.0,45.0,6,3.0,0.6,11,No,72.69375,363.46875,0.09999999999999999,0
+Sales,Sales Executive,9738.0,No,5.0,45.0,4,3.0,0.6,9,No,60.8625,304.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2835.0,No,5.0,45.0,5,4.0,0.8,1,No,17.71875,88.59375,0.13333333333333333,0
+Sales,Manager,16959.0,Yes,15.0,55.0,4,3.0,0.6,25,No,105.99375,1589.90625,0.0375,1
+Research & Development,Research Scientist,2613.0,No,5.0,45.0,6,4.0,0.8,10,No,16.33125,81.65625,0.13333333333333333,0
+Sales,Sales Executive,6146.0,No,5.0,45.0,7,3.0,0.6,7,No,38.4125,192.0625,0.09999999999999999,0
+Research & Development,Research Scientist,4963.0,Yes,15.0,55.0,3,3.0,0.6,5,Yes,31.01875,465.28125,0.0375,1
+Research & Development,Research Director,19537.0,No,5.0,45.0,7,3.0,0.6,20,No,122.10625,610.53125,0.09999999999999999,0
+Sales,Sales Executive,6172.0,Yes,15.0,55.0,4,3.0,0.6,7,Yes,38.575,578.625,0.0375,1
+Research & Development,Research Scientist,2368.0,No,5.0,45.0,7,3.0,0.6,5,No,14.8,74.0,0.09999999999999999,0
+Research & Development,Healthcare Representative,10312.0,No,5.0,45.0,3,3.0,0.6,40,Yes,64.45,322.25,0.09999999999999999,0
+Sales,Sales Representative,1675.0,Yes,15.0,55.0,4,3.0,0.6,0,Yes,10.46875,157.03125,0.0375,1
+Research & Development,Laboratory Technician,2523.0,No,5.0,45.0,5,3.0,0.6,2,No,15.76875,78.84375,0.09999999999999999,0
+Research & Development,Manufacturing Director,6567.0,No,5.0,45.0,3,3.0,0.6,15,No,41.04375,205.21875,0.09999999999999999,0
+Research & Development,Research Scientist,4739.0,No,5.0,45.0,8,3.0,0.6,3,No,29.61875,148.09375,0.09999999999999999,0
+Sales,Sales Executive,9208.0,No,5.0,45.0,8,3.0,0.6,2,No,57.55,287.75,0.09999999999999999,0
+Sales,Sales Executive,4559.0,Yes,15.0,55.0,3,3.0,0.6,2,Yes,28.49375,427.40625,0.0375,1
+Sales,Sales Executive,8189.0,Yes,15.0,55.0,3,3.0,0.6,9,No,51.18125,767.71875,0.0375,1
+Human Resources,Human Resources,2942.0,No,5.0,45.0,5,4.0,0.8,8,No,18.3875,91.9375,0.13333333333333333,0
+Research & Development,Manufacturing Director,4941.0,No,5.0,45.0,3,4.0,0.8,3,No,30.88125,154.40625,0.13333333333333333,0
+Research & Development,Manufacturing Director,10650.0,No,5.0,45.0,5,3.0,0.6,4,Yes,66.5625,332.8125,0.09999999999999999,0
+Sales,Sales Executive,5902.0,No,5.0,45.0,5,3.0,0.6,15,No,36.8875,184.4375,0.09999999999999999,0
+Sales,Sales Executive,8639.0,No,5.0,45.0,3,3.0,0.6,2,No,53.99375,269.96875,0.09999999999999999,0
+Human Resources,Human Resources,6347.0,Yes,15.0,55.0,8,3.0,0.6,11,No,39.66875,595.03125,0.0375,1
+Research & Development,Laboratory Technician,4200.0,No,5.0,45.0,8,4.0,0.8,5,Yes,26.25,131.25,0.13333333333333333,0
+Research & Development,Research Scientist,3452.0,No,5.0,45.0,7,3.0,0.6,6,No,21.575,107.875,0.09999999999999999,0
+Research & Development,Research Scientist,4317.0,Yes,15.0,55.0,5,4.0,0.8,3,No,26.98125,404.71875,0.05,0
+Research & Development,Research Scientist,2632.0,No,5.0,45.0,7,3.0,0.6,5,No,16.45,82.25,0.09999999999999999,0
+Sales,Sales Executive,4668.0,No,5.0,45.0,6,3.0,0.6,8,No,29.175,145.875,0.09999999999999999,0
+Research & Development,Research Scientist,3204.0,No,5.0,45.0,5,3.0,0.6,3,No,20.025,100.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2720.0,No,5.0,45.0,4,3.0,0.6,5,No,17.0,85.0,0.09999999999999999,0
+Research & Development,Manager,17181.0,No,5.0,45.0,5,3.0,0.6,7,No,107.38125,536.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2238.0,No,5.0,45.0,5,4.0,0.8,5,No,13.9875,69.9375,0.13333333333333333,0
+Research & Development,Laboratory Technician,1483.0,No,5.0,45.0,3,3.0,0.6,1,No,9.26875,46.34375,0.09999999999999999,0
+Research & Development,Research Scientist,5605.0,No,5.0,45.0,7,3.0,0.6,20,No,35.03125,175.15625,0.09999999999999999,0
+Sales,Sales Executive,7295.0,No,5.0,45.0,4,3.0,0.6,10,No,45.59375,227.96875,0.09999999999999999,0
+Sales,Sales Representative,2306.0,Yes,15.0,55.0,3,4.0,0.8,7,No,14.4125,216.1875,0.05,0
+Research & Development,Laboratory Technician,2348.0,No,5.0,45.0,6,3.0,0.6,17,No,14.675,73.375,0.09999999999999999,0
+Sales,Sales Executive,8998.0,No,5.0,45.0,3,3.0,0.6,9,No,56.2375,281.1875,0.09999999999999999,0
+Research & Development,Manufacturing Director,4319.0,No,5.0,45.0,5,3.0,0.6,10,No,26.99375,134.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,6132.0,No,5.0,45.0,5,3.0,0.6,1,No,38.325,191.625,0.09999999999999999,0
+Research & Development,Research Scientist,3346.0,Yes,15.0,55.0,3,4.0,0.8,1,No,20.9125,313.6875,0.05,0
+Sales,Sales Executive,10855.0,No,5.0,45.0,8,3.0,0.6,12,No,67.84375,339.21875,0.09999999999999999,0
+Sales,Sales Representative,2231.0,No,5.0,45.0,8,3.0,0.6,4,No,13.94375,69.71875,0.09999999999999999,0
+Research & Development,Research Scientist,2323.0,No,5.0,45.0,5,4.0,0.8,2,No,14.51875,72.59375,0.13333333333333333,0
+Research & Development,Research Scientist,2024.0,No,5.0,45.0,4,3.0,0.6,2,No,12.65,63.25,0.09999999999999999,0
+Research & Development,Research Scientist,2713.0,No,5.0,45.0,6,3.0,0.6,5,No,16.95625,84.78125,0.09999999999999999,0
+Research & Development,Healthcare Representative,9439.0,Yes,15.0,55.0,7,3.0,0.6,5,No,58.99375,884.90625,0.0375,1
+Research & Development,Research Scientist,2566.0,Yes,15.0,55.0,3,3.0,0.6,1,No,16.0375,240.56250000000003,0.0375,1
+Research & Development,Manager,19926.0,No,5.0,45.0,5,3.0,0.6,5,No,124.5375,622.6875,0.09999999999999999,0
+Research & Development,Research Scientist,2451.0,No,5.0,45.0,6,3.0,0.6,9,No,15.31875,76.59375,0.09999999999999999,0
+Sales,Sales Executive,9419.0,No,5.0,45.0,6,3.0,0.6,10,No,58.86875,294.34375,0.09999999999999999,0
+Sales,Sales Executive,8686.0,No,5.0,45.0,5,4.0,0.8,8,No,54.2875,271.4375,0.13333333333333333,0
+Research & Development,Research Scientist,3038.0,No,5.0,45.0,3,4.0,0.8,5,No,18.9875,94.9375,0.13333333333333333,0
+Research & Development,Research Scientist,3058.0,Yes,15.0,55.0,4,3.0,0.6,5,No,19.1125,286.6875,0.0375,1
+Sales,Sales Representative,2325.0,No,5.0,45.0,3,4.0,0.8,0,Yes,14.53125,72.65625,0.13333333333333333,0
+Research & Development,Laboratory Technician,2088.0,No,5.0,45.0,6,3.0,0.6,8,No,13.05,65.25,0.09999999999999999,0
+Research & Development,Laboratory Technician,3072.0,No,5.0,45.0,4,3.0,0.6,12,No,19.2,96.0,0.09999999999999999,0
+Sales,Sales Executive,5006.0,Yes,15.0,55.0,4,3.0,0.6,5,No,31.2875,469.3125,0.0375,1
+Research & Development,Research Scientist,4257.0,Yes,15.0,55.0,7,3.0,0.6,2,No,26.60625,399.09375,0.0375,1
+Research & Development,Research Scientist,2500.0,No,5.0,45.0,7,3.0,0.6,3,No,15.625,78.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,1102.0,No,5.0,45.0,7,4.0,0.8,1,Yes,6.8875,34.4375,0.13333333333333333,0
+Sales,Sales Executive,10453.0,No,5.0,45.0,8,4.0,0.8,24,No,65.33125,326.65625,0.13333333333333333,0
+Research & Development,Laboratory Technician,2288.0,No,5.0,45.0,4,3.0,0.6,2,No,14.3,71.5,0.09999999999999999,0
+Research & Development,Research Scientist,3929.0,Yes,15.0,55.0,5,4.0,0.8,4,No,24.55625,368.34375,0.05,0
+Research & Development,Research Scientist,2311.0,No,5.0,45.0,6,3.0,0.6,3,No,14.44375,72.21875,0.09999999999999999,0
+Sales,Sales Representative,3140.0,Yes,15.0,55.0,7,4.0,0.8,4,Yes,19.625,294.375,0.05,0
+Research & Development,Laboratory Technician,3690.0,No,5.0,45.0,6,3.0,0.6,3,No,23.0625,115.3125,0.09999999999999999,0
+Research & Development,Manufacturing Director,4450.0,No,5.0,45.0,7,3.0,0.6,4,No,27.8125,139.0625,0.09999999999999999,0
+Research & Development,Research Scientist,2756.0,No,5.0,45.0,4,3.0,0.6,8,No,17.225,86.125,0.09999999999999999,0
+Research & Development,Manager,19033.0,No,5.0,45.0,5,3.0,0.6,20,No,118.95625,594.78125,0.09999999999999999,0
+Research & Development,Research Director,18722.0,No,5.0,45.0,8,3.0,0.6,24,No,117.0125,585.0625,0.09999999999999999,0
+Research & Development,Manufacturing Director,9547.0,No,5.0,45.0,6,3.0,0.6,10,No,59.66875,298.34375,0.09999999999999999,0
+Research & Development,Healthcare Representative,13734.0,No,5.0,45.0,5,3.0,0.6,7,No,85.8375,429.1875,0.09999999999999999,0
+Research & Development,Manager,19999.0,No,5.0,45.0,7,3.0,0.6,33,No,124.99375,624.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2279.0,No,5.0,45.0,7,3.0,0.6,7,No,14.24375,71.21875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5916.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,36.975,554.625,0.0375,1
+Research & Development,Research Scientist,2089.0,No,5.0,45.0,3,3.0,0.6,5,No,13.05625,65.28125,0.09999999999999999,0
+Research & Development,Manager,16792.0,No,5.0,45.0,5,4.0,0.8,20,No,104.95,524.75,0.13333333333333333,0
+Research & Development,Research Scientist,3564.0,Yes,15.0,55.0,6,3.0,0.6,8,No,22.275,334.125,0.0375,1
+Research & Development,Laboratory Technician,4425.0,No,5.0,45.0,4,3.0,0.6,6,No,27.65625,138.28125,0.09999999999999999,0
+Research & Development,Manufacturing Director,5265.0,No,5.0,45.0,5,3.0,0.6,5,No,32.90625,164.53125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6553.0,No,5.0,45.0,7,3.0,0.6,1,No,40.95625,204.78125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6261.0,No,5.0,45.0,6,3.0,0.6,7,No,39.13125,195.65625,0.09999999999999999,0
+Research & Development,Manufacturing Director,4298.0,No,5.0,45.0,7,3.0,0.6,2,No,26.8625,134.3125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6804.0,Yes,15.0,55.0,3,3.0,0.6,7,No,42.525,637.875,0.0375,1
+Research & Development,Research Scientist,3815.0,Yes,15.0,55.0,4,3.0,0.6,5,No,23.84375,357.65625,0.0375,1
+Research & Development,Laboratory Technician,2741.0,Yes,15.0,55.0,3,3.0,0.6,7,No,17.13125,256.96875,0.0375,1
+Research & Development,Healthcare Representative,6673.0,Yes,15.0,55.0,6,3.0,0.6,1,Yes,41.70625,625.59375,0.0375,1
+Sales,Sales Executive,7639.0,No,5.0,45.0,6,4.0,0.8,10,Yes,47.74375,238.71875,0.13333333333333333,0
+Research & Development,Research Scientist,2328.0,Yes,15.0,55.0,7,3.0,0.6,4,No,14.55,218.25,0.0375,1
+Research & Development,Laboratory Technician,2153.0,No,5.0,45.0,3,3.0,0.6,8,No,13.45625,67.28125,0.09999999999999999,0
+Research & Development,Healthcare Representative,4876.0,No,5.0,45.0,5,3.0,0.6,3,No,30.475,152.375,0.09999999999999999,0
+Research & Development,Healthcare Representative,9396.0,No,5.0,45.0,5,3.0,0.6,4,No,58.725,293.625,0.09999999999999999,0
+Sales,Sales Executive,10400.0,No,5.0,45.0,5,3.0,0.6,14,Yes,65.0,325.0,0.09999999999999999,0
+Research & Development,Manufacturing Director,8474.0,No,5.0,45.0,4,4.0,0.8,11,No,52.9625,264.8125,0.13333333333333333,0
+Sales,Sales Executive,9981.0,No,5.0,45.0,8,3.0,0.6,7,No,62.38125,311.90625,0.09999999999999999,0
+Research & Development,Research Director,12490.0,No,5.0,45.0,6,3.0,0.6,10,No,78.0625,390.3125,0.09999999999999999,0
+Research & Development,Research Scientist,2657.0,Yes,15.0,55.0,4,3.0,0.6,5,Yes,16.60625,249.09375,0.0375,1
+Sales,Manager,13591.0,Yes,15.0,55.0,6,3.0,0.6,1,No,84.94375,1274.15625,0.0375,1
+Sales,Sales Executive,6696.0,No,5.0,45.0,8,3.0,0.6,6,Yes,41.85,209.25,0.09999999999999999,0
+Research & Development,Research Scientist,2058.0,No,5.0,45.0,7,3.0,0.6,6,Yes,12.8625,64.3125,0.09999999999999999,0
+Sales,Sales Executive,8865.0,No,5.0,45.0,7,3.0,0.6,19,No,55.40625,277.03125,0.09999999999999999,0
+Sales,Sales Executive,5940.0,No,5.0,45.0,8,3.0,0.6,6,No,37.125,185.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5914.0,No,5.0,45.0,7,3.0,0.6,13,No,36.9625,184.8125,0.09999999999999999,0
+Research & Development,Research Scientist,2622.0,No,5.0,45.0,3,4.0,0.8,3,No,16.3875,81.9375,0.13333333333333333,0
+Research & Development,Research Director,12185.0,Yes,15.0,55.0,6,3.0,0.6,10,No,76.15625,1142.34375,0.0375,1
+Sales,Sales Executive,10609.0,No,5.0,45.0,6,3.0,0.6,16,No,66.30625,331.53125,0.09999999999999999,0
+Research & Development,Manufacturing Director,4345.0,No,5.0,45.0,4,3.0,0.6,5,No,27.15625,135.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2177.0,No,5.0,45.0,8,3.0,0.6,1,No,13.60625,68.03125,0.09999999999999999,0
+Sales,Sales Representative,2793.0,No,5.0,45.0,8,3.0,0.6,9,No,17.45625,87.28125,0.09999999999999999,0
+Sales,Sales Executive,7918.0,No,5.0,45.0,6,3.0,0.6,11,No,49.4875,247.4375,0.09999999999999999,0
+Sales,Sales Executive,8789.0,No,5.0,45.0,4,3.0,0.6,10,No,54.93125,274.65625,0.09999999999999999,0
+Research & Development,Research Scientist,2389.0,Yes,15.0,55.0,8,3.0,0.6,4,Yes,14.93125,223.96875,0.0375,1
+Research & Development,Laboratory Technician,3212.0,No,5.0,45.0,8,3.0,0.6,2,No,20.075,100.375,0.09999999999999999,0
+Research & Development,Manager,19232.0,No,5.0,45.0,7,3.0,0.6,22,No,120.2,601.0,0.09999999999999999,0
+Human Resources,Human Resources,2267.0,No,5.0,45.0,3,3.0,0.6,2,No,14.16875,70.84375,0.09999999999999999,0
+Sales,Manager,19517.0,No,5.0,45.0,8,3.0,0.6,7,No,121.98125,609.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2436.0,Yes,15.0,55.0,5,3.0,0.6,5,Yes,15.225,228.375,0.0375,1
+Sales,Manager,16064.0,Yes,15.0,55.0,3,4.0,0.8,17,No,100.4,1506.0,0.05,0
+Research & Development,Laboratory Technician,2707.0,No,5.0,45.0,3,4.0,0.8,9,Yes,16.91875,84.59375,0.13333333333333333,0
+Sales,Manager,19068.0,Yes,15.0,55.0,3,3.0,0.6,33,No,119.175,1787.625,0.0375,1
+Sales,Sales Representative,3931.0,No,5.0,45.0,7,3.0,0.6,4,No,24.56875,122.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3730.0,Yes,15.0,55.0,4,3.0,0.6,3,Yes,23.3125,349.6875,0.0375,1
+Research & Development,Laboratory Technician,2232.0,No,5.0,45.0,8,3.0,0.6,3,No,13.95,69.75,0.09999999999999999,0
+Sales,Sales Executive,4465.0,No,5.0,45.0,6,3.0,0.6,3,No,27.90625,139.53125,0.09999999999999999,0
+Research & Development,Research Scientist,3072.0,No,5.0,45.0,6,3.0,0.6,1,No,19.2,96.0,0.09999999999999999,0
+Research & Development,Research Scientist,3319.0,No,5.0,45.0,5,3.0,0.6,9,No,20.74375,103.71875,0.09999999999999999,0
+Research & Development,Manager,19202.0,No,5.0,45.0,6,3.0,0.6,24,No,120.0125,600.0625,0.09999999999999999,0
+Research & Development,Research Director,13675.0,No,5.0,45.0,5,3.0,0.6,2,No,85.46875,427.34375,0.09999999999999999,0
+Research & Development,Research Scientist,2911.0,No,5.0,45.0,4,3.0,0.6,2,No,18.19375,90.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5957.0,No,5.0,45.0,8,3.0,0.6,11,No,37.23125,186.15625,0.09999999999999999,0
+Research & Development,Research Scientist,3920.0,No,5.0,45.0,7,3.0,0.6,3,No,24.5,122.5,0.09999999999999999,0
+Research & Development,Manufacturing Director,6434.0,No,5.0,45.0,8,3.0,0.6,3,No,40.2125,201.0625,0.09999999999999999,0
+Research & Development,Manufacturing Director,10048.0,No,5.0,45.0,5,3.0,0.6,1,Yes,62.8,314.0,0.09999999999999999,0
+Research & Development,Healthcare Representative,10938.0,No,5.0,45.0,3,4.0,0.8,19,No,68.3625,341.8125,0.13333333333333333,0
+Research & Development,Research Scientist,2340.0,No,5.0,45.0,4,3.0,0.6,6,No,14.625,73.125,0.09999999999999999,0
+Research & Development,Research Scientist,6545.0,Yes,15.0,55.0,3,3.0,0.6,3,No,40.90625,613.59375,0.0375,1
+Sales,Sales Executive,6931.0,No,5.0,45.0,8,3.0,0.6,3,No,43.31875,216.59375,0.09999999999999999,0
+Research & Development,Manufacturing Director,4898.0,No,5.0,45.0,6,3.0,0.6,4,No,30.6125,153.0625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2593.0,Yes,15.0,55.0,6,3.0,0.6,9,No,16.20625,243.09375,0.0375,1
+Research & Development,Research Director,19436.0,No,5.0,45.0,7,3.0,0.6,21,No,121.475,607.375,0.09999999999999999,0
+Research & Development,Research Scientist,2723.0,No,5.0,45.0,6,3.0,0.6,1,No,17.01875,85.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3479.0,No,5.0,45.0,4,3.0,0.6,5,Yes,21.74375,108.71875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2794.0,No,5.0,45.0,5,4.0,0.8,5,No,17.4625,87.3125,0.13333333333333333,0
+Sales,Sales Executive,5249.0,No,5.0,45.0,7,3.0,0.6,8,No,32.80625,164.03125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2176.0,No,5.0,45.0,5,3.0,0.6,6,No,13.6,68.0,0.09999999999999999,0
+Sales,Manager,16872.0,Yes,15.0,55.0,7,3.0,0.6,7,No,105.45,1581.75,0.0375,1
+Research & Development,Laboratory Technician,3485.0,No,5.0,45.0,7,3.0,0.6,0,Yes,21.78125,108.90625,0.09999999999999999,0
+Sales,Sales Executive,6644.0,No,5.0,45.0,3,3.0,0.6,0,No,41.525,207.625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5582.0,No,5.0,45.0,6,4.0,0.8,9,No,34.8875,174.4375,0.13333333333333333,0
+Research & Development,Healthcare Representative,4000.0,No,5.0,45.0,6,3.0,0.6,6,No,25.0,125.0,0.09999999999999999,0
+Research & Development,Healthcare Representative,13496.0,Yes,15.0,55.0,3,3.0,0.6,20,No,84.35,1265.25,0.0375,1
+Research & Development,Laboratory Technician,3210.0,No,5.0,45.0,6,3.0,0.6,15,No,20.0625,100.3125,0.09999999999999999,0
+Research & Development,Manager,19045.0,Yes,15.0,55.0,5,3.0,0.6,36,No,119.03125,1785.46875,0.0375,1
+Research & Development,Manager,11849.0,Yes,15.0,55.0,6,3.0,0.6,10,Yes,74.05625,1110.84375,0.0375,1
+Research & Development,Research Scientist,2070.0,No,5.0,45.0,5,4.0,0.8,5,No,12.9375,64.6875,0.13333333333333333,0
+Sales,Sales Executive,6502.0,No,5.0,45.0,4,3.0,0.6,5,No,40.6375,203.1875,0.09999999999999999,0
+Research & Development,Research Scientist,3230.0,No,5.0,45.0,5,3.0,0.6,3,No,20.1875,100.9375,0.09999999999999999,0
+Research & Development,Research Director,13603.0,Yes,15.0,55.0,5,3.0,0.6,5,No,85.01875,1275.28125,0.0375,1
+Research & Development,Manager,11996.0,No,5.0,45.0,6,3.0,0.6,7,No,74.975,374.875,0.09999999999999999,0
+Sales,Sales Executive,5605.0,Yes,15.0,55.0,3,4.0,0.8,8,No,35.03125,525.46875,0.05,0
+Research & Development,Manufacturing Director,6397.0,No,5.0,45.0,7,4.0,0.8,6,No,39.98125,199.90625,0.13333333333333333,0
+Research & Development,Research Director,19144.0,No,5.0,45.0,5,3.0,0.6,10,No,119.65,598.25,0.09999999999999999,0
+Research & Development,Research Director,17584.0,Yes,15.0,55.0,6,3.0,0.6,5,No,109.9,1648.5,0.0375,1
+Sales,Sales Executive,4907.0,No,5.0,45.0,7,4.0,0.8,20,No,30.66875,153.34375,0.13333333333333333,0
+Sales,Sales Executive,4554.0,No,5.0,45.0,8,3.0,0.6,10,No,28.4625,142.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,5415.0,Yes,15.0,55.0,3,3.0,0.6,10,No,33.84375,507.65625,0.0375,1
+Research & Development,Healthcare Representative,4741.0,Yes,15.0,55.0,8,3.0,0.6,5,No,29.63125,444.46875,0.0375,1
+Research & Development,Research Scientist,2115.0,No,5.0,45.0,5,3.0,0.6,17,No,13.21875,66.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3161.0,Yes,15.0,55.0,3,4.0,0.8,1,Yes,19.75625,296.34375,0.05,0
+Research & Development,Healthcare Representative,5745.0,No,5.0,45.0,7,3.0,0.6,2,No,35.90625,179.53125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2373.0,Yes,15.0,55.0,5,3.0,0.6,3,Yes,14.83125,222.46875,0.0375,1
+Research & Development,Research Scientist,3310.0,No,5.0,45.0,4,4.0,0.8,5,No,20.6875,103.4375,0.13333333333333333,0
+Research & Development,Research Director,18665.0,Yes,15.0,55.0,8,3.0,0.6,3,No,116.65625,1749.84375,0.0375,1
+Research & Development,Research Scientist,4485.0,No,5.0,45.0,3,3.0,0.6,8,No,28.03125,140.15625,0.09999999999999999,0
+Sales,Sales Representative,2789.0,No,5.0,45.0,3,3.0,0.6,2,No,17.43125,87.15625,0.09999999999999999,0
+Sales,Sales Executive,5828.0,Yes,15.0,55.0,4,3.0,0.6,8,Yes,36.425,546.375,0.0375,1
+Research & Development,Research Scientist,2326.0,Yes,15.0,55.0,5,3.0,0.6,4,No,14.5375,218.0625,0.0375,1
+Sales,Sales Executive,13525.0,No,5.0,45.0,6,3.0,0.6,20,No,84.53125,422.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,1420.0,No,5.0,45.0,3,3.0,0.6,0,Yes,8.875,44.375,0.09999999999999999,0
+Sales,Sales Executive,8020.0,No,5.0,45.0,6,3.0,0.6,11,No,50.125,250.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3688.0,No,5.0,45.0,6,3.0,0.6,1,No,23.05,115.25,0.09999999999999999,0
+Research & Development,Manufacturing Director,5482.0,No,5.0,45.0,4,3.0,0.6,4,No,34.2625,171.3125,0.09999999999999999,0
+Sales,Manager,16015.0,No,5.0,45.0,5,3.0,0.6,22,No,100.09375,500.46875,0.09999999999999999,0
+Sales,Sales Representative,1200.0,No,5.0,45.0,8,3.0,0.6,0,No,7.5,37.5,0.09999999999999999,0
+Research & Development,Healthcare Representative,5661.0,No,5.0,45.0,7,3.0,0.6,8,No,35.38125,176.90625,0.09999999999999999,0
+Sales,Sales Executive,6929.0,No,5.0,45.0,5,3.0,0.6,8,No,43.30625,216.53125,0.09999999999999999,0
+Research & Development,Healthcare Representative,9613.0,No,5.0,45.0,6,3.0,0.6,18,No,60.08125,300.40625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5674.0,No,5.0,45.0,3,3.0,0.6,9,No,35.4625,177.3125,0.09999999999999999,0
+Sales,Sales Executive,5484.0,No,5.0,45.0,7,3.0,0.6,13,No,34.275,171.375,0.09999999999999999,0
+Research & Development,Research Director,12061.0,No,5.0,45.0,6,3.0,0.6,10,No,75.38125,376.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5660.0,Yes,15.0,55.0,7,3.0,0.6,5,No,35.375,530.625,0.0375,1
+Research & Development,Research Scientist,4821.0,Yes,15.0,55.0,8,3.0,0.6,5,No,30.13125,451.96875,0.0375,1
+Human Resources,Human Resources,6410.0,No,5.0,45.0,5,3.0,0.6,2,No,40.0625,200.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,5210.0,No,5.0,45.0,5,3.0,0.6,24,No,32.5625,162.8125,0.09999999999999999,0
+Research & Development,Research Scientist,2695.0,Yes,15.0,55.0,6,3.0,0.6,2,No,16.84375,252.65625,0.0375,1
+Research & Development,Manager,11878.0,No,5.0,45.0,6,3.0,0.6,10,No,74.2375,371.1875,0.09999999999999999,0
+Research & Development,Manager,17068.0,Yes,15.0,55.0,7,3.0,0.6,21,No,106.675,1600.125,0.0375,1
+Research & Development,Laboratory Technician,2455.0,No,5.0,45.0,5,3.0,0.6,8,No,15.34375,76.71875,0.09999999999999999,0
+Research & Development,Healthcare Representative,13964.0,Yes,15.0,55.0,7,3.0,0.6,7,No,87.275,1309.125,0.0375,1
+Research & Development,Research Scientist,4941.0,No,5.0,45.0,7,3.0,0.6,8,Yes,30.88125,154.40625,0.09999999999999999,0
+Research & Development,Research Scientist,2478.0,Yes,15.0,55.0,4,3.0,0.6,4,No,15.4875,232.3125,0.0375,1
+Sales,Sales Executive,5228.0,Yes,15.0,55.0,8,3.0,0.6,13,No,32.675,490.12499999999994,0.0375,1
+Sales,Sales Executive,4478.0,Yes,15.0,55.0,5,3.0,0.6,5,No,27.9875,419.8125,0.0375,1
+Sales,Sales Executive,7547.0,No,5.0,45.0,8,3.0,0.6,7,No,47.16875,235.84375,0.09999999999999999,0
+Research & Development,Research Scientist,5055.0,No,5.0,45.0,6,3.0,0.6,7,No,31.59375,157.96875,0.09999999999999999,0
+Research & Development,Research Scientist,3464.0,Yes,15.0,55.0,7,3.0,0.6,3,Yes,21.65,324.75,0.0375,1
+Research & Development,Research Scientist,5775.0,No,5.0,45.0,8,3.0,0.6,10,No,36.09375,180.46875,0.09999999999999999,0
+Research & Development,Manufacturing Director,8943.0,No,5.0,45.0,7,4.0,0.8,10,No,55.89375,279.46875,0.13333333333333333,0
+Research & Development,Manager,19272.0,No,5.0,45.0,8,3.0,0.6,21,No,120.45,602.25,0.09999999999999999,0
+Sales,Sales Executive,5238.0,Yes,15.0,55.0,4,3.0,0.6,1,Yes,32.7375,491.06249999999994,0.0375,1
+Sales,Sales Executive,4682.0,No,5.0,45.0,5,3.0,0.6,7,No,29.2625,146.3125,0.09999999999999999,0
+Research & Development,Research Director,18300.0,No,5.0,45.0,7,3.0,0.6,3,No,114.375,571.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,5257.0,No,5.0,45.0,5,3.0,0.6,9,No,32.85625,164.28125,0.09999999999999999,0
+Sales,Sales Executive,6349.0,Yes,15.0,55.0,3,3.0,0.6,5,No,39.68125,595.21875,0.0375,1
+Research & Development,Research Scientist,4869.0,No,5.0,45.0,6,3.0,0.6,4,No,30.43125,152.15625,0.09999999999999999,0
+Research & Development,Healthcare Representative,9985.0,No,5.0,45.0,5,3.0,0.6,1,No,62.40625,312.03125,0.09999999999999999,0
+Research & Development,Research Scientist,3697.0,No,5.0,45.0,8,3.0,0.6,10,No,23.10625,115.53125,0.09999999999999999,0
+Sales,Sales Executive,7457.0,Yes,15.0,55.0,6,4.0,0.8,4,No,46.60625,699.09375,0.05,0
+Research & Development,Laboratory Technician,2119.0,Yes,15.0,55.0,3,3.0,0.6,7,Yes,13.24375,198.65625,0.0375,1
+Research & Development,Laboratory Technician,3983.0,No,5.0,45.0,6,3.0,0.6,3,No,24.89375,124.46875,0.09999999999999999,0
+Sales,Sales Executive,6118.0,No,5.0,45.0,4,3.0,0.6,10,No,38.2375,191.1875,0.09999999999999999,0
+Sales,Sales Executive,6214.0,No,5.0,45.0,3,3.0,0.6,8,No,38.8375,194.1875,0.09999999999999999,0
+Research & Development,Manufacturing Director,6347.0,No,5.0,45.0,8,3.0,0.6,6,No,39.66875,198.34375,0.09999999999999999,0
+Research & Development,Research Director,11510.0,Yes,15.0,55.0,6,3.0,0.6,11,No,71.9375,1079.0625,0.0375,1
+Research & Development,Manufacturing Director,7143.0,Yes,15.0,55.0,6,3.0,0.6,11,No,44.64375,669.65625,0.0375,1
+Sales,Sales Executive,8268.0,Yes,15.0,55.0,7,3.0,0.6,7,No,51.675,775.125,0.0375,1
+Research & Development,Manufacturing Director,8095.0,No,5.0,45.0,5,3.0,0.6,16,No,50.59375,252.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2904.0,No,5.0,45.0,8,3.0,0.6,4,No,18.15,90.75,0.09999999999999999,0
+Research & Development,Manufacturing Director,6032.0,Yes,15.0,55.0,4,3.0,0.6,5,No,37.7,565.5,0.0375,1
+Sales,Sales Representative,2976.0,No,5.0,45.0,3,3.0,0.6,0,No,18.6,93.0,0.09999999999999999,0
+Research & Development,Research Director,15992.0,No,5.0,45.0,3,3.0,0.6,1,No,99.95,499.75,0.09999999999999999,0
+Sales,Sales Executive,4649.0,No,5.0,45.0,8,3.0,0.6,4,No,29.05625,145.28125,0.09999999999999999,0
+Human Resources,Human Resources,2696.0,Yes,15.0,55.0,4,3.0,0.6,3,No,16.85,252.75000000000003,0.0375,1
+Research & Development,Laboratory Technician,2370.0,No,5.0,45.0,5,3.0,0.6,8,No,14.8125,74.0625,0.09999999999999999,0
+Sales,Manager,12504.0,No,5.0,45.0,6,4.0,0.8,0,No,78.15,390.75,0.13333333333333333,0
+Research & Development,Research Scientist,5974.0,Yes,15.0,55.0,5,3.0,0.6,7,No,37.3375,560.0625,0.0375,1
+Sales,Sales Executive,4736.0,Yes,15.0,55.0,3,3.0,0.6,2,No,29.6,444.0,0.0375,1
+Sales,Sales Executive,5296.0,No,5.0,45.0,7,3.0,0.6,8,No,33.1,165.5,0.09999999999999999,0
+Research & Development,Healthcare Representative,6781.0,No,5.0,45.0,3,4.0,0.8,1,No,42.38125,211.90625,0.13333333333333333,0
+Sales,Sales Representative,2174.0,Yes,15.0,55.0,3,3.0,0.6,3,Yes,13.5875,203.8125,0.0375,1
+Sales,Sales Executive,6653.0,No,5.0,45.0,6,3.0,0.6,1,No,41.58125,207.90625,0.09999999999999999,0
+Sales,Sales Executive,9699.0,No,5.0,45.0,4,3.0,0.6,13,No,60.61875,303.09375,0.09999999999999999,0
+Research & Development,Healthcare Representative,6755.0,No,5.0,45.0,8,3.0,0.6,3,No,42.21875,211.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2213.0,Yes,15.0,55.0,3,3.0,0.6,7,No,13.83125,207.46875,0.0375,1
+Sales,Sales Representative,2610.0,No,5.0,45.0,4,4.0,0.8,3,No,16.3125,81.5625,0.13333333333333333,0
+Sales,Sales Representative,2851.0,Yes,15.0,55.0,6,3.0,0.6,1,Yes,17.81875,267.28125,0.0375,1
+Research & Development,Laboratory Technician,3452.0,No,5.0,45.0,3,4.0,0.8,5,No,21.575,107.875,0.13333333333333333,0
+Research & Development,Manufacturing Director,5258.0,No,5.0,45.0,7,3.0,0.6,1,No,32.8625,164.3125,0.09999999999999999,0
+Sales,Sales Executive,9355.0,No,5.0,45.0,8,3.0,0.6,8,Yes,58.46875,292.34375,0.09999999999999999,0
+Research & Development,Healthcare Representative,10496.0,No,5.0,45.0,4,3.0,0.6,4,No,65.6,328.0,0.09999999999999999,0
+Sales,Sales Executive,6380.0,Yes,15.0,55.0,3,3.0,0.6,6,Yes,39.875,598.125,0.0375,1
+Research & Development,Research Scientist,2657.0,Yes,15.0,55.0,6,3.0,0.6,2,No,16.60625,249.09375,0.0375,1
+Sales,Sales Representative,2716.0,No,5.0,45.0,3,3.0,0.6,1,Yes,16.975,84.875,0.09999999999999999,0
+Research & Development,Research Scientist,2201.0,No,5.0,45.0,4,3.0,0.6,3,No,13.75625,68.78125,0.09999999999999999,0
+Research & Development,Healthcare Representative,6540.0,No,5.0,45.0,6,3.0,0.6,1,No,40.875,204.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3816.0,No,5.0,45.0,5,3.0,0.6,5,No,23.85,119.25,0.09999999999999999,0
+Sales,Sales Executive,5253.0,No,5.0,45.0,6,3.0,0.6,7,No,32.83125,164.15625,0.09999999999999999,0
+Research & Development,Healthcare Representative,10965.0,No,5.0,45.0,5,4.0,0.8,5,No,68.53125,342.65625,0.13333333333333333,0
+Sales,Sales Executive,4936.0,No,5.0,45.0,5,3.0,0.6,7,No,30.85,154.25,0.09999999999999999,0
+Research & Development,Research Scientist,2543.0,No,5.0,45.0,6,3.0,0.6,2,No,15.89375,79.46875,0.09999999999999999,0
+Sales,Sales Executive,5304.0,Yes,15.0,55.0,5,3.0,0.6,5,Yes,33.15,497.25,0.0375,1
+Research & Development,Manager,16659.0,Yes,15.0,55.0,5,3.0,0.6,5,No,104.11875,1561.78125,0.0375,1
+Sales,Sales Executive,4260.0,Yes,15.0,55.0,7,3.0,0.6,5,No,26.625,399.375,0.0375,1
+Sales,Sales Representative,2476.0,No,5.0,45.0,3,3.0,0.6,1,No,15.475,77.375,0.09999999999999999,0
+Research & Development,Research Scientist,3102.0,No,5.0,45.0,5,4.0,0.8,6,Yes,19.3875,96.9375,0.13333333333333333,0
+Research & Development,Research Scientist,2244.0,No,5.0,45.0,7,3.0,0.6,2,No,14.025,70.125,0.09999999999999999,0
+Sales,Sales Executive,7596.0,No,5.0,45.0,4,3.0,0.6,10,No,47.475,237.375,0.09999999999999999,0
+Research & Development,Research Scientist,2285.0,Yes,15.0,55.0,5,4.0,0.8,1,Yes,14.28125,214.21875,0.05,0
+Research & Development,Laboratory Technician,3034.0,No,5.0,45.0,5,3.0,0.6,18,No,18.9625,94.8125,0.09999999999999999,0
+Sales,Sales Executive,5715.0,No,5.0,45.0,8,3.0,0.6,5,No,35.71875,178.59375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2576.0,No,5.0,45.0,4,3.0,0.6,5,No,16.1,80.5,0.09999999999999999,0
+Research & Development,Manufacturing Director,4197.0,Yes,15.0,55.0,7,3.0,0.6,1,No,26.23125,393.46875,0.0375,1
+Research & Development,Research Director,14336.0,No,5.0,45.0,4,3.0,0.6,25,No,89.6,448.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,3448.0,No,5.0,45.0,7,4.0,0.8,1,No,21.55,107.75,0.13333333333333333,0
+Research & Development,Research Director,19406.0,No,5.0,45.0,6,3.0,0.6,4,No,121.2875,606.4375,0.09999999999999999,0
+Sales,Sales Executive,6538.0,No,5.0,45.0,3,3.0,0.6,3,No,40.8625,204.3125,0.09999999999999999,0
+Research & Development,Manufacturing Director,4306.0,No,5.0,45.0,6,3.0,0.6,13,No,26.9125,134.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2258.0,No,5.0,45.0,7,4.0,0.8,3,No,14.1125,70.5625,0.13333333333333333,0
+Research & Development,Healthcare Representative,4522.0,Yes,15.0,55.0,3,3.0,0.6,5,No,28.2625,423.9375,0.0375,1
+Sales,Sales Executive,4487.0,Yes,15.0,55.0,8,3.0,0.6,5,No,28.04375,420.65625,0.0375,1
+Research & Development,Research Scientist,4449.0,Yes,15.0,55.0,8,3.0,0.6,13,No,27.80625,417.09375,0.0375,1
+Research & Development,Laboratory Technician,2218.0,No,5.0,45.0,7,3.0,0.6,4,No,13.8625,69.3125,0.09999999999999999,0
+Research & Development,Manager,19197.0,Yes,15.0,55.0,7,3.0,0.6,21,No,119.98125,1799.71875,0.0375,1
+Sales,Sales Executive,13212.0,No,5.0,45.0,3,3.0,0.6,7,No,82.575,412.875,0.09999999999999999,0
+Sales,Sales Executive,6577.0,No,5.0,45.0,3,3.0,0.6,5,No,41.10625,205.53125,0.09999999999999999,0
+Sales,Sales Executive,8392.0,No,5.0,45.0,8,3.0,0.6,10,No,52.45,262.25,0.09999999999999999,0
+Research & Development,Laboratory Technician,4558.0,No,5.0,45.0,6,3.0,0.6,10,No,28.4875,142.4375,0.09999999999999999,0
+Research & Development,Laboratory Technician,4031.0,No,5.0,45.0,5,3.0,0.6,2,Yes,25.19375,125.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,7969.0,Yes,15.0,55.0,8,3.0,0.6,5,No,49.80625,747.09375,0.0375,1
+Research & Development,Research Scientist,2654.0,No,5.0,45.0,6,4.0,0.8,2,No,16.5875,82.9375,0.13333333333333333,0
+Research & Development,Manager,16555.0,No,5.0,45.0,8,3.0,0.6,5,No,103.46875,517.34375,0.09999999999999999,0
+Research & Development,Research Scientist,4556.0,No,5.0,45.0,6,3.0,0.6,5,No,28.475,142.375,0.09999999999999999,0
+Research & Development,Manufacturing Director,6091.0,No,5.0,45.0,7,4.0,0.8,5,No,38.06875,190.34375,0.13333333333333333,0
+Research & Development,Manager,19566.0,No,5.0,45.0,5,3.0,0.6,29,No,122.2875,611.4375,0.09999999999999999,0
+Research & Development,Manufacturing Director,4810.0,No,5.0,45.0,8,3.0,0.6,10,No,30.0625,150.3125,0.09999999999999999,0
+Research & Development,Healthcare Representative,4523.0,No,5.0,45.0,7,3.0,0.6,6,No,28.26875,141.34375,0.09999999999999999,0
+Sales,Sales Representative,3202.0,Yes,15.0,55.0,7,3.0,0.6,5,Yes,20.0125,300.1875,0.0375,1
+Sales,Sales Representative,2351.0,No,5.0,45.0,8,3.0,0.6,2,Yes,14.69375,73.46875,0.09999999999999999,0
+Research & Development,Laboratory Technician,1702.0,Yes,15.0,55.0,7,4.0,0.8,1,No,10.6375,159.5625,0.05,0
+Sales,Manager,18041.0,No,5.0,45.0,8,3.0,0.6,20,No,112.75625,563.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2886.0,No,5.0,45.0,4,4.0,0.8,3,No,18.0375,90.1875,0.13333333333333333,0
+Research & Development,Laboratory Technician,2097.0,No,5.0,45.0,5,3.0,0.6,5,No,13.10625,65.53125,0.09999999999999999,0
+Research & Development,Research Director,11935.0,No,5.0,45.0,6,3.0,0.6,10,No,74.59375,372.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2546.0,No,5.0,45.0,3,3.0,0.6,2,Yes,15.9125,79.5625,0.09999999999999999,0
+Human Resources,Human Resources,2564.0,No,5.0,45.0,4,3.0,0.6,1,Yes,16.025,80.125,0.09999999999999999,0
+Sales,Sales Executive,8412.0,No,5.0,45.0,4,3.0,0.6,9,No,52.575,262.875,0.09999999999999999,0
+Sales,Manager,14118.0,No,5.0,45.0,3,3.0,0.6,1,No,88.2375,441.1875,0.09999999999999999,0
+Research & Development,Manager,17046.0,No,5.0,45.0,6,3.0,0.6,27,No,106.5375,532.6875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2564.0,No,5.0,45.0,7,3.0,0.6,11,No,16.025,80.125,0.09999999999999999,0
+Sales,Sales Executive,10266.0,No,5.0,45.0,6,3.0,0.6,18,No,64.1625,320.8125,0.09999999999999999,0
+Research & Development,Manufacturing Director,5070.0,No,5.0,45.0,6,3.0,0.6,5,No,31.6875,158.4375,0.09999999999999999,0
+Research & Development,Research Director,17861.0,No,5.0,45.0,3,3.0,0.6,3,No,111.63125,558.15625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4230.0,No,5.0,45.0,8,3.0,0.6,5,No,26.4375,132.1875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3780.0,No,5.0,45.0,8,3.0,0.6,1,No,23.625,118.125,0.09999999999999999,0
+Research & Development,Research Scientist,2768.0,No,5.0,45.0,3,3.0,0.6,7,No,17.3,86.5,0.09999999999999999,0
+Sales,Sales Executive,9071.0,Yes,15.0,55.0,6,3.0,0.6,3,No,56.69375,850.40625,0.0375,1
+Research & Development,Manufacturing Director,10648.0,No,5.0,45.0,7,4.0,0.8,13,No,66.55,332.75,0.13333333333333333,0
+Research & Development,Manager,13610.0,Yes,15.0,55.0,4,3.0,0.6,7,Yes,85.0625,1275.9375,0.0375,1
+Research & Development,Laboratory Technician,3408.0,No,5.0,45.0,4,3.0,0.6,4,Yes,21.3,106.5,0.09999999999999999,0
+Sales,Sales Representative,2983.0,No,5.0,45.0,3,3.0,0.6,3,No,18.64375,93.21875,0.09999999999999999,0
+Research & Development,Healthcare Representative,7632.0,Yes,15.0,55.0,5,3.0,0.6,8,No,47.7,715.5,0.0375,1
+Research & Development,Healthcare Representative,9824.0,No,5.0,45.0,4,3.0,0.6,1,Yes,61.4,307.0,0.09999999999999999,0
+Human Resources,Human Resources,9950.0,Yes,15.0,55.0,8,3.0,0.6,3,Yes,62.1875,932.8125,0.0375,1
+Research & Development,Laboratory Technician,2093.0,No,5.0,45.0,7,3.0,0.6,2,No,13.08125,65.40625,0.09999999999999999,0
+Sales,Sales Executive,9980.0,No,5.0,45.0,3,3.0,0.6,10,No,62.375,311.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3894.0,No,5.0,45.0,6,3.0,0.6,2,Yes,24.3375,121.6875,0.09999999999999999,0
+Sales,Sales Executive,4051.0,No,5.0,45.0,8,3.0,0.6,9,No,25.31875,126.59375,0.09999999999999999,0
+Sales,Manager,16835.0,No,5.0,45.0,4,4.0,0.8,10,No,105.21875,526.09375,0.13333333333333333,0
+Sales,Sales Executive,6230.0,No,5.0,45.0,7,3.0,0.6,14,No,38.9375,194.6875,0.09999999999999999,0
+Sales,Sales Executive,4717.0,No,5.0,45.0,8,3.0,0.6,11,No,29.48125,147.40625,0.09999999999999999,0
+Research & Development,Manufacturing Director,13237.0,No,5.0,45.0,8,3.0,0.6,20,No,82.73125,413.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3755.0,No,5.0,45.0,7,3.0,0.6,8,No,23.46875,117.34375,0.09999999999999999,0
+Sales,Sales Executive,6582.0,Yes,15.0,55.0,6,3.0,0.6,6,No,41.1375,617.0625,0.0375,1
+Research & Development,Manufacturing Director,7406.0,Yes,15.0,55.0,4,4.0,0.8,10,No,46.2875,694.3125,0.05,0
+Sales,Sales Executive,4805.0,No,5.0,45.0,6,3.0,0.6,8,No,30.03125,150.15625,0.09999999999999999,0
+Human Resources,Human Resources,2741.0,Yes,15.0,55.0,6,3.0,0.6,7,Yes,17.13125,256.96875,0.0375,1
+Research & Development,Manufacturing Director,4262.0,No,5.0,45.0,5,3.0,0.6,3,No,26.6375,133.1875,0.09999999999999999,0
+Research & Development,Research Director,16184.0,No,5.0,45.0,7,3.0,0.6,6,No,101.15,505.75,0.09999999999999999,0
+Sales,Manager,11557.0,No,5.0,45.0,5,4.0,0.8,5,No,72.23125,361.15625,0.13333333333333333,0
+Sales,Sales Representative,1878.0,Yes,15.0,55.0,3,3.0,0.6,0,Yes,11.7375,176.0625,0.0375,1
+Sales,Sales Executive,10932.0,No,5.0,45.0,4,3.0,0.6,1,No,68.325,341.625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6811.0,Yes,15.0,55.0,8,3.0,0.6,8,No,42.56875,638.53125,0.0375,1
+Sales,Sales Executive,4306.0,No,5.0,45.0,8,3.0,0.6,0,No,26.9125,134.5625,0.09999999999999999,0
+Sales,Sales Executive,4859.0,No,5.0,45.0,8,3.0,0.6,5,No,30.36875,151.84375,0.09999999999999999,0
+Sales,Sales Executive,5337.0,No,5.0,45.0,5,3.0,0.6,10,No,33.35625,166.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2340.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,14.625,219.375,0.0375,1
+Research & Development,Manufacturing Director,7491.0,No,5.0,45.0,5,3.0,0.6,6,No,46.81875,234.09375,0.09999999999999999,0
+Research & Development,Healthcare Representative,10527.0,No,5.0,45.0,3,3.0,0.6,2,No,65.79375,328.96875,0.09999999999999999,0
+Sales,Manager,16595.0,No,5.0,45.0,6,3.0,0.6,18,No,103.71875,518.59375,0.09999999999999999,0
+Sales,Sales Executive,8834.0,No,5.0,45.0,6,3.0,0.6,9,No,55.2125,276.0625,0.09999999999999999,0
+Research & Development,Research Scientist,5577.0,Yes,15.0,55.0,3,3.0,0.6,10,No,34.85625,522.84375,0.0375,1
+Sales,Sales Executive,4707.0,No,5.0,45.0,8,3.0,0.6,4,Yes,29.41875,147.09375,0.09999999999999999,0
+Sales,Sales Representative,2400.0,No,5.0,45.0,8,3.0,0.6,2,No,15.0,75.0,0.09999999999999999,0
+Research & Development,Healthcare Representative,9824.0,No,5.0,45.0,3,3.0,0.6,1,No,61.4,307.0,0.09999999999999999,0
+Research & Development,Manufacturing Director,6447.0,No,5.0,45.0,4,3.0,0.6,6,No,40.29375,201.46875,0.09999999999999999,0
+Research & Development,Research Director,19502.0,Yes,15.0,55.0,4,3.0,0.6,31,No,121.8875,1828.3125,0.0375,1
+Research & Development,Research Scientist,2725.0,Yes,15.0,55.0,5,3.0,0.6,6,No,17.03125,255.46875,0.0375,1
+Sales,Sales Executive,6272.0,No,5.0,45.0,8,4.0,0.8,5,No,39.2,196.0,0.13333333333333333,0
+Research & Development,Laboratory Technician,2127.0,No,5.0,45.0,6,4.0,0.8,1,No,13.29375,66.46875,0.13333333333333333,0
+Human Resources,Manager,18200.0,No,5.0,45.0,6,3.0,0.6,32,No,113.75,568.75,0.09999999999999999,0
+Sales,Sales Representative,2096.0,No,5.0,45.0,3,3.0,0.6,7,No,13.1,65.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,2886.0,Yes,15.0,55.0,4,3.0,0.6,6,Yes,18.0375,270.5625,0.0375,1
+Sales,Sales Representative,2033.0,No,5.0,45.0,6,3.0,0.6,1,Yes,12.70625,63.53125,0.09999999999999999,0
+Research & Development,Research Scientist,3622.0,Yes,15.0,55.0,5,3.0,0.6,6,No,22.6375,339.5625,0.0375,1
+Sales,Sales Executive,4233.0,No,5.0,45.0,4,3.0,0.6,3,Yes,26.45625,132.28125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3681.0,No,5.0,45.0,6,3.0,0.6,3,No,23.00625,115.03125,0.09999999999999999,0
+Sales,Sales Executive,5460.0,No,5.0,45.0,3,4.0,0.8,7,No,34.125,170.625,0.13333333333333333,0
+Research & Development,Research Scientist,2187.0,No,5.0,45.0,3,3.0,0.6,5,No,13.66875,68.34375,0.09999999999999999,0
+Sales,Sales Executive,9602.0,Yes,15.0,55.0,4,3.0,0.6,3,No,60.0125,900.1875,0.0375,1
+Research & Development,Research Scientist,2836.0,No,5.0,45.0,8,3.0,0.6,1,No,17.725,88.625,0.09999999999999999,0
+Research & Development,Healthcare Representative,4089.0,No,5.0,45.0,8,3.0,0.6,10,No,25.55625,127.78125,0.09999999999999999,0
+Research & Development,Research Director,16627.0,Yes,15.0,55.0,7,3.0,0.6,1,No,103.91875,1558.78125,0.0375,1
+Research & Development,Research Scientist,2619.0,No,5.0,45.0,6,3.0,0.6,0,No,16.36875,81.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,5679.0,Yes,15.0,55.0,6,3.0,0.6,8,No,35.49375,532.40625,0.0375,1
+Research & Development,Manager,15402.0,No,5.0,45.0,8,3.0,0.6,3,No,96.2625,481.3125,0.09999999999999999,0
+Human Resources,Human Resources,5985.0,No,5.0,45.0,4,3.0,0.6,2,No,37.40625,187.03125,0.09999999999999999,0
+Sales,Sales Representative,2579.0,Yes,15.0,55.0,7,3.0,0.6,8,No,16.11875,241.78124999999997,0.0375,1
+Sales,Sales Representative,3041.0,No,5.0,45.0,3,3.0,0.6,4,Yes,19.00625,95.03125,0.09999999999999999,0
+Sales,Sales Representative,3447.0,No,5.0,45.0,8,3.0,0.6,3,No,21.54375,107.71875,0.09999999999999999,0
+Research & Development,Manager,19513.0,Yes,15.0,55.0,8,3.0,0.6,2,No,121.95625,1829.34375,0.0375,1
+Research & Development,Research Scientist,2773.0,No,5.0,45.0,4,4.0,0.8,2,No,17.33125,86.65625,0.13333333333333333,0
+Sales,Sales Executive,7104.0,No,5.0,45.0,8,3.0,0.6,5,No,44.4,222.0,0.09999999999999999,0
+Research & Development,Research Scientist,6322.0,Yes,15.0,55.0,7,3.0,0.6,6,No,39.5125,592.6875,0.0375,1
+Research & Development,Research Scientist,2083.0,No,5.0,45.0,4,4.0,0.8,1,No,13.01875,65.09375,0.13333333333333333,0
+Sales,Sales Executive,8381.0,No,5.0,45.0,6,4.0,0.8,14,No,52.38125,261.90625,0.13333333333333333,0
+Research & Development,Research Scientist,2691.0,No,5.0,45.0,5,3.0,0.6,10,No,16.81875,84.09375,0.09999999999999999,0
+Sales,Sales Executive,4286.0,No,5.0,45.0,6,3.0,0.6,1,Yes,26.7875,133.9375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2659.0,Yes,15.0,55.0,3,3.0,0.6,3,No,16.61875,249.28124999999997,0.0375,1
+Research & Development,Manufacturing Director,9434.0,No,5.0,45.0,6,3.0,0.6,10,No,58.9625,294.8125,0.09999999999999999,0
+Sales,Sales Executive,5561.0,No,5.0,45.0,4,3.0,0.6,6,No,34.75625,173.78125,0.09999999999999999,0
+Research & Development,Research Scientist,6646.0,No,5.0,45.0,6,3.0,0.6,17,No,41.5375,207.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,7725.0,No,5.0,45.0,8,4.0,0.8,13,No,48.28125,241.40625,0.13333333333333333,0
+Human Resources,Human Resources,10725.0,No,5.0,45.0,7,3.0,0.6,9,No,67.03125,335.15625,0.09999999999999999,0
+Research & Development,Manufacturing Director,8847.0,Yes,15.0,55.0,8,3.0,0.6,3,No,55.29375,829.40625,0.0375,1
+Research & Development,Research Scientist,2045.0,No,5.0,45.0,6,3.0,0.6,4,No,12.78125,63.90625,0.09999999999999999,0
+Research & Development,Research Scientist,1009.0,Yes,15.0,55.0,4,3.0,0.6,1,Yes,6.30625,94.59375,0.0375,1
+Research & Development,Research Scientist,3348.0,Yes,15.0,55.0,6,3.0,0.6,10,Yes,20.925,313.875,0.0375,1
+Research & Development,Laboratory Technician,1281.0,No,5.0,45.0,7,3.0,0.6,1,No,8.00625,40.03125,0.09999999999999999,0
+Research & Development,Research Scientist,2819.0,No,5.0,45.0,8,3.0,0.6,3,No,17.61875,88.09375,0.09999999999999999,0
+Sales,Sales Executive,4851.0,No,5.0,45.0,8,4.0,0.8,3,No,30.31875,151.59375,0.13333333333333333,0
+Sales,Sales Executive,4028.0,No,5.0,45.0,6,4.0,0.8,7,No,25.175,125.875,0.13333333333333333,0
+Research & Development,Research Scientist,2720.0,No,5.0,45.0,4,3.0,0.6,10,No,17.0,85.0,0.09999999999999999,0
+Sales,Sales Executive,8120.0,No,5.0,45.0,6,3.0,0.6,2,No,50.75,253.75,0.09999999999999999,0
+Sales,Sales Executive,4647.0,Yes,15.0,55.0,4,4.0,0.8,6,No,29.04375,435.65625,0.05,0
+Research & Development,Research Scientist,4680.0,No,5.0,45.0,8,3.0,0.6,1,No,29.25,146.25,0.09999999999999999,0
+Research & Development,Laboratory Technician,3221.0,Yes,15.0,55.0,6,3.0,0.6,20,No,20.13125,301.96875,0.0375,1
+Research & Development,Healthcare Representative,8621.0,No,5.0,45.0,7,3.0,0.6,8,No,53.88125,269.40625,0.09999999999999999,0
+Sales,Sales Executive,4577.0,No,5.0,45.0,5,3.0,0.6,2,Yes,28.60625,143.03125,0.09999999999999999,0
+Research & Development,Healthcare Representative,4553.0,No,5.0,45.0,7,3.0,0.6,20,No,28.45625,142.28125,0.09999999999999999,0
+Sales,Sales Executive,5396.0,No,5.0,45.0,3,3.0,0.6,10,No,33.725,168.625,0.09999999999999999,0
+Sales,Sales Executive,6796.0,Yes,15.0,55.0,7,3.0,0.6,4,Yes,42.475,637.125,0.0375,1
+Research & Development,Healthcare Representative,7625.0,No,5.0,45.0,6,3.0,0.6,9,No,47.65625,238.28125,0.09999999999999999,0
+Research & Development,Manufacturing Director,7412.0,No,5.0,45.0,7,3.0,0.6,9,No,46.325,231.625,0.09999999999999999,0
+Research & Development,Research Director,11159.0,No,5.0,45.0,7,3.0,0.6,7,No,69.74375,348.71875,0.09999999999999999,0
+Sales,Sales Executive,4960.0,No,5.0,45.0,5,3.0,0.6,7,No,31.0,155.0,0.09999999999999999,0
+Sales,Sales Executive,10475.0,Yes,15.0,55.0,3,4.0,0.8,18,No,65.46875,982.03125,0.05,0
+Research & Development,Research Director,14814.0,No,5.0,45.0,4,3.0,0.6,5,No,92.5875,462.9375,0.09999999999999999,0
+Human Resources,Manager,19141.0,No,5.0,45.0,7,3.0,0.6,21,No,119.63125,598.15625,0.09999999999999999,0
+Sales,Sales Executive,5405.0,No,5.0,45.0,6,3.0,0.6,2,No,33.78125,168.90625,0.09999999999999999,0
+Research & Development,Manufacturing Director,8793.0,No,5.0,45.0,3,4.0,0.8,9,No,54.95625,274.78125,0.13333333333333333,0
+Human Resources,Manager,19189.0,No,5.0,45.0,5,3.0,0.6,22,No,119.93125,599.65625,0.09999999999999999,0
+Sales,Sales Representative,3875.0,No,5.0,45.0,4,3.0,0.6,2,No,24.21875,121.09375,0.09999999999999999,0
+Research & Development,Research Scientist,2216.0,Yes,15.0,55.0,8,3.0,0.6,7,Yes,13.85,207.75,0.0375,1
+Research & Development,Research Director,11713.0,No,5.0,45.0,6,3.0,0.6,8,No,73.20625,366.03125,0.09999999999999999,0
+Research & Development,Manufacturing Director,7861.0,Yes,15.0,55.0,8,3.0,0.6,1,No,49.13125,736.96875,0.0375,1
+Research & Development,Laboratory Technician,3708.0,No,5.0,45.0,5,3.0,0.6,5,No,23.175,115.875,0.09999999999999999,0
+Sales,Sales Executive,13770.0,Yes,15.0,55.0,3,3.0,0.6,22,No,86.0625,1290.9375,0.0375,1
+Sales,Sales Executive,5304.0,No,5.0,45.0,4,4.0,0.8,8,No,33.15,165.75,0.13333333333333333,0
+Sales,Sales Representative,2642.0,No,5.0,45.0,7,3.0,0.6,1,No,16.5125,82.5625,0.09999999999999999,0
+Research & Development,Research Scientist,2759.0,Yes,15.0,55.0,3,3.0,0.6,2,Yes,17.24375,258.65625,0.0375,1
+Sales,Sales Executive,6804.0,No,5.0,45.0,6,3.0,0.6,2,No,42.525,212.625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6142.0,No,5.0,45.0,6,3.0,0.6,5,No,38.3875,191.9375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2500.0,No,5.0,45.0,8,3.0,0.6,4,No,15.625,78.125,0.09999999999999999,0
+Human Resources,Human Resources,6389.0,No,5.0,45.0,6,3.0,0.6,8,No,39.93125,199.65625,0.09999999999999999,0
+Research & Development,Healthcare Representative,11103.0,No,5.0,45.0,4,3.0,0.6,10,No,69.39375,346.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2342.0,Yes,15.0,55.0,4,4.0,0.8,4,No,14.6375,219.5625,0.05,0
+Research & Development,Healthcare Representative,6811.0,No,5.0,45.0,6,3.0,0.6,7,No,42.56875,212.84375,0.09999999999999999,0
+Sales,Sales Representative,2297.0,No,5.0,45.0,5,3.0,0.6,2,No,14.35625,71.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2450.0,No,5.0,45.0,6,3.0,0.6,2,No,15.3125,76.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5093.0,No,5.0,45.0,8,3.0,0.6,1,No,31.83125,159.15625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5309.0,No,5.0,45.0,5,3.0,0.6,10,No,33.18125,165.90625,0.09999999999999999,0
+Research & Development,Research Scientist,3057.0,Yes,15.0,55.0,6,3.0,0.6,1,No,19.10625,286.59375,0.0375,1
+Research & Development,Manufacturing Director,5121.0,No,5.0,45.0,8,3.0,0.6,0,No,32.00625,160.03125,0.09999999999999999,0
+Sales,Manager,16856.0,No,5.0,45.0,4,3.0,0.6,34,No,105.35,526.75,0.09999999999999999,0
+Research & Development,Research Scientist,2686.0,Yes,15.0,55.0,7,3.0,0.6,10,Yes,16.7875,251.81250000000003,0.0375,1
+Sales,Sales Executive,6180.0,No,5.0,45.0,7,4.0,0.8,6,No,38.625,193.125,0.13333333333333333,0
+Sales,Sales Representative,6632.0,No,5.0,45.0,4,3.0,0.6,8,No,41.45,207.25,0.09999999999999999,0
+Research & Development,Research Scientist,3505.0,No,5.0,45.0,6,3.0,0.6,2,No,21.90625,109.53125,0.09999999999999999,0
+Sales,Sales Executive,6397.0,Yes,15.0,55.0,6,3.0,0.6,5,Yes,39.98125,599.71875,0.0375,1
+Sales,Sales Executive,6274.0,No,5.0,45.0,4,4.0,0.8,6,No,39.2125,196.0625,0.13333333333333333,0
+Research & Development,Manager,19859.0,Yes,15.0,55.0,7,3.0,0.6,5,Yes,124.11875,1861.78125,0.0375,1
+Sales,Sales Executive,7587.0,No,5.0,45.0,6,3.0,0.6,10,No,47.41875,237.09375,0.09999999999999999,0
+Research & Development,Research Scientist,4258.0,No,5.0,45.0,5,3.0,0.6,4,No,26.6125,133.0625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4364.0,No,5.0,45.0,3,3.0,0.6,2,No,27.275,136.375,0.09999999999999999,0
+Research & Development,Healthcare Representative,4335.0,No,5.0,45.0,7,3.0,0.6,8,No,27.09375,135.46875,0.09999999999999999,0
+Sales,Sales Executive,5326.0,No,5.0,45.0,4,3.0,0.6,4,Yes,33.2875,166.4375,0.09999999999999999,0
+Research & Development,Research Scientist,3280.0,No,5.0,45.0,8,3.0,0.6,4,No,20.5,102.5,0.09999999999999999,0
+Research & Development,Manufacturing Director,5485.0,Yes,15.0,55.0,4,3.0,0.6,5,No,34.28125,514.21875,0.0375,1
+Sales,Sales Executive,4342.0,No,5.0,45.0,5,3.0,0.6,4,No,27.1375,135.6875,0.09999999999999999,0
+Research & Development,Research Scientist,2782.0,Yes,15.0,55.0,3,3.0,0.6,5,No,17.3875,260.8125,0.0375,1
+Research & Development,Manufacturing Director,5980.0,Yes,15.0,55.0,4,3.0,0.6,15,No,37.375,560.625,0.0375,1
+Research & Development,Research Scientist,4381.0,No,5.0,45.0,8,3.0,0.6,6,No,27.38125,136.90625,0.09999999999999999,0
+Sales,Sales Representative,2572.0,No,5.0,45.0,7,3.0,0.6,3,No,16.075,80.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3833.0,No,5.0,45.0,3,4.0,0.8,2,No,23.95625,119.78125,0.13333333333333333,0
+Research & Development,Healthcare Representative,4244.0,No,5.0,45.0,5,4.0,0.8,8,No,26.525,132.625,0.13333333333333333,0
+Sales,Sales Executive,6500.0,No,5.0,45.0,7,3.0,0.6,3,No,40.625,203.125,0.09999999999999999,0
+Research & Development,Manager,18430.0,No,5.0,45.0,5,3.0,0.6,24,No,115.1875,575.9375,0.09999999999999999,0
+Research & Development,Laboratory Technician,1601.0,Yes,15.0,55.0,5,4.0,0.8,0,Yes,10.00625,150.09375,0.05,0
+Research & Development,Laboratory Technician,2694.0,No,5.0,45.0,3,3.0,0.6,1,No,16.8375,84.1875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3149.0,No,5.0,45.0,3,4.0,0.8,5,No,19.68125,98.40625,0.13333333333333333,0
+Research & Development,Research Director,17639.0,No,5.0,45.0,6,3.0,0.6,4,No,110.24375,551.21875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2319.0,Yes,15.0,55.0,5,3.0,0.6,1,Yes,14.49375,217.40625,0.0375,1
+Research & Development,Research Director,11691.0,No,5.0,45.0,8,3.0,0.6,13,No,73.06875,365.34375,0.09999999999999999,0
+Sales,Sales Executive,5324.0,No,5.0,45.0,8,3.0,0.6,3,Yes,33.275,166.375,0.09999999999999999,0
+Research & Development,Manager,16752.0,Yes,15.0,55.0,8,3.0,0.6,26,No,104.7,1570.5,0.0375,1
+Research & Development,Manufacturing Director,5228.0,No,5.0,45.0,4,3.0,0.6,9,No,32.675,163.375,0.09999999999999999,0
+Research & Development,Research Scientist,2700.0,No,5.0,45.0,3,4.0,0.8,10,No,16.875,84.375,0.13333333333333333,0
+Research & Development,Research Director,19246.0,Yes,15.0,55.0,4,3.0,0.6,31,Yes,120.2875,1804.3125,0.0375,1
+Research & Development,Research Scientist,2506.0,No,5.0,45.0,8,3.0,0.6,2,No,15.6625,78.3125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6062.0,Yes,15.0,55.0,3,3.0,0.6,4,No,37.8875,568.3125,0.0375,1
+Research & Development,Research Scientist,4382.0,No,5.0,45.0,3,3.0,0.6,2,Yes,27.3875,136.9375,0.09999999999999999,0
+Human Resources,Human Resources,2143.0,No,5.0,45.0,7,3.0,0.6,5,No,13.39375,66.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,6162.0,No,5.0,45.0,4,3.0,0.6,14,No,38.5125,192.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5094.0,No,5.0,45.0,7,3.0,0.6,1,No,31.8375,159.1875,0.09999999999999999,0
+Research & Development,Manufacturing Director,6877.0,Yes,15.0,55.0,8,4.0,0.8,0,No,42.98125,644.71875,0.05,0
+Research & Development,Research Scientist,2274.0,No,5.0,45.0,3,3.0,0.6,1,No,14.2125,71.0625,0.09999999999999999,0
+Research & Development,Manufacturing Director,4434.0,No,5.0,45.0,8,3.0,0.6,9,No,27.7125,138.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6288.0,No,5.0,45.0,6,3.0,0.6,4,No,39.3,196.5,0.09999999999999999,0
+Research & Development,Research Scientist,2553.0,No,5.0,45.0,7,3.0,0.6,5,No,15.95625,79.78125,0.09999999999999999,0
+Sales,Sales Executive,7654.0,No,5.0,45.0,3,3.0,0.6,9,Yes,47.8375,239.1875,0.09999999999999999,0
+Sales,Sales Executive,5160.0,No,5.0,45.0,5,3.0,0.6,9,Yes,32.25,161.25,0.09999999999999999,0
+Research & Development,Research Director,17159.0,No,5.0,45.0,6,4.0,0.8,4,No,107.24375,536.21875,0.13333333333333333,0
+Research & Development,Research Director,12808.0,Yes,15.0,55.0,7,3.0,0.6,9,No,80.05,1200.75,0.0375,1
+Research & Development,Manufacturing Director,10221.0,No,5.0,45.0,8,4.0,0.8,8,No,63.88125,319.40625,0.13333333333333333,0
+Sales,Sales Executive,4779.0,Yes,15.0,55.0,4,4.0,0.8,8,No,29.86875,448.03125,0.05,0
+Human Resources,Human Resources,3737.0,No,5.0,45.0,6,3.0,0.6,3,No,23.35625,116.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2366.0,Yes,15.0,55.0,6,3.0,0.6,8,Yes,14.7875,221.8125,0.0375,1
+Research & Development,Research Scientist,1706.0,No,5.0,45.0,4,3.0,0.6,0,No,10.6625,53.3125,0.09999999999999999,0
+Sales,Manager,16307.0,No,5.0,45.0,8,3.0,0.6,20,No,101.91875,509.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,5933.0,No,5.0,45.0,3,3.0,0.6,5,No,37.08125,185.40625,0.09999999999999999,0
+Research & Development,Research Scientist,3424.0,No,5.0,45.0,3,3.0,0.6,4,No,21.4,107.0,0.09999999999999999,0
+Sales,Sales Executive,4037.0,No,5.0,45.0,7,4.0,0.8,9,No,25.23125,126.15625,0.13333333333333333,0
+Research & Development,Research Scientist,2559.0,No,5.0,45.0,6,3.0,0.6,6,No,15.99375,79.96875,0.09999999999999999,0
+Sales,Sales Executive,6201.0,Yes,15.0,55.0,7,3.0,0.6,18,No,38.75625,581.34375,0.0375,1
+Sales,Sales Executive,4403.0,No,5.0,45.0,8,3.0,0.6,5,No,27.51875,137.59375,0.09999999999999999,0
+Research & Development,Research Scientist,3761.0,No,5.0,45.0,5,3.0,0.6,5,No,23.50625,117.53125,0.09999999999999999,0
+Sales,Sales Executive,10934.0,Yes,15.0,55.0,8,3.0,0.6,5,No,68.3375,1025.0625,0.0375,1
+Sales,Sales Executive,10761.0,Yes,15.0,55.0,3,3.0,0.6,5,No,67.25625,1008.8437499999999,0.0375,1
+Research & Development,Research Scientist,5175.0,No,5.0,45.0,5,3.0,0.6,5,No,32.34375,161.71875,0.09999999999999999,0
+Research & Development,Manufacturing Director,13826.0,No,5.0,45.0,5,4.0,0.8,9,No,86.4125,432.0625,0.13333333333333333,0
+Sales,Sales Executive,6334.0,No,5.0,45.0,4,3.0,0.6,1,No,39.5875,197.9375,0.09999999999999999,0
+Human Resources,Human Resources,4936.0,No,5.0,45.0,6,3.0,0.6,5,No,30.85,154.25,0.09999999999999999,0
+Research & Development,Manufacturing Director,4775.0,No,5.0,45.0,4,4.0,0.8,2,No,29.84375,149.21875,0.13333333333333333,0
+Research & Development,Laboratory Technician,2818.0,Yes,15.0,55.0,3,4.0,0.8,3,No,17.6125,264.1875,0.05,0
+Research & Development,Research Scientist,2515.0,Yes,15.0,55.0,7,3.0,0.6,2,No,15.71875,235.78125,0.0375,1
+Human Resources,Human Resources,2342.0,No,5.0,45.0,4,4.0,0.8,5,No,14.6375,73.1875,0.13333333333333333,0
+Sales,Sales Executive,4194.0,Yes,15.0,55.0,3,3.0,0.6,5,No,26.2125,393.1875,0.0375,1
+Research & Development,Manufacturing Director,10685.0,Yes,15.0,55.0,7,4.0,0.8,17,No,66.78125,1001.71875,0.05,0
+Research & Development,Research Scientist,2022.0,Yes,15.0,55.0,4,3.0,0.6,10,Yes,12.6375,189.5625,0.0375,1
+Research & Development,Laboratory Technician,2314.0,No,5.0,45.0,5,3.0,0.6,3,No,14.4625,72.3125,0.09999999999999999,0
+Sales,Sales Executive,4256.0,No,5.0,45.0,6,3.0,0.6,5,No,26.6,133.0,0.09999999999999999,0
+Research & Development,Research Scientist,3580.0,No,5.0,45.0,7,3.0,0.6,4,No,22.375,111.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3162.0,No,5.0,45.0,6,3.0,0.6,5,No,19.7625,98.8125,0.09999999999999999,0
+Sales,Sales Executive,6524.0,No,5.0,45.0,5,3.0,0.6,10,No,40.775,203.875,0.09999999999999999,0
+Sales,Sales Representative,2899.0,No,5.0,45.0,4,3.0,0.6,2,No,18.11875,90.59375,0.09999999999999999,0
+Research & Development,Laboratory Technician,5231.0,Yes,15.0,55.0,4,3.0,0.6,5,No,32.69375,490.40625,0.0375,1
+Research & Development,Research Scientist,2356.0,Yes,15.0,55.0,4,3.0,0.6,6,No,14.725,220.875,0.0375,1
+Sales,Sales Representative,2800.0,Yes,15.0,55.0,7,3.0,0.6,3,Yes,17.5,262.5,0.0375,1
+Sales,Sales Executive,11836.0,No,5.0,45.0,8,3.0,0.6,2,No,73.975,369.875,0.09999999999999999,0
+Research & Development,Manufacturing Director,10903.0,No,5.0,45.0,3,3.0,0.6,13,No,68.14375,340.71875,0.09999999999999999,0
+Sales,Sales Representative,2973.0,No,5.0,45.0,4,3.0,0.6,5,No,18.58125,92.90625,0.09999999999999999,0
+Research & Development,Research Director,14275.0,No,5.0,45.0,7,3.0,0.6,12,No,89.21875,446.09375,0.09999999999999999,0
+Research & Development,Healthcare Representative,5562.0,No,5.0,45.0,7,3.0,0.6,5,No,34.7625,173.8125,0.09999999999999999,0
+Sales,Sales Executive,4537.0,Yes,15.0,55.0,5,4.0,0.8,7,No,28.35625,425.34375,0.05,0
+Sales,Sales Executive,7642.0,Yes,15.0,55.0,6,3.0,0.6,10,No,47.7625,716.4375,0.0375,1
+Research & Development,Manager,17924.0,No,5.0,45.0,7,3.0,0.6,31,No,112.025,560.125,0.09999999999999999,0
+Human Resources,Human Resources,5204.0,No,5.0,45.0,8,3.0,0.6,5,No,32.525,162.625,0.09999999999999999,0
+Human Resources,Human Resources,2277.0,Yes,15.0,55.0,7,3.0,0.6,4,No,14.23125,213.46875,0.0375,1
+Research & Development,Laboratory Technician,2795.0,Yes,15.0,55.0,5,4.0,0.8,1,Yes,17.46875,262.03125,0.05,0
+Research & Development,Laboratory Technician,2532.0,No,5.0,45.0,6,3.0,0.6,4,No,15.825,79.125,0.09999999999999999,0
+Research & Development,Research Scientist,2559.0,Yes,15.0,55.0,7,3.0,0.6,8,No,15.99375,239.90625,0.0375,1
+Sales,Sales Executive,4908.0,No,5.0,45.0,5,3.0,0.6,4,No,30.675,153.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2380.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,14.875,223.125,0.0375,1
+Research & Development,Manufacturing Director,4765.0,No,5.0,45.0,7,4.0,0.8,1,No,29.78125,148.90625,0.13333333333333333,0
+Sales,Sales Representative,2044.0,No,5.0,45.0,5,3.0,0.6,2,Yes,12.775,63.875,0.09999999999999999,0
+Research & Development,Research Scientist,2693.0,No,5.0,45.0,6,3.0,0.6,1,Yes,16.83125,84.15625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6586.0,Yes,15.0,55.0,8,3.0,0.6,16,No,41.1625,617.4375,0.0375,1
+Sales,Sales Representative,3294.0,Yes,15.0,55.0,6,3.0,0.6,3,No,20.5875,308.8125,0.0375,1
+Research & Development,Manufacturing Director,4171.0,Yes,15.0,55.0,3,3.0,0.6,3,Yes,26.06875,391.03125,0.0375,1
+Research & Development,Laboratory Technician,2778.0,Yes,15.0,55.0,3,3.0,0.6,7,Yes,17.3625,260.4375,0.0375,1
+Research & Development,Research Scientist,2377.0,No,5.0,45.0,5,3.0,0.6,2,No,14.85625,74.28125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2404.0,Yes,15.0,55.0,4,4.0,0.8,2,Yes,15.025,225.375,0.05,0
+Research & Development,Research Scientist,2318.0,No,5.0,45.0,4,3.0,0.6,1,No,14.4875,72.4375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2008.0,No,5.0,45.0,7,3.0,0.6,1,No,12.55,62.75,0.09999999999999999,0
+Sales,Sales Executive,6244.0,No,5.0,45.0,4,3.0,0.6,5,No,39.025,195.125,0.09999999999999999,0
+Research & Development,Research Scientist,2799.0,Yes,15.0,55.0,7,3.0,0.6,3,No,17.49375,262.40625,0.0375,1
+Research & Development,Healthcare Representative,10552.0,Yes,15.0,55.0,3,3.0,0.6,6,No,65.95,989.25,0.0375,1
+Sales,Sales Representative,2329.0,No,5.0,45.0,7,3.0,0.6,7,No,14.55625,72.78125,0.09999999999999999,0
+Research & Development,Healthcare Representative,4014.0,Yes,15.0,55.0,6,4.0,0.8,10,No,25.0875,376.3125,0.05,0
+Research & Development,Laboratory Technician,7403.0,No,5.0,45.0,6,3.0,0.6,26,No,46.26875,231.34375,0.09999999999999999,0
+Research & Development,Research Scientist,2259.0,No,5.0,45.0,5,3.0,0.6,0,No,14.11875,70.59375,0.09999999999999999,0
+Sales,Sales Executive,6932.0,No,5.0,45.0,7,3.0,0.6,9,No,43.325,216.625,0.09999999999999999,0
+Research & Development,Research Scientist,4678.0,No,5.0,45.0,7,3.0,0.6,6,No,29.2375,146.1875,0.09999999999999999,0
+Research & Development,Research Director,13582.0,No,5.0,45.0,6,3.0,0.6,15,No,84.8875,424.4375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2332.0,No,5.0,45.0,4,4.0,0.8,3,No,14.575,72.875,0.13333333333333333,0
+Sales,Sales Representative,2413.0,Yes,15.0,55.0,8,3.0,0.6,1,Yes,15.08125,226.21875,0.0375,1
+Sales,Sales Executive,9705.0,No,5.0,45.0,6,3.0,0.6,1,No,60.65625,303.28125,0.09999999999999999,0
+Sales,Sales Executive,4294.0,No,5.0,45.0,6,3.0,0.6,7,No,26.8375,134.1875,0.09999999999999999,0
+Research & Development,Laboratory Technician,4721.0,Yes,15.0,55.0,3,3.0,0.6,18,No,29.50625,442.59375,0.0375,1
+Research & Development,Laboratory Technician,2519.0,No,5.0,45.0,8,4.0,0.8,11,No,15.74375,78.71875,0.13333333333333333,0
+Sales,Sales Representative,2121.0,Yes,15.0,55.0,8,3.0,0.6,1,Yes,13.25625,198.84375,0.0375,1
+Research & Development,Laboratory Technician,2973.0,No,5.0,45.0,6,3.0,0.6,1,Yes,18.58125,92.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5855.0,Yes,15.0,55.0,8,3.0,0.6,9,No,36.59375,548.90625,0.0375,1
+Research & Development,Research Scientist,3617.0,Yes,15.0,55.0,5,3.0,0.6,1,No,22.60625,339.09375,0.0375,1
+Research & Development,Manufacturing Director,6725.0,No,5.0,45.0,6,3.0,0.6,8,No,42.03125,210.15625,0.09999999999999999,0
+Sales,Sales Executive,10325.0,Yes,15.0,55.0,7,3.0,0.6,16,Yes,64.53125,967.96875,0.0375,1
+Research & Development,Healthcare Representative,6949.0,No,5.0,45.0,6,3.0,0.6,5,No,43.43125,217.15625,0.09999999999999999,0
+Sales,Sales Executive,10609.0,No,5.0,45.0,4,3.0,0.6,14,Yes,66.30625,331.53125,0.09999999999999999,0
+Research & Development,Laboratory Technician,4447.0,No,5.0,45.0,8,3.0,0.6,9,No,27.79375,138.96875,0.09999999999999999,0
+Sales,Sales Representative,2157.0,No,5.0,45.0,6,3.0,0.6,3,No,13.48125,67.40625,0.09999999999999999,0
+Sales,Sales Executive,4601.0,No,5.0,45.0,7,3.0,0.6,5,No,28.75625,143.78125,0.09999999999999999,0
+Research & Development,Manager,17099.0,No,5.0,45.0,5,3.0,0.6,9,No,106.86875,534.34375,0.09999999999999999,0
+Research & Development,Research Scientist,2479.0,No,5.0,45.0,3,4.0,0.8,1,Yes,15.49375,77.46875,0.13333333333333333,0
+Sales,Manager,14852.0,No,5.0,45.0,8,3.0,0.6,17,No,92.825,464.125,0.09999999999999999,0
+Sales,Sales Executive,7264.0,No,5.0,45.0,7,3.0,0.6,8,No,45.4,227.0,0.09999999999999999,0
+Sales,Sales Executive,5666.0,Yes,15.0,55.0,4,3.0,0.6,5,No,35.4125,531.1875,0.0375,1
+Sales,Sales Executive,7823.0,No,5.0,45.0,5,3.0,0.6,10,No,48.89375,244.46875,0.09999999999999999,0
+Sales,Sales Executive,7880.0,No,5.0,45.0,8,3.0,0.6,8,No,49.25,246.25,0.09999999999999999,0
+Sales,Sales Executive,13194.0,Yes,15.0,55.0,8,3.0,0.6,1,Yes,82.4625,1236.9375,0.0375,1
+Research & Development,Manufacturing Director,5067.0,Yes,15.0,55.0,8,3.0,0.6,19,No,31.66875,475.03125,0.0375,1
+Sales,Sales Executive,5079.0,No,5.0,45.0,4,3.0,0.6,7,No,31.74375,158.71875,0.09999999999999999,0
+Research & Development,Research Scientist,2321.0,Yes,15.0,55.0,5,4.0,0.8,3,Yes,14.50625,217.59375,0.05,0
+Sales,Manager,17444.0,No,5.0,45.0,8,3.0,0.6,10,No,109.025,545.125,0.09999999999999999,0
+Research & Development,Research Scientist,2404.0,Yes,15.0,55.0,7,4.0,0.8,0,Yes,15.025,225.375,0.05,0
+Research & Development,Research Scientist,3452.0,No,5.0,45.0,4,3.0,0.6,3,No,21.575,107.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2270.0,No,5.0,45.0,6,3.0,0.6,5,No,14.1875,70.9375,0.09999999999999999,0
+Research & Development,Research Director,17399.0,No,5.0,45.0,8,4.0,0.8,5,No,108.74375,543.71875,0.13333333333333333,0
+Research & Development,Healthcare Representative,5488.0,Yes,15.0,55.0,5,3.0,0.6,6,No,34.3,514.5,0.0375,1
+Research & Development,Research Director,19419.0,No,5.0,45.0,7,3.0,0.6,18,No,121.36875,606.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2811.0,No,5.0,45.0,7,3.0,0.6,2,No,17.56875,87.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3633.0,Yes,15.0,55.0,7,3.0,0.6,9,No,22.70625,340.59375,0.0375,1
+Sales,Sales Executive,4163.0,Yes,15.0,55.0,5,3.0,0.6,9,No,26.01875,390.28125,0.0375,1
+Research & Development,Research Scientist,2132.0,Yes,15.0,55.0,8,3.0,0.6,5,Yes,13.325,199.875,0.0375,1
+Research & Development,Manufacturing Director,13973.0,Yes,15.0,55.0,6,3.0,0.6,12,No,87.33125,1309.96875,0.0375,1
+Research & Development,Research Scientist,2684.0,No,5.0,45.0,7,3.0,0.6,2,No,16.775,83.875,0.09999999999999999,0
+Research & Development,Manufacturing Director,10845.0,No,5.0,45.0,6,3.0,0.6,8,No,67.78125,338.90625,0.09999999999999999,0
+Research & Development,Manufacturing Director,4377.0,No,5.0,45.0,3,3.0,0.6,4,No,27.35625,136.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3743.0,Yes,15.0,55.0,4,4.0,0.8,4,Yes,23.39375,350.90625,0.05,0
+Research & Development,Manufacturing Director,4148.0,No,5.0,45.0,4,3.0,0.6,4,No,25.925,129.625,0.09999999999999999,0
+Research & Development,Research Scientist,1051.0,No,5.0,45.0,6,3.0,0.6,0,No,6.56875,32.84375,0.09999999999999999,0
+Research & Development,Manufacturing Director,10739.0,No,5.0,45.0,5,3.0,0.6,10,No,67.11875,335.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,10388.0,Yes,15.0,55.0,3,3.0,0.6,16,No,64.925,973.875,0.0375,1
+Research & Development,Research Director,11416.0,Yes,15.0,55.0,4,3.0,0.6,8,No,71.35,1070.25,0.0375,1
+Research & Development,Research Scientist,2600.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,16.25,243.75,0.0375,1
+Research & Development,Laboratory Technician,2422.0,No,5.0,45.0,5,3.0,0.6,3,Yes,15.1375,75.6875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5472.0,No,5.0,45.0,5,3.0,0.6,8,No,34.2,171.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,2451.0,No,5.0,45.0,3,3.0,0.6,4,No,15.31875,76.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,4240.0,No,5.0,45.0,4,3.0,0.6,2,No,26.5,132.5,0.09999999999999999,0
+Research & Development,Healthcare Representative,10999.0,No,5.0,45.0,5,3.0,0.6,15,No,68.74375,343.71875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5003.0,No,5.0,45.0,4,3.0,0.6,2,No,31.26875,156.34375,0.09999999999999999,0
+Research & Development,Manufacturing Director,12742.0,No,5.0,45.0,4,3.0,0.6,21,No,79.6375,398.1875,0.09999999999999999,0
+Research & Development,Manufacturing Director,4227.0,No,5.0,45.0,4,3.0,0.6,3,No,26.41875,132.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3917.0,No,5.0,45.0,4,4.0,0.8,3,No,24.48125,122.40625,0.13333333333333333,0
+Sales,Manager,18303.0,No,5.0,45.0,5,3.0,0.6,1,No,114.39375,571.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2380.0,No,5.0,45.0,8,3.0,0.6,1,No,14.875,74.375,0.09999999999999999,0
+Research & Development,Manufacturing Director,13726.0,Yes,15.0,55.0,7,3.0,0.6,5,No,85.7875,1286.8125,0.0375,1
+Research & Development,Healthcare Representative,4777.0,No,5.0,45.0,8,3.0,0.6,1,Yes,29.85625,149.28125,0.09999999999999999,0
+Research & Development,Healthcare Representative,6385.0,Yes,15.0,55.0,5,3.0,0.6,8,No,39.90625,598.59375,0.0375,1
+Research & Development,Research Director,19973.0,No,5.0,45.0,3,4.0,0.8,21,No,124.83125,624.15625,0.13333333333333333,0
+Sales,Sales Executive,6861.0,Yes,15.0,55.0,8,3.0,0.6,1,No,42.88125,643.21875,0.0375,1
+Sales,Sales Executive,4969.0,No,5.0,45.0,6,3.0,0.6,2,Yes,31.05625,155.28125,0.09999999999999999,0
+Sales,Manager,19845.0,No,5.0,45.0,5,3.0,0.6,32,Yes,124.03125,620.15625,0.09999999999999999,0
+Sales,Sales Executive,13320.0,Yes,15.0,55.0,4,3.0,0.6,12,No,83.25,1248.75,0.0375,1
+Sales,Sales Executive,6347.0,No,5.0,45.0,4,3.0,0.6,18,No,39.66875,198.34375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2743.0,No,5.0,45.0,3,3.0,0.6,17,Yes,17.14375,85.71875,0.09999999999999999,0
+Research & Development,Manufacturing Director,10880.0,Yes,15.0,55.0,6,3.0,0.6,21,No,68.0,1020.0,0.0375,1
+Sales,Sales Representative,2342.0,No,5.0,45.0,5,3.0,0.6,2,No,14.6375,73.1875,0.09999999999999999,0
+Sales,Manager,17650.0,No,5.0,45.0,3,3.0,0.6,9,No,110.3125,551.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4025.0,No,5.0,45.0,3,3.0,0.6,8,No,25.15625,125.78125,0.09999999999999999,0
+Sales,Sales Executive,9725.0,No,5.0,45.0,6,3.0,0.6,15,No,60.78125,303.90625,0.09999999999999999,0
+Sales,Manager,11904.0,Yes,15.0,55.0,5,3.0,0.6,6,No,74.4,1116.0,0.0375,1
+Human Resources,Human Resources,2177.0,No,5.0,45.0,4,3.0,0.6,6,No,13.60625,68.03125,0.09999999999999999,0
+Sales,Sales Executive,7525.0,No,5.0,45.0,7,3.0,0.6,15,No,47.03125,235.15625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4834.0,No,5.0,45.0,3,3.0,0.6,1,Yes,30.2125,151.0625,0.09999999999999999,0
+Research & Development,Research Scientist,2042.0,Yes,15.0,55.0,8,3.0,0.6,3,Yes,12.7625,191.4375,0.0375,1
+Sales,Sales Representative,2220.0,Yes,15.0,55.0,6,3.0,0.6,1,No,13.875,208.125,0.0375,1
+Sales,Sales Representative,1052.0,No,5.0,45.0,3,4.0,0.8,1,No,6.575,32.875,0.13333333333333333,0
+Research & Development,Research Scientist,2821.0,No,5.0,45.0,7,3.0,0.6,2,No,17.63125,88.15625,0.09999999999999999,0
+Research & Development,Research Director,19237.0,Yes,15.0,55.0,8,3.0,0.6,8,No,120.23125,1803.46875,0.0375,1
+Research & Development,Healthcare Representative,4107.0,No,5.0,45.0,6,3.0,0.6,4,No,25.66875,128.34375,0.09999999999999999,0
+Sales,Sales Executive,8396.0,No,5.0,45.0,4,3.0,0.6,7,No,52.475,262.375,0.09999999999999999,0
+Research & Development,Research Scientist,2007.0,No,5.0,45.0,8,3.0,0.6,5,No,12.54375,62.71875,0.09999999999999999,0
+Research & Development,Research Director,19627.0,No,5.0,45.0,4,3.0,0.6,2,No,122.66875,613.34375,0.09999999999999999,0
+Sales,Sales Executive,10686.0,No,5.0,45.0,4,3.0,0.6,9,No,66.7875,333.9375,0.09999999999999999,0
+Research & Development,Research Scientist,2942.0,No,5.0,45.0,8,3.0,0.6,5,No,18.3875,91.9375,0.09999999999999999,0
+Research & Development,Manufacturing Director,8858.0,No,5.0,45.0,4,3.0,0.6,14,No,55.3625,276.8125,0.09999999999999999,0
+Research & Development,Manager,16756.0,No,5.0,45.0,5,3.0,0.6,9,No,104.725,523.625,0.09999999999999999,0
+Sales,Sales Executive,10798.0,No,5.0,45.0,5,3.0,0.6,1,No,67.4875,337.4375,0.09999999999999999,0
+Sales,Sales Representative,2323.0,Yes,15.0,55.0,4,3.0,0.6,2,Yes,14.51875,217.78125,0.0375,1
+Research & Development,Laboratory Technician,1416.0,No,5.0,45.0,8,3.0,0.6,1,Yes,8.85,44.25,0.09999999999999999,0
+Research & Development,Research Scientist,4615.0,Yes,15.0,55.0,5,4.0,0.8,16,No,28.84375,432.65625,0.05,0
+Research & Development,Research Scientist,2461.0,Yes,15.0,55.0,6,3.0,0.6,10,Yes,15.38125,230.71875,0.0375,1
+Research & Development,Healthcare Representative,8722.0,No,5.0,45.0,6,3.0,0.6,10,Yes,54.5125,272.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3955.0,No,5.0,45.0,5,3.0,0.6,5,No,24.71875,123.59375,0.09999999999999999,0
+Research & Development,Manufacturing Director,9957.0,No,5.0,45.0,3,3.0,0.6,6,No,62.23125,311.15625,0.09999999999999999,0
+Research & Development,Research Scientist,3376.0,No,5.0,45.0,5,3.0,0.6,10,No,21.1,105.5,0.09999999999999999,0
+Research & Development,Healthcare Representative,8823.0,No,5.0,45.0,8,3.0,0.6,19,No,55.14375,275.71875,0.09999999999999999,0
+Research & Development,Healthcare Representative,10322.0,No,5.0,45.0,3,4.0,0.8,11,No,64.5125,322.5625,0.13333333333333333,0
+Research & Development,Laboratory Technician,4621.0,No,5.0,45.0,8,3.0,0.6,3,No,28.88125,144.40625,0.09999999999999999,0
+Research & Development,Manufacturing Director,10976.0,No,5.0,45.0,8,3.0,0.6,3,No,68.6,343.0,0.09999999999999999,0
+Research & Development,Research Scientist,3660.0,No,5.0,45.0,7,3.0,0.6,8,No,22.875,114.375,0.09999999999999999,0
+Human Resources,Human Resources,10482.0,No,5.0,45.0,3,3.0,0.6,20,Yes,65.5125,327.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,7119.0,No,5.0,45.0,5,3.0,0.6,3,No,44.49375,222.46875,0.09999999999999999,0
+Sales,Sales Executive,9582.0,Yes,15.0,55.0,8,4.0,0.8,8,Yes,59.8875,898.3125,0.05,0
+Research & Development,Research Scientist,4508.0,No,5.0,45.0,8,4.0,0.8,13,Yes,28.175,140.875,0.13333333333333333,0
+Research & Development,Laboratory Technician,2207.0,No,5.0,45.0,6,3.0,0.6,4,No,13.79375,68.96875,0.09999999999999999,0
+Research & Development,Healthcare Representative,7756.0,No,5.0,45.0,5,3.0,0.6,6,No,48.475,242.375,0.09999999999999999,0
+Sales,Sales Executive,6694.0,Yes,15.0,55.0,5,3.0,0.6,1,No,41.8375,627.5625,0.0375,1
+Research & Development,Laboratory Technician,3691.0,Yes,15.0,55.0,8,3.0,0.6,7,Yes,23.06875,346.03125,0.0375,1
+Research & Development,Laboratory Technician,2377.0,No,5.0,45.0,4,4.0,0.8,1,Yes,14.85625,74.28125,0.13333333333333333,0
+Research & Development,Research Scientist,2313.0,Yes,15.0,55.0,5,4.0,0.8,2,Yes,14.45625,216.84375,0.05,0
+Research & Development,Manager,17665.0,No,5.0,45.0,3,3.0,0.6,22,No,110.40625,552.03125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2596.0,No,5.0,45.0,3,3.0,0.6,1,Yes,16.225,81.125,0.09999999999999999,0
+Sales,Sales Executive,4728.0,Yes,15.0,55.0,3,3.0,0.6,0,Yes,29.55,443.25,0.0375,1
+Sales,Sales Executive,4302.0,No,5.0,45.0,7,3.0,0.6,3,No,26.8875,134.4375,0.09999999999999999,0
+Research & Development,Research Scientist,2979.0,No,5.0,45.0,8,3.0,0.6,0,No,18.61875,93.09375,0.09999999999999999,0
+Research & Development,Manager,16885.0,No,5.0,45.0,3,4.0,0.8,5,No,105.53125,527.65625,0.13333333333333333,0
+Sales,Sales Executive,5593.0,No,5.0,45.0,6,3.0,0.6,15,No,34.95625,174.78125,0.09999999999999999,0
+Research & Development,Healthcare Representative,10445.0,No,5.0,45.0,4,3.0,0.6,8,No,65.28125,326.40625,0.09999999999999999,0
+Sales,Sales Executive,8740.0,Yes,15.0,55.0,8,3.0,0.6,8,No,54.625,819.375,0.0375,1
+Research & Development,Research Scientist,2514.0,No,5.0,45.0,5,4.0,0.8,7,No,15.7125,78.5625,0.13333333333333333,0
+Research & Development,Manufacturing Director,7655.0,No,5.0,45.0,4,3.0,0.6,9,No,47.84375,239.21875,0.09999999999999999,0
+Sales,Manager,17465.0,No,5.0,45.0,3,3.0,0.6,12,No,109.15625,545.78125,0.09999999999999999,0
+Sales,Sales Executive,7351.0,No,5.0,45.0,3,3.0,0.6,1,No,45.94375,229.71875,0.09999999999999999,0
+Research & Development,Manufacturing Director,10820.0,No,5.0,45.0,5,3.0,0.6,8,No,67.625,338.125,0.09999999999999999,0
+Research & Development,Healthcare Representative,12169.0,No,5.0,45.0,6,3.0,0.6,18,Yes,76.05625,380.28125,0.09999999999999999,0
+Research & Development,Research Director,19626.0,No,5.0,45.0,7,3.0,0.6,20,No,122.6625,613.3125,0.09999999999999999,0
+Research & Development,Research Scientist,2070.0,Yes,15.0,55.0,7,3.0,0.6,2,No,12.9375,194.0625,0.0375,1
+Research & Development,Laboratory Technician,6782.0,No,5.0,45.0,3,3.0,0.6,5,No,42.3875,211.9375,0.09999999999999999,0
+Research & Development,Manufacturing Director,7779.0,No,5.0,45.0,6,4.0,0.8,11,No,48.61875,243.09375,0.13333333333333333,0
+Sales,Sales Representative,2791.0,No,5.0,45.0,7,3.0,0.6,2,No,17.44375,87.21875,0.09999999999999999,0
+Research & Development,Research Scientist,3201.0,No,5.0,45.0,8,3.0,0.6,5,No,20.00625,100.03125,0.09999999999999999,0
+Sales,Sales Executive,4968.0,No,5.0,45.0,8,3.0,0.6,5,No,31.05,155.25,0.09999999999999999,0
+Sales,Sales Executive,13120.0,No,5.0,45.0,5,3.0,0.6,9,No,82.0,410.0,0.09999999999999999,0
+Research & Development,Manufacturing Director,4033.0,No,5.0,45.0,5,3.0,0.6,3,No,25.20625,126.03125,0.09999999999999999,0
+Research & Development,Research Scientist,3291.0,No,5.0,45.0,5,3.0,0.6,7,No,20.56875,102.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,4272.0,No,5.0,45.0,4,3.0,0.6,1,No,26.7,133.5,0.09999999999999999,0
+Research & Development,Manufacturing Director,5056.0,Yes,15.0,55.0,7,3.0,0.6,10,No,31.6,474.0,0.0375,1
+Human Resources,Human Resources,2844.0,No,5.0,45.0,5,3.0,0.6,7,No,17.775,88.875,0.09999999999999999,0
+Research & Development,Research Scientist,2703.0,Yes,15.0,55.0,5,3.0,0.6,3,No,16.89375,253.40625,0.0375,1
+Research & Development,Laboratory Technician,1904.0,No,5.0,45.0,8,3.0,0.6,0,Yes,11.9,59.5,0.09999999999999999,0
+Sales,Sales Executive,8224.0,Yes,15.0,55.0,8,3.0,0.6,5,Yes,51.4,771.0,0.0375,1
+Research & Development,Laboratory Technician,4766.0,Yes,15.0,55.0,7,3.0,0.6,1,No,29.7875,446.8125,0.0375,1
+Research & Development,Laboratory Technician,2610.0,No,5.0,45.0,4,3.0,0.6,2,Yes,16.3125,81.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5731.0,No,5.0,45.0,6,3.0,0.6,6,No,35.81875,179.09375,0.09999999999999999,0
+Research & Development,Research Scientist,2539.0,No,5.0,45.0,4,3.0,0.6,4,No,15.86875,79.34375,0.09999999999999999,0
+Sales,Sales Executive,5714.0,No,5.0,45.0,3,4.0,0.8,6,No,35.7125,178.5625,0.13333333333333333,0
+Human Resources,Human Resources,4323.0,No,5.0,45.0,6,3.0,0.6,5,No,27.01875,135.09375,0.09999999999999999,0
+Sales,Sales Executive,7336.0,No,5.0,45.0,7,3.0,0.6,11,Yes,45.85,229.25,0.09999999999999999,0
+Research & Development,Research Director,13499.0,No,5.0,45.0,3,3.0,0.6,18,No,84.36875,421.84375,0.09999999999999999,0
+Sales,Sales Executive,13758.0,Yes,15.0,55.0,5,3.0,0.6,21,Yes,85.9875,1289.8125,0.0375,1
+Sales,Sales Executive,5155.0,No,5.0,45.0,3,3.0,0.6,6,No,32.21875,161.09375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2258.0,No,5.0,45.0,6,3.0,0.6,8,No,14.1125,70.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3597.0,No,5.0,45.0,6,4.0,0.8,4,No,22.48125,112.40625,0.13333333333333333,0
+Research & Development,Laboratory Technician,2515.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,15.71875,235.78125,0.0375,1
+Research & Development,Laboratory Technician,4420.0,No,5.0,45.0,6,4.0,0.8,8,No,27.625,138.125,0.13333333333333333,0
+Sales,Sales Executive,6578.0,No,5.0,45.0,7,3.0,0.6,10,No,41.1125,205.5625,0.09999999999999999,0
+Research & Development,Research Scientist,4422.0,Yes,15.0,55.0,5,3.0,0.6,1,No,27.6375,414.5625,0.0375,1
+Research & Development,Manufacturing Director,10274.0,No,5.0,45.0,7,3.0,0.6,7,No,64.2125,321.0625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5343.0,No,5.0,45.0,5,4.0,0.8,13,No,33.39375,166.96875,0.13333333333333333,0
+Research & Development,Laboratory Technician,2376.0,No,5.0,45.0,6,3.0,0.6,2,No,14.85,74.25,0.09999999999999999,0
+Sales,Sales Executive,5346.0,No,5.0,45.0,6,3.0,0.6,4,Yes,33.4125,167.0625,0.09999999999999999,0
+Sales,Sales Representative,2827.0,No,5.0,45.0,8,3.0,0.6,1,No,17.66875,88.34375,0.09999999999999999,0
+Research & Development,Manager,19943.0,No,5.0,45.0,5,3.0,0.6,5,No,124.64375,623.21875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3131.0,No,5.0,45.0,5,3.0,0.6,10,No,19.56875,97.84375,0.09999999999999999,0
+Research & Development,Research Scientist,2552.0,No,5.0,45.0,5,4.0,0.8,1,No,15.95,79.75,0.13333333333333333,0
+Research & Development,Research Scientist,4477.0,Yes,15.0,55.0,3,3.0,0.6,3,No,27.98125,419.71875,0.0375,1
+Research & Development,Manufacturing Director,6474.0,No,5.0,45.0,8,3.0,0.6,14,No,40.4625,202.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3033.0,No,5.0,45.0,5,3.0,0.6,2,No,18.95625,94.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2936.0,Yes,15.0,55.0,7,3.0,0.6,6,Yes,18.35,275.25,0.0375,1
+Research & Development,Manager,18606.0,No,5.0,45.0,4,3.0,0.6,7,No,116.2875,581.4375,0.09999999999999999,0
+Research & Development,Research Scientist,2168.0,Yes,15.0,55.0,8,3.0,0.6,5,No,13.55,203.25,0.0375,1
+Research & Development,Research Scientist,2853.0,Yes,15.0,55.0,5,3.0,0.6,0,Yes,17.83125,267.46875,0.0375,1
+Sales,Manager,17048.0,No,5.0,45.0,5,4.0,0.8,26,No,106.55,532.75,0.13333333333333333,0
+Research & Development,Research Scientist,2290.0,No,5.0,45.0,7,3.0,0.6,0,No,14.3125,71.5625,0.09999999999999999,0
+Human Resources,Human Resources,3600.0,No,5.0,45.0,3,3.0,0.6,5,No,22.5,112.5,0.09999999999999999,0
+Research & Development,Research Scientist,2107.0,No,5.0,45.0,8,3.0,0.6,1,Yes,13.16875,65.84375,0.09999999999999999,0
+Sales,Sales Executive,4115.0,No,5.0,45.0,7,3.0,0.6,4,No,25.71875,128.59375,0.09999999999999999,0
+Sales,Sales Executive,4327.0,No,5.0,45.0,5,3.0,0.6,0,No,27.04375,135.21875,0.09999999999999999,0
+Research & Development,Manager,17856.0,No,5.0,45.0,3,4.0,0.8,2,No,111.6,558.0,0.13333333333333333,0
+Research & Development,Laboratory Technician,3196.0,No,5.0,45.0,5,3.0,0.6,6,No,19.975,99.875,0.09999999999999999,0
+Research & Development,Research Director,19081.0,No,5.0,45.0,4,3.0,0.6,4,No,119.25625,596.28125,0.09999999999999999,0
+Sales,Sales Executive,8966.0,Yes,15.0,55.0,5,3.0,0.6,7,No,56.0375,840.5625,0.0375,1
+Research & Development,Laboratory Technician,2210.0,No,5.0,45.0,6,3.0,0.6,1,Yes,13.8125,69.0625,0.09999999999999999,0
+Sales,Sales Executive,4539.0,No,5.0,45.0,8,3.0,0.6,10,No,28.36875,141.84375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2741.0,No,5.0,45.0,5,3.0,0.6,7,No,17.13125,85.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3491.0,No,5.0,45.0,7,3.0,0.6,10,No,21.81875,109.09375,0.09999999999999999,0
+Research & Development,Research Scientist,4541.0,No,5.0,45.0,7,4.0,0.8,20,No,28.38125,141.90625,0.13333333333333333,0
+Sales,Sales Representative,2678.0,No,5.0,45.0,7,3.0,0.6,2,No,16.7375,83.6875,0.09999999999999999,0
+Research & Development,Manufacturing Director,7379.0,No,5.0,45.0,6,3.0,0.6,6,No,46.11875,230.59375,0.09999999999999999,0
+Human Resources,Human Resources,6272.0,No,5.0,45.0,5,3.0,0.6,4,No,39.2,196.0,0.09999999999999999,0
+Sales,Sales Executive,5220.0,Yes,15.0,55.0,8,3.0,0.6,11,No,32.625,489.375,0.0375,1
+Research & Development,Laboratory Technician,2743.0,No,5.0,45.0,6,4.0,0.8,2,No,17.14375,85.71875,0.13333333333333333,0
+Research & Development,Research Scientist,4998.0,Yes,15.0,55.0,5,3.0,0.6,8,No,31.2375,468.5625,0.0375,1
+Research & Development,Manufacturing Director,10252.0,Yes,15.0,55.0,8,4.0,0.8,7,No,64.075,961.125,0.05,0
+Research & Development,Research Scientist,2781.0,No,5.0,45.0,3,3.0,0.6,14,No,17.38125,86.90625,0.09999999999999999,0
+Sales,Sales Executive,6852.0,No,5.0,45.0,8,3.0,0.6,5,No,42.825,214.125,0.09999999999999999,0
+Sales,Sales Executive,4950.0,No,5.0,45.0,3,3.0,0.6,4,No,30.9375,154.6875,0.09999999999999999,0
+Research & Development,Research Scientist,3579.0,Yes,15.0,55.0,4,4.0,0.8,11,No,22.36875,335.53125,0.05,0
+Research & Development,Research Director,13191.0,Yes,15.0,55.0,5,3.0,0.6,1,No,82.44375,1236.65625,0.0375,1
+Sales,Sales Executive,10377.0,Yes,15.0,55.0,4,3.0,0.6,13,No,64.85625,972.84375,0.0375,1
+Research & Development,Research Scientist,2235.0,Yes,15.0,55.0,8,3.0,0.6,9,No,13.96875,209.53125,0.0375,1
+Research & Development,Manufacturing Director,10502.0,No,5.0,45.0,7,3.0,0.6,5,No,65.6375,328.1875,0.09999999999999999,0
+Research & Development,Research Scientist,2011.0,No,5.0,45.0,3,3.0,0.6,10,No,12.56875,62.84375,0.09999999999999999,0
+Research & Development,Research Scientist,1859.0,Yes,15.0,55.0,6,4.0,0.8,1,Yes,11.61875,174.28125,0.05,0
+Research & Development,Research Scientist,3760.0,No,5.0,45.0,6,3.0,0.6,3,No,23.5,117.5,0.09999999999999999,0
+Research & Development,Research Director,17779.0,No,5.0,45.0,5,3.0,0.6,10,No,111.11875,555.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,6833.0,Yes,15.0,55.0,4,3.0,0.6,6,No,42.70625,640.59375,0.0375,1
+Research & Development,Healthcare Representative,6812.0,No,5.0,45.0,4,3.0,0.6,10,No,42.575,212.875,0.09999999999999999,0
+Sales,Sales Executive,5171.0,No,5.0,45.0,4,3.0,0.6,6,No,32.31875,161.59375,0.09999999999999999,0
+Research & Development,Research Director,19740.0,No,5.0,45.0,6,3.0,0.6,8,No,123.375,616.875,0.09999999999999999,0
+Research & Development,Manager,18711.0,No,5.0,45.0,8,3.0,0.6,1,No,116.94375,584.71875,0.09999999999999999,0
+Research & Development,Research Scientist,3692.0,No,5.0,45.0,8,3.0,0.6,11,No,23.075,115.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2559.0,No,5.0,45.0,8,3.0,0.6,1,No,15.99375,79.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2517.0,No,5.0,45.0,8,3.0,0.6,5,No,15.73125,78.65625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6623.0,Yes,15.0,55.0,7,3.0,0.6,6,No,41.39375,620.90625,0.0375,1
+Research & Development,Research Director,18265.0,No,5.0,45.0,6,3.0,0.6,1,No,114.15625,570.78125,0.09999999999999999,0
+Research & Development,Research Director,16124.0,No,5.0,45.0,3,3.0,0.6,7,No,100.775,503.875,0.09999999999999999,0
+Research & Development,Research Scientist,2585.0,No,5.0,45.0,7,3.0,0.6,1,No,16.15625,80.78125,0.09999999999999999,0
+Sales,Manager,18213.0,No,5.0,45.0,6,3.0,0.6,22,No,113.83125,569.15625,0.09999999999999999,0
+Sales,Sales Executive,8380.0,Yes,15.0,55.0,4,3.0,0.6,9,No,52.375,785.625,0.0375,1
+Research & Development,Research Scientist,2994.0,Yes,15.0,55.0,5,3.0,0.6,1,No,18.7125,280.6875,0.0375,1
+Research & Development,Research Scientist,1223.0,No,5.0,45.0,4,4.0,0.8,1,No,7.64375,38.21875,0.13333333333333333,0
+Sales,Sales Representative,1118.0,Yes,15.0,55.0,7,3.0,0.6,1,Yes,6.9875,104.8125,0.0375,1
+Research & Development,Research Scientist,2875.0,Yes,15.0,55.0,3,4.0,0.8,8,No,17.96875,269.53125,0.05,0
+Sales,Manager,18824.0,Yes,15.0,55.0,7,3.0,0.6,24,Yes,117.65,1764.75,0.0375,1
+Research & Development,Healthcare Representative,13577.0,Yes,15.0,55.0,6,3.0,0.6,33,No,84.85625,1272.84375,0.0375,1
+Research & Development,Laboratory Technician,2625.0,No,5.0,45.0,5,4.0,0.8,2,Yes,16.40625,82.03125,0.13333333333333333,0
+Sales,Manager,18789.0,No,5.0,45.0,3,3.0,0.6,11,No,117.43125,587.15625,0.09999999999999999,0
+Sales,Sales Executive,4538.0,Yes,15.0,55.0,3,3.0,0.6,3,No,28.3625,425.4375,0.0375,1
+Sales,Manager,19847.0,Yes,15.0,55.0,5,4.0,0.8,29,No,124.04375,1860.65625,0.05,0
+Research & Development,Manufacturing Director,10512.0,No,5.0,45.0,4,3.0,0.6,9,No,65.7,328.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,4444.0,No,5.0,45.0,5,3.0,0.6,11,No,27.775,138.875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2154.0,Yes,15.0,55.0,6,3.0,0.6,4,No,13.4625,201.9375,0.0375,1
+Research & Development,Manager,19190.0,No,5.0,45.0,5,3.0,0.6,25,No,119.9375,599.6875,0.09999999999999999,0
+Human Resources,Human Resources,4490.0,No,5.0,45.0,7,3.0,0.6,10,No,28.0625,140.3125,0.09999999999999999,0
+Research & Development,Research Scientist,3506.0,Yes,15.0,55.0,6,3.0,0.6,3,No,21.9125,328.6875,0.0375,1
+Research & Development,Research Scientist,2372.0,Yes,15.0,55.0,5,3.0,0.6,1,No,14.825,222.375,0.0375,1
+Sales,Sales Executive,10231.0,No,5.0,45.0,7,3.0,0.6,21,No,63.94375,319.71875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5410.0,Yes,15.0,55.0,7,3.0,0.6,16,No,33.8125,507.1875,0.0375,1
+Research & Development,Healthcare Representative,7978.0,No,5.0,45.0,7,3.0,0.6,10,Yes,49.8625,249.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3867.0,Yes,15.0,55.0,4,3.0,0.6,2,No,24.16875,362.53125,0.0375,1
+Research & Development,Laboratory Technician,2838.0,No,5.0,45.0,4,3.0,0.6,7,No,17.7375,88.6875,0.09999999999999999,0
+Research & Development,Manufacturing Director,4695.0,Yes,15.0,55.0,8,3.0,0.6,8,No,29.34375,440.15625,0.0375,1
+Research & Development,Laboratory Technician,3339.0,Yes,15.0,55.0,5,3.0,0.6,7,Yes,20.86875,313.03125,0.0375,1
+Research & Development,Research Scientist,2080.0,No,5.0,45.0,7,3.0,0.6,3,No,13.0,65.0,0.09999999999999999,0
+Research & Development,Research Scientist,2096.0,No,5.0,45.0,7,3.0,0.6,2,No,13.1,65.5,0.09999999999999999,0
+Sales,Sales Executive,6209.0,No,5.0,45.0,6,3.0,0.6,10,No,38.80625,194.03125,0.09999999999999999,0
+Research & Development,Manager,18061.0,No,5.0,45.0,6,4.0,0.8,0,No,112.88125,564.40625,0.13333333333333333,0
+Research & Development,Manager,17123.0,Yes,15.0,55.0,3,3.0,0.6,19,No,107.01875,1605.28125,0.0375,1
+Research & Development,Research Scientist,2372.0,No,5.0,45.0,7,3.0,0.6,2,No,14.825,74.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,4883.0,No,5.0,45.0,7,3.0,0.6,10,Yes,30.51875,152.59375,0.09999999999999999,0
+Research & Development,Research Scientist,3904.0,No,5.0,45.0,4,3.0,0.6,5,Yes,24.4,122.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,4627.0,No,5.0,45.0,4,3.0,0.6,9,No,28.91875,144.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,7094.0,No,5.0,45.0,3,3.0,0.6,7,No,44.3375,221.6875,0.09999999999999999,0
+Human Resources,Human Resources,3423.0,No,5.0,45.0,5,3.0,0.6,7,No,21.39375,106.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,6674.0,No,5.0,45.0,5,3.0,0.6,9,No,41.7125,208.5625,0.09999999999999999,0
+Research & Development,Research Director,16880.0,Yes,15.0,55.0,5,3.0,0.6,3,No,105.5,1582.5,0.0375,1
+Sales,Sales Executive,9094.0,Yes,15.0,55.0,5,3.0,0.6,5,Yes,56.8375,852.5625,0.0375,1
+Sales,Sales Executive,8446.0,Yes,15.0,55.0,6,3.0,0.6,8,Yes,52.7875,791.8125,0.0375,1
+Research & Development,Manager,11916.0,Yes,15.0,55.0,5,4.0,0.8,9,No,74.475,1117.125,0.05,0
+Research & Development,Manufacturing Director,4534.0,No,5.0,45.0,6,3.0,0.6,8,No,28.3375,141.6875,0.09999999999999999,0
+Sales,Sales Executive,9852.0,Yes,15.0,55.0,8,3.0,0.6,10,No,61.575,923.625,0.0375,1
+Sales,Sales Executive,6151.0,No,5.0,45.0,3,3.0,0.6,19,No,38.44375,192.21875,0.09999999999999999,0
+Sales,Sales Representative,2302.0,Yes,15.0,55.0,3,3.0,0.6,3,Yes,14.3875,215.8125,0.0375,1
+Research & Development,Laboratory Technician,2362.0,No,5.0,45.0,6,3.0,0.6,3,Yes,14.7625,73.8125,0.09999999999999999,0
+Research & Development,Manager,17861.0,Yes,15.0,55.0,6,3.0,0.6,20,No,111.63125,1674.46875,0.0375,1
+Research & Development,Manager,19187.0,No,5.0,45.0,5,3.0,0.6,19,No,119.91875,599.59375,0.09999999999999999,0
+Human Resources,Manager,19717.0,No,5.0,45.0,3,3.0,0.6,7,No,123.23125,616.15625,0.09999999999999999,0
+Research & Development,Research Scientist,3544.0,No,5.0,45.0,4,3.0,0.6,4,No,22.15,110.75,0.09999999999999999,0
+Research & Development,Healthcare Representative,8500.0,No,5.0,45.0,7,3.0,0.6,9,No,53.125,265.625,0.09999999999999999,0
+Research & Development,Research Scientist,4661.0,No,5.0,45.0,6,3.0,0.6,9,No,29.13125,145.65625,0.09999999999999999,0
+Sales,Sales Executive,4103.0,No,5.0,45.0,5,3.0,0.6,9,No,25.64375,128.21875,0.09999999999999999,0
+Research & Development,Research Scientist,4249.0,Yes,15.0,55.0,7,3.0,0.6,9,No,26.55625,398.34375,0.0375,1
+Human Resources,Manager,14026.0,Yes,15.0,55.0,8,3.0,0.6,33,No,87.6625,1314.9375,0.0375,1
+Sales,Sales Executive,6893.0,No,5.0,45.0,4,3.0,0.6,7,No,43.08125,215.40625,0.09999999999999999,0
+Sales,Sales Executive,6125.0,No,5.0,45.0,6,3.0,0.6,10,No,38.28125,191.40625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3669.0,No,5.0,45.0,3,3.0,0.6,3,No,22.93125,114.65625,0.09999999999999999,0
+Research & Development,Manufacturing Director,10008.0,Yes,15.0,55.0,6,3.0,0.6,10,Yes,62.55,938.25,0.0375,1
+Research & Development,Laboratory Technician,2387.0,No,5.0,45.0,4,4.0,0.8,4,No,14.91875,74.59375,0.13333333333333333,0
+Sales,Sales Executive,4639.0,No,5.0,45.0,4,3.0,0.6,15,No,28.99375,144.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,7898.0,No,5.0,45.0,8,3.0,0.6,10,No,49.3625,246.8125,0.09999999999999999,0
+Sales,Sales Representative,2534.0,No,5.0,45.0,7,3.0,0.6,1,No,15.8375,79.1875,0.09999999999999999,0
+Research & Development,Manufacturing Director,13142.0,No,5.0,45.0,6,3.0,0.6,5,No,82.1375,410.6875,0.09999999999999999,0
+Research & Development,Laboratory Technician,1611.0,No,5.0,45.0,7,3.0,0.6,0,No,10.06875,50.34375,0.09999999999999999,0
+Research & Development,Laboratory Technician,5363.0,No,5.0,45.0,4,3.0,0.6,9,No,33.51875,167.59375,0.09999999999999999,0
+Sales,Sales Executive,5071.0,No,5.0,45.0,5,4.0,0.8,6,No,31.69375,158.46875,0.13333333333333333,0
+Sales,Sales Executive,13695.0,Yes,15.0,55.0,5,3.0,0.6,19,Yes,85.59375,1283.90625,0.0375,1
+Research & Development,Manufacturing Director,13402.0,Yes,15.0,55.0,8,3.0,0.6,19,No,83.7625,1256.4375,0.0375,1
+Research & Development,Research Scientist,2029.0,No,5.0,45.0,4,4.0,0.8,5,No,12.68125,63.40625,0.13333333333333333,0
+Research & Development,Healthcare Representative,6377.0,No,5.0,45.0,7,4.0,0.8,12,No,39.85625,199.28125,0.13333333333333333,0
+Research & Development,Laboratory Technician,5429.0,No,5.0,45.0,5,3.0,0.6,8,No,33.93125,169.65625,0.09999999999999999,0
+Sales,Sales Representative,2785.0,No,5.0,45.0,5,3.0,0.6,1,Yes,17.40625,87.03125,0.09999999999999999,0
+Sales,Sales Executive,4614.0,Yes,15.0,55.0,6,3.0,0.6,4,Yes,28.8375,432.5625,0.0375,1
+Research & Development,Research Scientist,2610.0,No,5.0,45.0,7,3.0,0.6,4,No,16.3125,81.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6687.0,No,5.0,45.0,4,3.0,0.6,14,No,41.79375,208.96875,0.09999999999999999,0
+Sales,Sales Executive,4724.0,No,5.0,45.0,4,3.0,0.6,5,No,29.525,147.625,0.09999999999999999,0
+Research & Development,Manufacturing Director,6179.0,Yes,15.0,55.0,3,3.0,0.6,10,Yes,38.61875,579.28125,0.0375,1
+Sales,Sales Executive,6120.0,Yes,15.0,55.0,6,3.0,0.6,5,No,38.25,573.75,0.0375,1
+Sales,Sales Executive,10596.0,No,5.0,45.0,4,3.0,0.6,4,No,66.225,331.125,0.09999999999999999,0
+Research & Development,Research Scientist,5467.0,Yes,15.0,55.0,3,3.0,0.6,6,No,34.16875,512.53125,0.0375,1
+Research & Development,Research Scientist,2996.0,Yes,15.0,55.0,4,3.0,0.6,6,No,18.725,280.875,0.0375,1
+Sales,Sales Executive,9998.0,No,5.0,45.0,6,3.0,0.6,5,No,62.4875,312.4375,0.09999999999999999,0
+Sales,Sales Executive,4078.0,Yes,15.0,55.0,8,3.0,0.6,3,No,25.4875,382.3125,0.0375,1
+Research & Development,Healthcare Representative,10920.0,No,5.0,45.0,7,4.0,0.8,6,No,68.25,341.25,0.13333333333333333,0
+Sales,Sales Executive,6232.0,No,5.0,45.0,7,3.0,0.6,3,No,38.95,194.75,0.09999999999999999,0
+Research & Development,Manufacturing Director,13247.0,Yes,15.0,55.0,6,3.0,0.6,5,No,82.79375,1241.90625,0.0375,1
+Research & Development,Research Scientist,4081.0,Yes,15.0,55.0,8,3.0,0.6,20,No,25.50625,382.59375,0.0375,1
+Sales,Sales Executive,5769.0,Yes,15.0,55.0,5,3.0,0.6,6,No,36.05625,540.84375,0.0375,1
+Research & Development,Research Scientist,2394.0,Yes,15.0,55.0,8,3.0,0.6,8,Yes,14.9625,224.4375,0.0375,1
+Research & Development,Research Scientist,3904.0,No,5.0,45.0,7,3.0,0.6,4,No,24.4,122.0,0.09999999999999999,0
+Human Resources,Manager,16799.0,No,5.0,45.0,6,3.0,0.6,20,No,104.99375,524.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2950.0,No,5.0,45.0,5,3.0,0.6,5,No,18.4375,92.1875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3629.0,No,5.0,45.0,3,3.0,0.6,3,No,22.68125,113.40625,0.09999999999999999,0
+Research & Development,Manufacturing Director,9362.0,No,5.0,45.0,6,3.0,0.6,2,No,58.5125,292.5625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3229.0,No,5.0,45.0,4,3.0,0.6,3,No,20.18125,100.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3578.0,No,5.0,45.0,4,3.0,0.6,7,No,22.3625,111.8125,0.09999999999999999,0
+Human Resources,Human Resources,7988.0,No,5.0,45.0,3,3.0,0.6,10,No,49.925,249.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4284.0,No,5.0,45.0,8,4.0,0.8,4,Yes,26.775,133.875,0.13333333333333333,0
+Research & Development,Healthcare Representative,7553.0,Yes,15.0,55.0,4,3.0,0.6,8,Yes,47.20625,708.09375,0.0375,1
+Research & Development,Research Director,17328.0,No,5.0,45.0,4,3.0,0.6,20,No,108.3,541.5,0.09999999999999999,0
+Research & Development,Research Director,19701.0,Yes,15.0,55.0,7,4.0,0.8,9,No,123.13125,1846.96875,0.05,0
+Research & Development,Research Director,14732.0,No,5.0,45.0,5,3.0,0.6,7,No,92.075,460.375,0.09999999999999999,0
+Sales,Sales Executive,9278.0,Yes,15.0,55.0,4,3.0,0.6,5,No,57.9875,869.8125,0.0375,1
+Sales,Sales Representative,1359.0,No,5.0,45.0,5,3.0,0.6,1,Yes,8.49375,42.46875,0.09999999999999999,0
+Sales,Sales Executive,4779.0,No,5.0,45.0,7,3.0,0.6,3,No,29.86875,149.34375,0.09999999999999999,0
+Research & Development,Research Director,16422.0,No,5.0,45.0,7,3.0,0.6,3,No,102.6375,513.1875,0.09999999999999999,0
+Research & Development,Research Scientist,2996.0,No,5.0,45.0,5,3.0,0.6,4,No,18.725,93.625,0.09999999999999999,0
+Research & Development,Research Scientist,1261.0,No,5.0,45.0,8,3.0,0.6,1,Yes,7.88125,39.40625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2099.0,No,5.0,45.0,8,3.0,0.6,5,No,13.11875,65.59375,0.09999999999999999,0
+Research & Development,Laboratory Technician,5810.0,No,5.0,45.0,3,3.0,0.6,10,No,36.3125,181.5625,0.09999999999999999,0
+Sales,Sales Executive,5647.0,No,5.0,45.0,7,3.0,0.6,3,No,35.29375,176.46875,0.09999999999999999,0
+Research & Development,Research Scientist,3420.0,No,5.0,45.0,3,3.0,0.6,6,No,21.375,106.875,0.09999999999999999,0
+Sales,Sales Representative,4400.0,No,5.0,45.0,6,3.0,0.6,3,Yes,27.5,137.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,3500.0,No,5.0,45.0,6,3.0,0.6,6,No,21.875,109.375,0.09999999999999999,0
+Research & Development,Research Scientist,2066.0,No,5.0,45.0,6,4.0,0.8,3,No,12.9125,64.5625,0.13333333333333333,0
+Research & Development,Research Director,17169.0,No,5.0,45.0,7,3.0,0.6,20,No,107.30625,536.53125,0.09999999999999999,0
+Sales,Sales Executive,4162.0,Yes,15.0,55.0,8,3.0,0.6,5,No,26.0125,390.1875,0.0375,1
+Sales,Sales Executive,9204.0,No,5.0,45.0,7,3.0,0.6,4,No,57.525,287.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3294.0,No,5.0,45.0,4,3.0,0.6,5,No,20.5875,102.9375,0.09999999999999999,0
+Research & Development,Research Scientist,2127.0,Yes,15.0,55.0,8,3.0,0.6,4,No,13.29375,199.40625,0.0375,1
+Research & Development,Laboratory Technician,3975.0,No,5.0,45.0,6,3.0,0.6,8,No,24.84375,124.21875,0.09999999999999999,0
+Sales,Sales Executive,10793.0,No,5.0,45.0,3,3.0,0.6,13,No,67.45625,337.28125,0.09999999999999999,0
+Sales,Sales Executive,10096.0,No,5.0,45.0,3,3.0,0.6,7,Yes,63.1,315.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,3646.0,Yes,15.0,55.0,8,4.0,0.8,1,Yes,22.7875,341.8125,0.05,0
+Research & Development,Manufacturing Director,7446.0,No,5.0,45.0,3,3.0,0.6,10,Yes,46.5375,232.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,10851.0,Yes,15.0,55.0,3,3.0,0.6,7,No,67.81875,1017.2812499999999,0.0375,1
+Human Resources,Human Resources,2109.0,No,5.0,45.0,5,3.0,0.6,3,No,13.18125,65.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3722.0,Yes,15.0,55.0,3,3.0,0.6,2,Yes,23.2625,348.9375,0.0375,1
+Research & Development,Manufacturing Director,9380.0,Yes,15.0,55.0,8,3.0,0.6,3,No,58.625,879.375,0.0375,1
+Sales,Sales Executive,5486.0,No,5.0,45.0,8,3.0,0.6,2,No,34.2875,171.4375,0.09999999999999999,0
+Human Resources,Human Resources,2742.0,No,5.0,45.0,7,3.0,0.6,2,Yes,17.1375,85.6875,0.09999999999999999,0
+Research & Development,Research Director,13757.0,No,5.0,45.0,4,3.0,0.6,9,No,85.98125,429.90625,0.09999999999999999,0
+Sales,Sales Executive,8463.0,No,5.0,45.0,4,3.0,0.6,5,No,52.89375,264.46875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3162.0,No,5.0,45.0,8,3.0,0.6,5,No,19.7625,98.8125,0.09999999999999999,0
+Research & Development,Research Director,16598.0,No,5.0,45.0,8,3.0,0.6,9,No,103.7375,518.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,6651.0,No,5.0,45.0,6,3.0,0.6,3,No,41.56875,207.84375,0.09999999999999999,0
+Research & Development,Research Scientist,2345.0,No,5.0,45.0,5,3.0,0.6,3,No,14.65625,73.28125,0.09999999999999999,0
+Research & Development,Research Scientist,3420.0,No,5.0,45.0,6,3.0,0.6,5,No,21.375,106.875,0.09999999999999999,0
+Sales,Sales Executive,4373.0,No,5.0,45.0,3,3.0,0.6,4,No,27.33125,136.65625,0.09999999999999999,0
+Sales,Sales Executive,4759.0,No,5.0,45.0,7,3.0,0.6,13,No,29.74375,148.71875,0.09999999999999999,0
+Sales,Sales Executive,5301.0,No,5.0,45.0,8,3.0,0.6,2,No,33.13125,165.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3673.0,No,5.0,45.0,7,3.0,0.6,12,No,22.95625,114.78125,0.09999999999999999,0
+Sales,Sales Executive,4768.0,No,5.0,45.0,4,3.0,0.6,1,No,29.8,149.0,0.09999999999999999,0
+Research & Development,Research Scientist,1274.0,No,5.0,45.0,7,3.0,0.6,1,No,7.9625,39.8125,0.09999999999999999,0
+Research & Development,Research Scientist,4900.0,No,5.0,45.0,7,4.0,0.8,12,No,30.625,153.125,0.13333333333333333,0
+Research & Development,Healthcare Representative,10466.0,No,5.0,45.0,8,3.0,0.6,8,No,65.4125,327.0625,0.09999999999999999,0
+Research & Development,Research Director,17007.0,No,5.0,45.0,3,3.0,0.6,14,No,106.29375,531.46875,0.09999999999999999,0
+Sales,Sales Representative,2909.0,No,5.0,45.0,4,3.0,0.6,3,Yes,18.18125,90.90625,0.09999999999999999,0
+Sales,Sales Executive,5765.0,No,5.0,45.0,7,3.0,0.6,5,Yes,36.03125,180.15625,0.09999999999999999,0
+Sales,Sales Executive,4599.0,Yes,15.0,55.0,6,4.0,0.8,15,Yes,28.74375,431.15625,0.05,0
+Sales,Sales Representative,2404.0,No,5.0,45.0,3,3.0,0.6,1,No,15.025,75.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3172.0,Yes,15.0,55.0,8,3.0,0.6,0,Yes,19.825,297.375,0.0375,1
+Sales,Sales Representative,2033.0,No,5.0,45.0,6,3.0,0.6,1,No,12.70625,63.53125,0.09999999999999999,0
+Research & Development,Manufacturing Director,10209.0,Yes,15.0,55.0,4,3.0,0.6,2,No,63.80625,957.09375,0.0375,1
+Sales,Sales Executive,8620.0,No,5.0,45.0,7,3.0,0.6,10,No,53.875,269.375,0.09999999999999999,0
+Human Resources,Human Resources,2064.0,No,5.0,45.0,5,4.0,0.8,5,No,12.9,64.5,0.13333333333333333,0
+Research & Development,Healthcare Representative,4035.0,Yes,15.0,55.0,5,3.0,0.6,3,No,25.21875,378.28125,0.0375,1
+Research & Development,Laboratory Technician,3838.0,No,5.0,45.0,5,3.0,0.6,5,No,23.9875,119.9375,0.09999999999999999,0
+Sales,Sales Executive,4591.0,Yes,15.0,55.0,3,3.0,0.6,5,No,28.69375,430.40625,0.0375,1
+Research & Development,Laboratory Technician,2561.0,No,5.0,45.0,8,3.0,0.6,0,Yes,16.00625,80.03125,0.09999999999999999,0
+Research & Development,Research Scientist,1563.0,No,5.0,45.0,3,3.0,0.6,1,No,9.76875,48.84375,0.09999999999999999,0
+Sales,Sales Executive,4898.0,No,5.0,45.0,6,3.0,0.6,4,No,30.6125,153.0625,0.09999999999999999,0
+Research & Development,Laboratory Technician,4789.0,No,5.0,45.0,6,4.0,0.8,3,No,29.93125,149.65625,0.13333333333333333,0
+Research & Development,Laboratory Technician,3180.0,No,5.0,45.0,6,3.0,0.6,3,No,19.875,99.375,0.09999999999999999,0
+Research & Development,Manufacturing Director,6549.0,No,5.0,45.0,8,3.0,0.6,8,No,40.93125,204.65625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6388.0,Yes,15.0,55.0,4,3.0,0.6,0,No,39.925,598.875,0.0375,1
+Research & Development,Manager,11244.0,No,5.0,45.0,3,4.0,0.8,5,No,70.275,351.375,0.13333333333333333,0
+Research & Development,Manager,16032.0,No,5.0,45.0,4,4.0,0.8,14,No,100.2,501.0,0.13333333333333333,0
+Research & Development,Research Scientist,2362.0,No,5.0,45.0,4,3.0,0.6,9,Yes,14.7625,73.8125,0.09999999999999999,0
+Research & Development,Research Director,16328.0,No,5.0,45.0,8,3.0,0.6,20,No,102.05,510.25,0.09999999999999999,0
+Research & Development,Manufacturing Director,8376.0,No,5.0,45.0,5,3.0,0.6,2,No,52.35,261.75,0.09999999999999999,0
+Sales,Manager,16606.0,No,5.0,45.0,6,3.0,0.6,13,No,103.7875,518.9375,0.09999999999999999,0
+Research & Development,Healthcare Representative,8606.0,No,5.0,45.0,8,3.0,0.6,11,No,53.7875,268.9375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2272.0,No,5.0,45.0,6,3.0,0.6,4,No,14.2,71.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,2018.0,No,5.0,45.0,5,3.0,0.6,5,Yes,12.6125,63.0625,0.09999999999999999,0
+Sales,Sales Executive,7083.0,Yes,15.0,55.0,5,3.0,0.6,10,No,44.26875,664.03125,0.0375,1
+Research & Development,Research Scientist,4084.0,No,5.0,45.0,5,3.0,0.6,7,Yes,25.525,127.625,0.09999999999999999,0
+Research & Development,Research Director,14411.0,Yes,15.0,55.0,8,3.0,0.6,32,No,90.06875,1351.03125,0.0375,1
+Sales,Sales Representative,2308.0,Yes,15.0,55.0,8,4.0,0.8,11,No,14.425,216.375,0.05,0
+Research & Development,Laboratory Technician,4841.0,No,5.0,45.0,8,3.0,0.6,1,No,30.25625,151.28125,0.09999999999999999,0
+Research & Development,Research Scientist,4285.0,No,5.0,45.0,7,3.0,0.6,10,No,26.78125,133.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,9715.0,No,5.0,45.0,5,3.0,0.6,7,No,60.71875,303.59375,0.09999999999999999,0
+Research & Development,Manufacturing Director,4320.0,No,5.0,45.0,5,3.0,0.6,5,No,27.0,135.0,0.09999999999999999,0
+Research & Development,Research Scientist,2132.0,No,5.0,45.0,8,4.0,0.8,5,No,13.325,66.625,0.13333333333333333,0
+Research & Development,Healthcare Representative,10124.0,Yes,15.0,55.0,3,3.0,0.6,20,No,63.275,949.125,0.0375,1
+Sales,Sales Executive,5473.0,No,5.0,45.0,5,3.0,0.6,8,No,34.20625,171.03125,0.09999999999999999,0
+Research & Development,Laboratory Technician,5207.0,Yes,15.0,55.0,8,3.0,0.6,15,No,32.54375,488.15625000000006,0.0375,1
+Human Resources,Manager,16437.0,Yes,15.0,55.0,6,4.0,0.8,21,No,102.73125,1540.96875,0.05,0
+Research & Development,Laboratory Technician,2296.0,No,5.0,45.0,3,3.0,0.6,1,No,14.35,71.75,0.09999999999999999,0
+Research & Development,Healthcare Representative,4069.0,Yes,15.0,55.0,4,3.0,0.6,2,No,25.43125,381.46875,0.0375,1
+Research & Development,Healthcare Representative,7441.0,No,5.0,45.0,8,3.0,0.6,10,No,46.50625,232.53125,0.09999999999999999,0
+Sales,Sales Representative,2430.0,No,5.0,45.0,8,4.0,0.8,5,No,15.1875,75.9375,0.13333333333333333,0
+Research & Development,Research Scientist,5878.0,No,5.0,45.0,3,3.0,0.6,7,No,36.7375,183.6875,0.09999999999999999,0
+Sales,Sales Representative,2644.0,Yes,15.0,55.0,5,4.0,0.8,3,No,16.525,247.87499999999997,0.05,0
+Sales,Sales Executive,6439.0,No,5.0,45.0,7,3.0,0.6,8,No,40.24375,201.21875,0.09999999999999999,0
+Research & Development,Research Scientist,2451.0,No,5.0,45.0,7,3.0,0.6,1,No,15.31875,76.59375,0.09999999999999999,0
+Sales,Sales Executive,6392.0,No,5.0,45.0,5,3.0,0.6,2,No,39.95,199.75,0.09999999999999999,0
+Sales,Sales Executive,9714.0,No,5.0,45.0,5,3.0,0.6,10,Yes,60.7125,303.5625,0.09999999999999999,0
+Human Resources,Human Resources,6077.0,No,5.0,45.0,4,3.0,0.6,6,No,37.98125,189.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2450.0,No,5.0,45.0,4,3.0,0.6,3,No,15.3125,76.5625,0.09999999999999999,0
+Sales,Sales Executive,9250.0,No,5.0,45.0,3,3.0,0.6,4,No,57.8125,289.0625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2074.0,Yes,15.0,55.0,5,3.0,0.6,1,Yes,12.9625,194.4375,0.0375,1
+Research & Development,Manufacturing Director,10169.0,No,5.0,45.0,4,3.0,0.6,33,Yes,63.55625,317.78125,0.09999999999999999,0
+Research & Development,Manufacturing Director,4855.0,No,5.0,45.0,6,3.0,0.6,5,Yes,30.34375,151.71875,0.09999999999999999,0
+Research & Development,Research Scientist,4087.0,No,5.0,45.0,6,3.0,0.6,6,No,25.54375,127.71875,0.09999999999999999,0
+Research & Development,Research Scientist,2367.0,No,5.0,45.0,6,3.0,0.6,8,No,14.79375,73.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2972.0,No,5.0,45.0,3,3.0,0.6,1,No,18.575,92.875,0.09999999999999999,0
+Sales,Manager,19586.0,No,5.0,45.0,4,4.0,0.8,36,No,122.4125,612.0625,0.13333333333333333,0
+Research & Development,Research Scientist,5484.0,No,5.0,45.0,6,3.0,0.6,2,No,34.275,171.375,0.09999999999999999,0
+Research & Development,Research Scientist,2061.0,No,5.0,45.0,7,4.0,0.8,1,No,12.88125,64.40625,0.13333333333333333,0
+Sales,Sales Executive,9924.0,No,5.0,45.0,7,3.0,0.6,9,No,62.025,310.125,0.09999999999999999,0
+Sales,Sales Executive,4198.0,No,5.0,45.0,5,3.0,0.6,3,No,26.2375,131.1875,0.09999999999999999,0
+Sales,Sales Executive,6815.0,No,5.0,45.0,5,3.0,0.6,1,No,42.59375,212.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,4723.0,Yes,15.0,55.0,4,3.0,0.6,10,No,29.51875,442.78125,0.0375,1
+Research & Development,Healthcare Representative,6142.0,Yes,15.0,55.0,6,3.0,0.6,5,No,38.3875,575.8125,0.0375,1
+Sales,Sales Executive,8237.0,No,5.0,45.0,6,3.0,0.6,7,No,51.48125,257.40625,0.09999999999999999,0
+Research & Development,Healthcare Representative,8853.0,No,5.0,45.0,7,3.0,0.6,6,No,55.33125,276.65625,0.09999999999999999,0
+Sales,Manager,19331.0,Yes,15.0,55.0,8,3.0,0.6,1,No,120.81875,1812.28125,0.0375,1
+Research & Development,Research Scientist,2073.0,No,5.0,45.0,6,3.0,0.6,2,No,12.95625,64.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,5562.0,Yes,15.0,55.0,7,3.0,0.6,3,No,34.7625,521.4375,0.0375,1
+Research & Development,Manager,19613.0,No,5.0,45.0,4,4.0,0.8,1,No,122.58125,612.90625,0.13333333333333333,0
+Research & Development,Laboratory Technician,3407.0,No,5.0,45.0,3,3.0,0.6,10,No,21.29375,106.46875,0.09999999999999999,0
+Research & Development,Healthcare Representative,5063.0,No,5.0,45.0,7,3.0,0.6,8,No,31.64375,158.21875,0.09999999999999999,0
+Sales,Sales Executive,4639.0,No,5.0,45.0,8,3.0,0.6,5,No,28.99375,144.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,4876.0,No,5.0,45.0,6,3.0,0.6,6,No,30.475,152.375,0.09999999999999999,0
+Research & Development,Laboratory Technician,2690.0,No,5.0,45.0,8,3.0,0.6,1,No,16.8125,84.0625,0.09999999999999999,0
+Sales,Manager,17567.0,No,5.0,45.0,7,3.0,0.6,26,No,109.79375,548.96875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2408.0,Yes,15.0,55.0,3,3.0,0.6,1,Yes,15.05,225.75,0.0375,1
+Research & Development,Research Scientist,2814.0,Yes,15.0,55.0,8,3.0,0.6,4,No,17.5875,263.8125,0.0375,1
+Research & Development,Healthcare Representative,11245.0,Yes,15.0,55.0,4,3.0,0.6,30,No,70.28125,1054.21875,0.0375,1
+Research & Development,Research Scientist,3312.0,No,5.0,45.0,4,3.0,0.6,3,No,20.7,103.5,0.09999999999999999,0
+Research & Development,Research Director,19049.0,Yes,15.0,55.0,8,3.0,0.6,22,No,119.05625,1785.84375,0.0375,1
+Research & Development,Research Scientist,2141.0,No,5.0,45.0,5,3.0,0.6,6,No,13.38125,66.90625,0.09999999999999999,0
+Research & Development,Laboratory Technician,5769.0,Yes,15.0,55.0,6,3.0,0.6,10,No,36.05625,540.84375,0.0375,1
+Sales,Sales Executive,4385.0,No,5.0,45.0,7,3.0,0.6,10,No,27.40625,137.03125,0.09999999999999999,0
+Sales,Sales Executive,5332.0,No,5.0,45.0,6,3.0,0.6,5,No,33.325,166.625,0.09999999999999999,0
+Research & Development,Manufacturing Director,4663.0,Yes,15.0,55.0,5,3.0,0.6,3,No,29.14375,437.15625,0.0375,1
+Research & Development,Manufacturing Director,4724.0,No,5.0,45.0,6,3.0,0.6,9,No,29.525,147.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,3211.0,No,5.0,45.0,8,3.0,0.6,9,No,20.06875,100.34375,0.09999999999999999,0
+Research & Development,Manufacturing Director,5377.0,No,5.0,45.0,4,3.0,0.6,7,No,33.60625,168.03125,0.09999999999999999,0
+Research & Development,Laboratory Technician,4066.0,No,5.0,45.0,3,3.0,0.6,7,No,25.4125,127.0625,0.09999999999999999,0
+Research & Development,Research Scientist,5208.0,No,5.0,45.0,5,3.0,0.6,16,No,32.55,162.75,0.09999999999999999,0
+Research & Development,Manufacturing Director,4877.0,No,5.0,45.0,3,4.0,0.8,5,No,30.48125,152.40625,0.13333333333333333,0
+Research & Development,Research Scientist,3117.0,No,5.0,45.0,8,3.0,0.6,2,No,19.48125,97.40625,0.09999999999999999,0
+Sales,Sales Representative,1569.0,Yes,15.0,55.0,4,3.0,0.6,0,Yes,9.80625,147.09375,0.0375,1
+Human Resources,Manager,19658.0,No,5.0,45.0,4,3.0,0.6,5,No,122.8625,614.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3069.0,No,5.0,45.0,3,3.0,0.6,10,No,19.18125,95.90625,0.09999999999999999,0
+Research & Development,Manufacturing Director,10435.0,No,5.0,45.0,7,3.0,0.6,18,No,65.21875,326.09375,0.09999999999999999,0
+Research & Development,Healthcare Representative,4148.0,No,5.0,45.0,5,3.0,0.6,14,No,25.925,129.625,0.09999999999999999,0
+Research & Development,Manufacturing Director,5768.0,No,5.0,45.0,8,3.0,0.6,4,No,36.05,180.25,0.09999999999999999,0
+Research & Development,Manufacturing Director,5042.0,No,5.0,45.0,5,3.0,0.6,9,No,31.5125,157.5625,0.09999999999999999,0
+Research & Development,Manufacturing Director,5770.0,No,5.0,45.0,6,3.0,0.6,10,No,36.0625,180.3125,0.09999999999999999,0
+Research & Development,Manufacturing Director,7756.0,Yes,15.0,55.0,4,3.0,0.6,5,No,48.475,727.125,0.0375,1
+Sales,Sales Executive,10306.0,No,5.0,45.0,4,3.0,0.6,13,Yes,64.4125,322.0625,0.09999999999999999,0
+Research & Development,Research Scientist,3936.0,No,5.0,45.0,5,3.0,0.6,8,No,24.6,123.0,0.09999999999999999,0
+Research & Development,Manufacturing Director,7945.0,Yes,15.0,55.0,3,3.0,0.6,4,No,49.65625,744.84375,0.0375,1
+Human Resources,Human Resources,5743.0,Yes,15.0,55.0,8,3.0,0.6,10,No,35.89375,538.40625,0.0375,1
+Research & Development,Manager,15202.0,No,5.0,45.0,7,4.0,0.8,2,No,95.0125,475.0625,0.13333333333333333,0
+Sales,Sales Executive,5440.0,Yes,15.0,55.0,8,3.0,0.6,2,Yes,34.0,510.0,0.0375,1
+Research & Development,Research Scientist,3760.0,Yes,15.0,55.0,6,3.0,0.6,6,No,23.5,352.5,0.0375,1
+Research & Development,Research Scientist,3517.0,No,5.0,45.0,4,3.0,0.6,3,No,21.98125,109.90625,0.09999999999999999,0
+Research & Development,Research Scientist,2580.0,No,5.0,45.0,8,3.0,0.6,4,No,16.125,80.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2166.0,Yes,15.0,55.0,8,3.0,0.6,4,Yes,13.5375,203.0625,0.0375,1
+Sales,Sales Executive,5869.0,No,5.0,45.0,6,3.0,0.6,5,No,36.68125,183.40625,0.09999999999999999,0
+Research & Development,Healthcare Representative,8008.0,No,5.0,45.0,5,3.0,0.6,3,No,50.05,250.25,0.09999999999999999,0
+Research & Development,Manufacturing Director,5206.0,No,5.0,45.0,4,3.0,0.6,7,No,32.5375,162.6875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5295.0,No,5.0,45.0,6,4.0,0.8,5,No,33.09375,165.46875,0.13333333333333333,0
+Research & Development,Research Director,16413.0,No,5.0,45.0,5,3.0,0.6,4,No,102.58125,512.90625,0.09999999999999999,0
+Research & Development,Research Director,13269.0,No,5.0,45.0,6,3.0,0.6,14,No,82.93125,414.65625,0.09999999999999999,0
+Sales,Sales Representative,2783.0,No,5.0,45.0,4,3.0,0.6,2,No,17.39375,86.96875,0.09999999999999999,0
+Research & Development,Research Scientist,5433.0,No,5.0,45.0,5,3.0,0.6,11,No,33.95625,169.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2013.0,No,5.0,45.0,6,3.0,0.6,4,No,12.58125,62.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,13966.0,Yes,15.0,55.0,6,3.0,0.6,15,No,87.2875,1309.3125,0.0375,1
+Research & Development,Manufacturing Director,4374.0,No,5.0,45.0,4,3.0,0.6,3,No,27.3375,136.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,6842.0,No,5.0,45.0,6,4.0,0.8,5,No,42.7625,213.8125,0.13333333333333333,0
+Research & Development,Manager,17426.0,No,5.0,45.0,7,4.0,0.8,10,No,108.9125,544.5625,0.13333333333333333,0
+Research & Development,Research Director,17603.0,No,5.0,45.0,4,4.0,0.8,14,No,110.01875,550.09375,0.13333333333333333,0
+Sales,Sales Executive,4581.0,Yes,15.0,55.0,6,4.0,0.8,11,Yes,28.63125,429.46875,0.05,0
+Research & Development,Research Scientist,4735.0,No,5.0,45.0,5,3.0,0.6,13,No,29.59375,147.96875,0.09999999999999999,0
+Sales,Sales Executive,4187.0,Yes,15.0,55.0,5,3.0,0.6,10,No,26.16875,392.53125,0.0375,1
+Sales,Sales Executive,5505.0,No,5.0,45.0,7,3.0,0.6,6,No,34.40625,172.03125,0.09999999999999999,0
+Research & Development,Research Scientist,5470.0,No,5.0,45.0,4,3.0,0.6,9,No,34.1875,170.9375,0.09999999999999999,0
+Sales,Sales Executive,5476.0,No,5.0,45.0,4,3.0,0.6,10,No,34.225,171.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2587.0,Yes,15.0,55.0,3,3.0,0.6,2,No,16.16875,242.53125,0.0375,1
+Research & Development,Laboratory Technician,2440.0,No,5.0,45.0,4,4.0,0.8,4,No,15.25,76.25,0.13333333333333333,0
+Sales,Manager,15972.0,No,5.0,45.0,5,3.0,0.6,3,No,99.825,499.125,0.09999999999999999,0
+Research & Development,Manager,15379.0,No,5.0,45.0,6,3.0,0.6,8,No,96.11875,480.59375,0.09999999999999999,0
+Sales,Sales Executive,7082.0,Yes,15.0,55.0,3,3.0,0.6,2,No,44.2625,663.9375,0.0375,1
+Sales,Sales Representative,2728.0,No,5.0,45.0,6,3.0,0.6,2,No,17.05,85.25,0.09999999999999999,0
+Sales,Sales Executive,5368.0,Yes,15.0,55.0,7,4.0,0.8,6,No,33.55,503.24999999999994,0.05,0
+Research & Development,Healthcare Representative,5347.0,No,5.0,45.0,8,3.0,0.6,3,No,33.41875,167.09375,0.09999999999999999,0
+Human Resources,Human Resources,3195.0,Yes,15.0,55.0,3,3.0,0.6,2,No,19.96875,299.53125,0.0375,1
+Research & Development,Laboratory Technician,3989.0,Yes,15.0,55.0,7,3.0,0.6,5,Yes,24.93125,373.96875,0.0375,1
+Research & Development,Laboratory Technician,3306.0,No,5.0,45.0,7,3.0,0.6,0,No,20.6625,103.3125,0.09999999999999999,0
+Research & Development,Healthcare Representative,7005.0,No,5.0,45.0,5,3.0,0.6,4,No,43.78125,218.90625,0.09999999999999999,0
+Sales,Sales Representative,2655.0,Yes,15.0,55.0,8,3.0,0.6,9,Yes,16.59375,248.90625,0.0375,1
+Research & Development,Laboratory Technician,1393.0,No,5.0,45.0,7,3.0,0.6,1,Yes,8.70625,43.53125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2570.0,No,5.0,45.0,3,4.0,0.8,7,No,16.0625,80.3125,0.13333333333333333,0
+Research & Development,Research Scientist,3537.0,No,5.0,45.0,3,3.0,0.6,4,No,22.10625,110.53125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3986.0,No,5.0,45.0,6,3.0,0.6,15,No,24.9125,124.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,10883.0,No,5.0,45.0,6,4.0,0.8,1,No,68.01875,340.09375,0.13333333333333333,0
+Research & Development,Laboratory Technician,2028.0,No,5.0,45.0,5,3.0,0.6,14,No,12.675,63.375,0.09999999999999999,0
+Sales,Sales Executive,9525.0,No,5.0,45.0,6,3.0,0.6,6,No,59.53125,297.65625,0.09999999999999999,0
+Research & Development,Research Scientist,2929.0,No,5.0,45.0,3,3.0,0.6,10,No,18.30625,91.53125,0.09999999999999999,0
+Sales,Sales Representative,2275.0,Yes,15.0,55.0,7,4.0,0.8,3,Yes,14.21875,213.28125,0.05,0
+Research & Development,Healthcare Representative,7879.0,Yes,15.0,55.0,4,3.0,0.6,8,No,49.24375,738.65625,0.0375,1
+Research & Development,Research Scientist,4930.0,Yes,15.0,55.0,4,3.0,0.6,5,No,30.8125,462.1875,0.0375,1
+Sales,Sales Executive,7847.0,Yes,15.0,55.0,3,3.0,0.6,10,No,49.04375,735.65625,0.0375,1
+Research & Development,Research Scientist,4401.0,No,5.0,45.0,8,3.0,0.6,5,No,27.50625,137.53125,0.09999999999999999,0
+Sales,Sales Executive,9241.0,No,5.0,45.0,5,3.0,0.6,10,No,57.75625,288.78125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2974.0,No,5.0,45.0,6,3.0,0.6,5,No,18.5875,92.9375,0.09999999999999999,0
+Sales,Sales Representative,4502.0,No,5.0,45.0,5,3.0,0.6,13,No,28.1375,140.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,10748.0,No,5.0,45.0,4,4.0,0.8,23,No,67.175,335.875,0.13333333333333333,0
+Human Resources,Human Resources,1555.0,No,5.0,45.0,3,3.0,0.6,1,Yes,9.71875,48.59375,0.09999999999999999,0
+Sales,Sales Executive,12936.0,No,5.0,45.0,8,3.0,0.6,23,Yes,80.85,404.25,0.09999999999999999,0
+Research & Development,Laboratory Technician,2305.0,No,5.0,45.0,5,3.0,0.6,3,No,14.40625,72.03125,0.09999999999999999,0
+Research & Development,Research Director,16704.0,No,5.0,45.0,4,3.0,0.6,21,No,104.4,522.0,0.09999999999999999,0
+Research & Development,Research Scientist,3433.0,No,5.0,45.0,7,3.0,0.6,5,No,21.45625,107.28125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3477.0,No,5.0,45.0,6,3.0,0.6,5,No,21.73125,108.65625,0.09999999999999999,0
+Human Resources,Human Resources,6430.0,No,5.0,45.0,5,3.0,0.6,3,No,40.1875,200.9375,0.09999999999999999,0
+Research & Development,Manufacturing Director,6516.0,Yes,15.0,55.0,3,3.0,0.6,1,No,40.725,610.875,0.0375,1
+Research & Development,Laboratory Technician,3907.0,No,5.0,45.0,3,3.0,0.6,6,No,24.41875,122.09375,0.09999999999999999,0
+Research & Development,Healthcare Representative,5562.0,No,5.0,45.0,4,3.0,0.6,10,No,34.7625,173.8125,0.09999999999999999,0
+Research & Development,Manufacturing Director,6883.0,No,5.0,45.0,3,3.0,0.6,7,No,43.01875,215.09375,0.09999999999999999,0
+Research & Development,Research Scientist,2862.0,No,5.0,45.0,5,3.0,0.6,10,No,17.8875,89.4375,0.09999999999999999,0
+Sales,Sales Executive,4978.0,No,5.0,45.0,7,3.0,0.6,1,No,31.1125,155.5625,0.09999999999999999,0
+Sales,Sales Executive,10368.0,Yes,15.0,55.0,7,3.0,0.6,10,No,64.8,972.0,0.0375,1
+Sales,Sales Executive,6134.0,Yes,15.0,55.0,8,3.0,0.6,2,Yes,38.3375,575.0625,0.0375,1
+Sales,Sales Executive,6735.0,No,5.0,45.0,7,3.0,0.6,0,Yes,42.09375,210.46875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3295.0,No,5.0,45.0,3,3.0,0.6,3,No,20.59375,102.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5238.0,No,5.0,45.0,3,4.0,0.8,5,No,32.7375,163.6875,0.13333333333333333,0
+Research & Development,Laboratory Technician,6472.0,Yes,15.0,55.0,6,3.0,0.6,9,No,40.45,606.75,0.0375,1
+Sales,Sales Executive,9610.0,No,5.0,45.0,7,3.0,0.6,4,No,60.0625,300.3125,0.09999999999999999,0
+Sales,Manager,19833.0,No,5.0,45.0,7,3.0,0.6,21,No,123.95625,619.78125,0.09999999999999999,0
+Human Resources,Human Resources,9756.0,No,5.0,45.0,4,4.0,0.8,5,No,60.975,304.875,0.13333333333333333,0
+Research & Development,Research Scientist,4968.0,No,5.0,45.0,5,3.0,0.6,9,No,31.05,155.25,0.09999999999999999,0
+Human Resources,Human Resources,2145.0,No,5.0,45.0,4,3.0,0.6,2,No,13.40625,67.03125,0.09999999999999999,0
+Human Resources,Human Resources,2180.0,No,5.0,45.0,5,3.0,0.6,4,Yes,13.625,68.125,0.09999999999999999,0
+Sales,Sales Executive,8346.0,No,5.0,45.0,3,3.0,0.6,5,No,52.1625,260.8125,0.09999999999999999,0
+Research & Development,Research Scientist,3445.0,No,5.0,45.0,5,3.0,0.6,6,No,21.53125,107.65625,0.09999999999999999,0
+Sales,Sales Representative,2760.0,No,5.0,45.0,8,3.0,0.6,2,Yes,17.25,86.25,0.09999999999999999,0
+Research & Development,Healthcare Representative,6294.0,Yes,15.0,55.0,6,3.0,0.6,3,No,39.3375,590.0625,0.0375,1
+Sales,Sales Executive,7140.0,No,5.0,45.0,3,3.0,0.6,7,No,44.625,223.125,0.09999999999999999,0
+Research & Development,Research Scientist,2932.0,Yes,15.0,55.0,7,3.0,0.6,5,No,18.325,274.875,0.0375,1
+Sales,Sales Executive,5147.0,No,5.0,45.0,8,3.0,0.6,11,No,32.16875,160.84375,0.09999999999999999,0
+Sales,Sales Executive,4507.0,No,5.0,45.0,5,3.0,0.6,5,No,28.16875,140.84375,0.09999999999999999,0
+Sales,Sales Executive,8564.0,Yes,15.0,55.0,4,4.0,0.8,0,Yes,53.525,802.875,0.05,0
+Research & Development,Laboratory Technician,2468.0,No,5.0,45.0,7,3.0,0.6,6,No,15.425,77.125,0.09999999999999999,0
+Sales,Sales Executive,8161.0,No,5.0,45.0,3,3.0,0.6,1,Yes,51.00625,255.03125,0.09999999999999999,0
+Research & Development,Research Scientist,2109.0,No,5.0,45.0,5,3.0,0.6,1,No,13.18125,65.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,5294.0,No,5.0,45.0,7,3.0,0.6,7,No,33.0875,165.4375,0.09999999999999999,0
+Research & Development,Research Scientist,2718.0,No,5.0,45.0,6,3.0,0.6,7,No,16.9875,84.9375,0.09999999999999999,0
+Research & Development,Healthcare Representative,5811.0,Yes,15.0,55.0,5,3.0,0.6,1,No,36.31875,544.78125,0.0375,1
+Research & Development,Research Scientist,2437.0,Yes,15.0,55.0,8,3.0,0.6,1,Yes,15.23125,228.46875,0.0375,1
+Research & Development,Laboratory Technician,2766.0,No,5.0,45.0,7,4.0,0.8,5,No,17.2875,86.4375,0.13333333333333333,0
+Research & Development,Research Director,19038.0,No,5.0,45.0,5,3.0,0.6,1,No,118.9875,594.9375,0.09999999999999999,0
+Research & Development,Research Scientist,3055.0,No,5.0,45.0,8,3.0,0.6,9,No,19.09375,95.46875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2289.0,No,5.0,45.0,7,4.0,0.8,5,No,14.30625,71.53125,0.13333333333333333,0
+Sales,Sales Executive,4001.0,Yes,15.0,55.0,3,3.0,0.6,15,No,25.00625,375.09375,0.0375,1
+Research & Development,Manufacturing Director,12965.0,Yes,15.0,55.0,6,4.0,0.8,3,No,81.03125,1215.46875,0.05,0
+Human Resources,Human Resources,3539.0,No,5.0,45.0,8,3.0,0.6,9,No,22.11875,110.59375,0.09999999999999999,0
+Sales,Sales Executive,6029.0,No,5.0,45.0,7,3.0,0.6,2,No,37.68125,188.40625,0.09999999999999999,0
+Sales,Sales Representative,2679.0,No,5.0,45.0,4,3.0,0.6,1,Yes,16.74375,83.71875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3702.0,No,5.0,45.0,4,3.0,0.6,5,No,23.1375,115.6875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2398.0,Yes,15.0,55.0,8,3.0,0.6,1,Yes,14.9875,224.8125,0.0375,1
+Sales,Sales Executive,5468.0,No,5.0,45.0,5,3.0,0.6,12,No,34.175,170.875,0.09999999999999999,0
+Research & Development,Manager,13116.0,No,5.0,45.0,6,3.0,0.6,2,No,81.975,409.875,0.09999999999999999,0
+Sales,Sales Executive,4189.0,No,5.0,45.0,4,3.0,0.6,5,No,26.18125,130.90625,0.09999999999999999,0
+Research & Development,Research Director,19328.0,Yes,15.0,55.0,8,3.0,0.6,2,No,120.8,1812.0,0.0375,1
+Research & Development,Healthcare Representative,8321.0,Yes,15.0,55.0,7,3.0,0.6,12,No,52.00625,780.09375,0.0375,1
+Research & Development,Research Scientist,2342.0,Yes,15.0,55.0,8,3.0,0.6,5,Yes,14.6375,219.5625,0.0375,1
+Human Resources,Human Resources,4071.0,No,5.0,45.0,6,3.0,0.6,10,No,25.44375,127.21875,0.09999999999999999,0
+Sales,Sales Executive,5813.0,Yes,15.0,55.0,8,3.0,0.6,10,Yes,36.33125,544.96875,0.0375,1
+Research & Development,Research Scientist,3143.0,No,5.0,45.0,5,3.0,0.6,10,No,19.64375,98.21875,0.09999999999999999,0
+Research & Development,Research Scientist,2044.0,No,5.0,45.0,4,3.0,0.6,5,No,12.775,63.875,0.09999999999999999,0
+Research & Development,Research Director,13464.0,No,5.0,45.0,3,4.0,0.8,4,No,84.15,420.75,0.13333333333333333,0
+Sales,Sales Executive,7991.0,No,5.0,45.0,4,3.0,0.6,2,No,49.94375,249.71875,0.09999999999999999,0
+Research & Development,Laboratory Technician,3377.0,No,5.0,45.0,5,3.0,0.6,4,No,21.10625,105.53125,0.09999999999999999,0
+Research & Development,Healthcare Representative,5538.0,No,5.0,45.0,7,3.0,0.6,0,No,34.6125,173.0625,0.09999999999999999,0
+Research & Development,Manufacturing Director,5762.0,No,5.0,45.0,5,3.0,0.6,7,No,36.0125,180.0625,0.09999999999999999,0
+Human Resources,Human Resources,2592.0,No,5.0,45.0,4,3.0,0.6,11,No,16.2,81.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,5346.0,No,5.0,45.0,3,3.0,0.6,7,Yes,33.4125,167.0625,0.09999999999999999,0
+Research & Development,Manufacturing Director,4213.0,No,5.0,45.0,6,3.0,0.6,10,Yes,26.33125,131.65625,0.09999999999999999,0
+Sales,Sales Executive,4127.0,No,5.0,45.0,3,3.0,0.6,2,No,25.79375,128.96875,0.09999999999999999,0
+Research & Development,Research Scientist,2438.0,No,5.0,45.0,3,3.0,0.6,3,No,15.2375,76.1875,0.09999999999999999,0
+Research & Development,Healthcare Representative,6870.0,No,5.0,45.0,6,3.0,0.6,3,No,42.9375,214.6875,0.09999999999999999,0
+Sales,Sales Executive,10447.0,Yes,15.0,55.0,5,3.0,0.6,22,No,65.29375,979.40625,0.0375,1
+Research & Development,Manufacturing Director,9667.0,No,5.0,45.0,5,3.0,0.6,7,No,60.41875,302.09375,0.09999999999999999,0
+Human Resources,Human Resources,2148.0,Yes,15.0,55.0,5,3.0,0.6,5,Yes,13.425,201.375,0.0375,1
+Research & Development,Healthcare Representative,8926.0,No,5.0,45.0,6,4.0,0.8,9,Yes,55.7875,278.9375,0.13333333333333333,0
+Research & Development,Healthcare Representative,6513.0,No,5.0,45.0,4,3.0,0.6,5,No,40.70625,203.53125,0.09999999999999999,0
+Sales,Sales Executive,6799.0,No,5.0,45.0,7,4.0,0.8,10,No,42.49375,212.46875,0.13333333333333333,0
+Sales,Manager,16291.0,No,5.0,45.0,6,4.0,0.8,16,No,101.81875,509.09375,0.13333333333333333,0
+Research & Development,Laboratory Technician,2705.0,No,5.0,45.0,4,3.0,0.6,5,No,16.90625,84.53125,0.09999999999999999,0
+Research & Development,Manufacturing Director,10333.0,Yes,15.0,55.0,8,3.0,0.6,22,No,64.58125,968.71875,0.0375,1
+Research & Development,Healthcare Representative,4448.0,No,5.0,45.0,8,3.0,0.6,7,No,27.8,139.0,0.09999999999999999,0
+Research & Development,Research Scientist,6854.0,No,5.0,45.0,3,3.0,0.6,7,No,42.8375,214.1875,0.09999999999999999,0
+Sales,Sales Executive,9637.0,No,5.0,45.0,7,3.0,0.6,3,No,60.23125,301.15625,0.09999999999999999,0
+Research & Development,Research Scientist,3591.0,No,5.0,45.0,5,4.0,0.8,3,No,22.44375,112.21875,0.13333333333333333,0
+Sales,Sales Representative,5405.0,Yes,15.0,55.0,3,4.0,0.8,4,No,33.78125,506.71875,0.05,0
+Sales,Sales Executive,4684.0,No,5.0,45.0,3,3.0,0.6,5,No,29.275,146.375,0.09999999999999999,0
+Research & Development,Research Director,15787.0,Yes,15.0,55.0,5,3.0,0.6,2,No,98.66875,1480.03125,0.0375,1
+Research & Development,Research Scientist,1514.0,No,5.0,45.0,6,3.0,0.6,0,No,9.4625,47.3125,0.09999999999999999,0
+Human Resources,Human Resources,2956.0,No,5.0,45.0,4,3.0,0.6,1,Yes,18.475,92.375,0.09999999999999999,0
+Human Resources,Human Resources,2335.0,Yes,15.0,55.0,8,3.0,0.6,2,Yes,14.59375,218.90625,0.0375,1
+Sales,Sales Executive,5154.0,No,5.0,45.0,3,4.0,0.8,8,No,32.2125,161.0625,0.13333333333333333,0
+Research & Development,Research Scientist,6962.0,Yes,15.0,55.0,3,4.0,0.8,1,No,43.5125,652.6875,0.05,0
+Sales,Sales Executive,5675.0,No,5.0,45.0,3,4.0,0.8,7,No,35.46875,177.34375,0.13333333333333333,0
+Research & Development,Laboratory Technician,2379.0,Yes,15.0,55.0,5,3.0,0.6,5,No,14.86875,223.03125,0.0375,1
+Research & Development,Laboratory Technician,3812.0,No,5.0,45.0,4,3.0,0.6,11,No,23.825,119.125,0.09999999999999999,0
+Sales,Sales Executive,4648.0,No,5.0,45.0,3,3.0,0.6,0,No,29.05,145.25,0.09999999999999999,0
+Research & Development,Research Scientist,2936.0,No,5.0,45.0,8,4.0,0.8,6,No,18.35,91.75,0.13333333333333333,0
+Research & Development,Laboratory Technician,2105.0,No,5.0,45.0,7,3.0,0.6,2,No,13.15625,65.78125,0.09999999999999999,0
+Research & Development,Manufacturing Director,8578.0,No,5.0,45.0,3,3.0,0.6,9,No,53.6125,268.0625,0.09999999999999999,0
+Human Resources,Human Resources,2706.0,No,5.0,45.0,7,3.0,0.6,3,No,16.9125,84.5625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6384.0,No,5.0,45.0,6,3.0,0.6,7,No,39.9,199.5,0.09999999999999999,0
+Research & Development,Laboratory Technician,3968.0,No,5.0,45.0,8,3.0,0.6,0,No,24.8,124.0,0.09999999999999999,0
+Sales,Sales Executive,9907.0,Yes,15.0,55.0,7,3.0,0.6,2,Yes,61.91875,928.78125,0.0375,1
+Sales,Sales Executive,13225.0,No,5.0,45.0,5,3.0,0.6,19,No,82.65625,413.28125,0.09999999999999999,0
+Sales,Sales Representative,3540.0,No,5.0,45.0,4,4.0,0.8,9,No,22.125,110.625,0.13333333333333333,0
+Human Resources,Human Resources,2804.0,No,5.0,45.0,3,3.0,0.6,1,No,17.525,87.625,0.09999999999999999,0
+Research & Development,Manager,19392.0,No,5.0,45.0,3,3.0,0.6,16,No,121.2,606.0,0.09999999999999999,0
+Research & Development,Research Director,19665.0,No,5.0,45.0,6,3.0,0.6,22,No,122.90625,614.53125,0.09999999999999999,0
+Research & Development,Research Scientist,2439.0,Yes,15.0,55.0,5,4.0,0.8,1,Yes,15.24375,228.65625,0.05,0
+Sales,Sales Executive,7314.0,No,5.0,45.0,3,4.0,0.8,8,Yes,45.7125,228.5625,0.13333333333333333,0
+Research & Development,Research Scientist,4774.0,No,5.0,45.0,7,3.0,0.6,7,No,29.8375,149.1875,0.09999999999999999,0
+Research & Development,Research Scientist,3902.0,No,5.0,45.0,7,3.0,0.6,2,No,24.3875,121.9375,0.09999999999999999,0
+Research & Development,Research Scientist,2662.0,No,5.0,45.0,3,4.0,0.8,5,No,16.6375,83.1875,0.13333333333333333,0
+Sales,Sales Representative,2856.0,No,5.0,45.0,8,3.0,0.6,1,No,17.85,89.25,0.09999999999999999,0
+Sales,Sales Representative,1081.0,No,5.0,45.0,8,3.0,0.6,1,Yes,6.75625,33.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2472.0,Yes,15.0,55.0,3,4.0,0.8,1,Yes,15.45,231.75,0.05,0
+Sales,Sales Executive,5673.0,Yes,15.0,55.0,5,3.0,0.6,10,No,35.45625,531.84375,0.0375,1
+Research & Development,Laboratory Technician,4197.0,No,5.0,45.0,3,3.0,0.6,10,No,26.23125,131.15625,0.09999999999999999,0
+Sales,Sales Executive,9713.0,Yes,15.0,55.0,5,3.0,0.6,5,No,60.70625,910.59375,0.0375,1
+Research & Development,Laboratory Technician,2062.0,No,5.0,45.0,6,3.0,0.6,3,No,12.8875,64.4375,0.09999999999999999,0
+Research & Development,Research Scientist,4284.0,Yes,15.0,55.0,6,4.0,0.8,5,No,26.775,401.625,0.05,0
+Research & Development,Manufacturing Director,4788.0,Yes,15.0,55.0,6,3.0,0.6,3,No,29.925,448.875,0.0375,1
+Research & Development,Manufacturing Director,5906.0,No,5.0,45.0,6,3.0,0.6,9,No,36.9125,184.5625,0.09999999999999999,0
+Human Resources,Human Resources,3886.0,No,5.0,45.0,4,4.0,0.8,10,No,24.2875,121.4375,0.13333333333333333,0
+Research & Development,Manager,16823.0,No,5.0,45.0,4,3.0,0.6,19,No,105.14375,525.71875,0.09999999999999999,0
+Research & Development,Research Scientist,2933.0,Yes,15.0,55.0,3,3.0,0.6,1,No,18.33125,274.96875,0.0375,1
+Sales,Sales Executive,6500.0,No,5.0,45.0,8,3.0,0.6,8,No,40.625,203.125,0.09999999999999999,0
+Research & Development,Manager,17174.0,No,5.0,45.0,6,3.0,0.6,22,No,107.3375,536.6875,0.09999999999999999,0
+Research & Development,Healthcare Representative,5033.0,No,5.0,45.0,6,3.0,0.6,2,No,31.45625,157.28125,0.09999999999999999,0
+Research & Development,Research Scientist,2307.0,Yes,15.0,55.0,5,4.0,0.8,5,Yes,14.41875,216.28125,0.05,0
+Research & Development,Laboratory Technician,2587.0,No,5.0,45.0,8,3.0,0.6,4,Yes,16.16875,80.84375,0.09999999999999999,0
+Sales,Sales Executive,5507.0,No,5.0,45.0,3,3.0,0.6,4,No,34.41875,172.09375,0.09999999999999999,0
+Sales,Sales Executive,4393.0,No,5.0,45.0,7,4.0,0.8,5,No,27.45625,137.28125,0.13333333333333333,0
+Research & Development,Research Director,13348.0,No,5.0,45.0,8,3.0,0.6,13,No,83.425,417.125,0.09999999999999999,0
+Sales,Sales Executive,6583.0,Yes,15.0,55.0,6,3.0,0.6,5,No,41.14375,617.15625,0.0375,1
+Sales,Sales Executive,8103.0,Yes,15.0,55.0,3,3.0,0.6,4,No,50.64375,759.65625,0.0375,1
+Research & Development,Laboratory Technician,3978.0,No,5.0,45.0,3,3.0,0.6,2,No,24.8625,124.3125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2544.0,No,5.0,45.0,5,3.0,0.6,7,No,15.9,79.5,0.09999999999999999,0
+Research & Development,Healthcare Representative,5399.0,No,5.0,45.0,8,3.0,0.6,4,No,33.74375,168.71875,0.09999999999999999,0
+Sales,Sales Executive,5487.0,No,5.0,45.0,8,3.0,0.6,10,No,34.29375,171.46875,0.09999999999999999,0
+Sales,Sales Executive,6834.0,Yes,15.0,55.0,6,3.0,0.6,7,No,42.7125,640.6875,0.0375,1
+Sales,Sales Representative,1091.0,No,5.0,45.0,5,3.0,0.6,1,Yes,6.81875,34.09375,0.09999999999999999,0
+Sales,Sales Executive,5736.0,No,5.0,45.0,6,3.0,0.6,3,No,35.85,179.25,0.09999999999999999,0
+Research & Development,Research Scientist,2226.0,No,5.0,45.0,8,3.0,0.6,5,No,13.9125,69.5625,0.09999999999999999,0
+Research & Development,Research Scientist,5747.0,Yes,15.0,55.0,4,3.0,0.6,15,No,35.91875,538.78125,0.0375,1
+Sales,Sales Executive,9854.0,Yes,15.0,55.0,5,3.0,0.6,2,Yes,61.5875,923.8125,0.0375,1
+Research & Development,Research Scientist,5467.0,No,5.0,45.0,4,3.0,0.6,8,No,34.16875,170.84375,0.09999999999999999,0
+Sales,Sales Executive,5380.0,No,5.0,45.0,3,3.0,0.6,0,No,33.625,168.125,0.09999999999999999,0
+Research & Development,Manufacturing Director,5151.0,No,5.0,45.0,8,4.0,0.8,10,No,32.19375,160.96875,0.13333333333333333,0
+Research & Development,Research Scientist,2133.0,Yes,15.0,55.0,8,3.0,0.6,20,No,13.33125,199.96875,0.0375,1
+Sales,Manager,17875.0,Yes,15.0,55.0,8,3.0,0.6,1,No,111.71875,1675.78125,0.0375,1
+Research & Development,Research Scientist,2432.0,Yes,15.0,55.0,7,3.0,0.6,4,Yes,15.2,228.0,0.0375,1
+Research & Development,Research Scientist,4771.0,No,5.0,45.0,4,3.0,0.6,5,No,29.81875,149.09375,0.09999999999999999,0
+Research & Development,Research Director,19161.0,No,5.0,45.0,8,3.0,0.6,5,No,119.75625,598.78125,0.09999999999999999,0
+Sales,Sales Executive,5087.0,Yes,15.0,55.0,5,3.0,0.6,0,No,31.79375,476.90625,0.0375,1
+Human Resources,Human Resources,2863.0,No,5.0,45.0,3,3.0,0.6,1,Yes,17.89375,89.46875,0.09999999999999999,0
+Sales,Sales Executive,5561.0,No,5.0,45.0,4,3.0,0.6,5,No,34.75625,173.78125,0.09999999999999999,0
+Research & Development,Research Scientist,2144.0,No,5.0,45.0,7,3.0,0.6,5,No,13.4,67.0,0.09999999999999999,0
+Research & Development,Research Scientist,3065.0,Yes,15.0,55.0,3,3.0,0.6,4,No,19.15625,287.34375,0.0375,1
+Research & Development,Laboratory Technician,2810.0,No,5.0,45.0,8,4.0,0.8,5,No,17.5625,87.8125,0.13333333333333333,0
+Sales,Sales Executive,9888.0,No,5.0,45.0,3,4.0,0.8,14,No,61.8,309.0,0.13333333333333333,0
+Sales,Sales Executive,8628.0,No,5.0,45.0,7,3.0,0.6,8,No,53.925,269.625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2867.0,No,5.0,45.0,7,3.0,0.6,7,No,17.91875,89.59375,0.09999999999999999,0
+Research & Development,Healthcare Representative,5373.0,No,5.0,45.0,6,3.0,0.6,5,No,33.58125,167.90625,0.09999999999999999,0
+Research & Development,Healthcare Representative,6667.0,No,5.0,45.0,5,3.0,0.6,5,No,41.66875,208.34375,0.09999999999999999,0
+Research & Development,Research Scientist,5003.0,No,5.0,45.0,8,4.0,0.8,10,No,31.26875,156.34375,0.13333333333333333,0
+Research & Development,Laboratory Technician,2367.0,No,5.0,45.0,8,3.0,0.6,4,Yes,14.79375,73.96875,0.09999999999999999,0
+Sales,Sales Representative,2858.0,No,5.0,45.0,6,3.0,0.6,1,No,17.8625,89.3125,0.09999999999999999,0
+Sales,Sales Executive,5204.0,Yes,15.0,55.0,5,3.0,0.6,10,No,32.525,487.875,0.0375,1
+Sales,Sales Executive,4105.0,No,5.0,45.0,8,3.0,0.6,7,No,25.65625,128.28125,0.09999999999999999,0
+Research & Development,Manufacturing Director,9679.0,No,5.0,45.0,7,4.0,0.8,1,No,60.49375,302.46875,0.13333333333333333,0
+Sales,Sales Executive,5617.0,Yes,15.0,55.0,7,3.0,0.6,10,Yes,35.10625,526.59375,0.0375,1
+Sales,Sales Executive,10448.0,Yes,15.0,55.0,7,3.0,0.6,2,Yes,65.3,979.5,0.0375,1
+Research & Development,Research Scientist,2897.0,No,5.0,45.0,8,3.0,0.6,4,No,18.10625,90.53125,0.09999999999999999,0
+Research & Development,Healthcare Representative,5968.0,No,5.0,45.0,7,4.0,0.8,9,No,37.3,186.5,0.13333333333333333,0
+Research & Development,Healthcare Representative,7510.0,No,5.0,45.0,7,3.0,0.6,10,No,46.9375,234.6875,0.09999999999999999,0
+Human Resources,Human Resources,2991.0,Yes,15.0,55.0,6,3.0,0.6,6,No,18.69375,280.40625,0.0375,1
+Human Resources,Manager,19636.0,Yes,15.0,55.0,8,3.0,0.6,10,No,122.725,1840.875,0.0375,1
+Research & Development,Laboratory Technician,1129.0,Yes,15.0,55.0,6,3.0,0.6,1,No,7.05625,105.84375,0.0375,1
+Sales,Sales Executive,13341.0,No,5.0,45.0,3,3.0,0.6,20,No,83.38125,416.90625,0.09999999999999999,0
+Research & Development,Research Scientist,4332.0,No,5.0,45.0,8,3.0,0.6,20,No,27.075,135.375,0.09999999999999999,0
+Research & Development,Research Director,11031.0,No,5.0,45.0,3,4.0,0.8,11,No,68.94375,344.71875,0.13333333333333333,0
+Research & Development,Manufacturing Director,4440.0,Yes,15.0,55.0,8,3.0,0.6,5,No,27.75,416.25,0.0375,1
+Research & Development,Healthcare Representative,4617.0,No,5.0,45.0,7,3.0,0.6,4,No,28.85625,144.28125,0.09999999999999999,0
+Research & Development,Laboratory Technician,2647.0,No,5.0,45.0,4,3.0,0.6,5,No,16.54375,82.71875,0.09999999999999999,0
+Research & Development,Laboratory Technician,6323.0,No,5.0,45.0,6,3.0,0.6,10,No,39.51875,197.59375,0.09999999999999999,0
+Sales,Sales Executive,5677.0,No,5.0,45.0,4,3.0,0.6,11,No,35.48125,177.40625,0.09999999999999999,0
+Human Resources,Human Resources,2187.0,No,5.0,45.0,8,3.0,0.6,2,No,13.66875,68.34375,0.09999999999999999,0
+Research & Development,Laboratory Technician,3748.0,No,5.0,45.0,6,3.0,0.6,12,No,23.425,117.125,0.09999999999999999,0
+Research & Development,Laboratory Technician,3977.0,Yes,15.0,55.0,5,3.0,0.6,2,No,24.85625,372.84375,0.0375,1
+Research & Development,Healthcare Representative,8633.0,No,5.0,45.0,3,4.0,0.8,17,No,53.95625,269.78125,0.13333333333333333,0
+Research & Development,Laboratory Technician,2008.0,No,5.0,45.0,5,3.0,0.6,1,No,12.55,62.75,0.09999999999999999,0
+Sales,Sales Executive,4440.0,No,5.0,45.0,6,3.0,0.6,15,No,27.75,138.75,0.09999999999999999,0
+Sales,Sales Representative,3067.0,No,5.0,45.0,8,3.0,0.6,2,No,19.16875,95.84375,0.09999999999999999,0
+Research & Development,Manufacturing Director,5321.0,No,5.0,45.0,7,3.0,0.6,8,No,33.25625,166.28125,0.09999999999999999,0
+Research & Development,Research Scientist,5410.0,Yes,15.0,55.0,8,3.0,0.6,4,No,33.8125,507.1875,0.0375,1
+Research & Development,Research Scientist,2782.0,No,5.0,45.0,8,4.0,0.8,5,No,17.3875,86.9375,0.13333333333333333,0
+Research & Development,Research Director,11957.0,No,5.0,45.0,8,3.0,0.6,13,No,74.73125,373.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2660.0,Yes,15.0,55.0,3,3.0,0.6,2,No,16.625,249.375,0.0375,1
+Research & Development,Research Scientist,3375.0,No,5.0,45.0,4,3.0,0.6,3,No,21.09375,105.46875,0.09999999999999999,0
+Research & Development,Research Scientist,5098.0,No,5.0,45.0,8,3.0,0.6,10,No,31.8625,159.3125,0.09999999999999999,0
+Research & Development,Healthcare Representative,4878.0,Yes,15.0,55.0,5,3.0,0.6,9,No,30.4875,457.3125,0.0375,1
+Research & Development,Laboratory Technician,2837.0,No,5.0,45.0,3,3.0,0.6,6,No,17.73125,88.65625,0.09999999999999999,0
+Research & Development,Laboratory Technician,2406.0,No,5.0,45.0,4,3.0,0.6,1,No,15.0375,75.1875,0.09999999999999999,0
+Sales,Sales Representative,2269.0,No,5.0,45.0,8,3.0,0.6,2,No,14.18125,70.90625,0.09999999999999999,0
+Research & Development,Research Scientist,4108.0,No,5.0,45.0,8,3.0,0.6,7,No,25.675,128.375,0.09999999999999999,0
+Research & Development,Research Director,13206.0,No,5.0,45.0,8,3.0,0.6,18,No,82.5375,412.6875,0.09999999999999999,0
+Sales,Sales Executive,10422.0,No,5.0,45.0,4,3.0,0.6,14,No,65.1375,325.6875,0.09999999999999999,0
+Research & Development,Research Director,13744.0,Yes,15.0,55.0,6,4.0,0.8,16,No,85.9,1288.5,0.05,0
+Sales,Sales Executive,4907.0,Yes,15.0,55.0,8,4.0,0.8,5,No,30.66875,460.03125,0.05,0
+Sales,Sales Representative,3482.0,No,5.0,45.0,3,3.0,0.6,9,No,21.7625,108.8125,0.09999999999999999,0
+Research & Development,Research Scientist,2436.0,Yes,15.0,55.0,5,3.0,0.6,4,No,15.225,228.375,0.0375,1
+Sales,Sales Representative,2380.0,Yes,15.0,55.0,8,3.0,0.6,2,No,14.875,223.125,0.0375,1
+Research & Development,Manager,19431.0,No,5.0,45.0,8,3.0,0.6,6,No,121.44375,607.21875,0.09999999999999999,0
+Sales,Sales Representative,1790.0,No,5.0,45.0,8,3.0,0.6,1,Yes,11.1875,55.9375,0.09999999999999999,0
+Sales,Sales Executive,7644.0,No,5.0,45.0,7,3.0,0.6,9,No,47.775,238.875,0.09999999999999999,0
+Research & Development,Manufacturing Director,5131.0,No,5.0,45.0,7,3.0,0.6,4,No,32.06875,160.34375,0.09999999999999999,0
+Research & Development,Healthcare Representative,6306.0,No,5.0,45.0,7,4.0,0.8,13,No,39.4125,197.0625,0.13333333333333333,0
+Research & Development,Research Scientist,4787.0,Yes,15.0,55.0,5,3.0,0.6,2,Yes,29.91875,448.78125,0.0375,1
+Research & Development,Manager,18880.0,No,5.0,45.0,3,3.0,0.6,22,No,118.0,590.0,0.09999999999999999,0
+Research & Development,Laboratory Technician,2339.0,No,5.0,45.0,5,3.0,0.6,10,Yes,14.61875,73.09375,0.09999999999999999,0
+Research & Development,Manufacturing Director,13570.0,No,5.0,45.0,3,4.0,0.8,20,No,84.8125,424.0625,0.13333333333333333,0
+Sales,Sales Executive,6712.0,No,5.0,45.0,4,4.0,0.8,8,No,41.95,209.75,0.13333333333333333,0
+Sales,Sales Executive,5406.0,No,5.0,45.0,3,4.0,0.8,15,No,33.7875,168.9375,0.13333333333333333,0
+Sales,Sales Executive,8938.0,No,5.0,45.0,6,3.0,0.6,5,No,55.8625,279.3125,0.09999999999999999,0
+Research & Development,Research Scientist,2439.0,No,5.0,45.0,8,3.0,0.6,4,No,15.24375,76.21875,0.09999999999999999,0
+Human Resources,Human Resources,8837.0,Yes,15.0,55.0,4,3.0,0.6,9,No,55.23125,828.46875,0.0375,1
+Sales,Sales Executive,5343.0,No,5.0,45.0,7,3.0,0.6,10,No,33.39375,166.96875,0.09999999999999999,0
+Sales,Sales Executive,6728.0,No,5.0,45.0,7,3.0,0.6,6,Yes,42.05,210.25,0.09999999999999999,0
+Sales,Sales Executive,6652.0,No,5.0,45.0,6,3.0,0.6,6,No,41.575,207.875,0.09999999999999999,0
+Sales,Sales Executive,4850.0,No,5.0,45.0,8,3.0,0.6,5,No,30.3125,151.5625,0.09999999999999999,0
+Research & Development,Research Scientist,2809.0,No,5.0,45.0,6,3.0,0.6,2,No,17.55625,87.78125,0.09999999999999999,0
+Research & Development,Healthcare Representative,5689.0,Yes,15.0,55.0,6,3.0,0.6,10,No,35.55625,533.34375,0.0375,1
+Research & Development,Research Scientist,2001.0,No,5.0,45.0,7,3.0,0.6,5,No,12.50625,62.53125,0.09999999999999999,0
+Research & Development,Research Scientist,2977.0,No,5.0,45.0,3,3.0,0.6,4,No,18.60625,93.03125,0.09999999999999999,0
+Research & Development,Laboratory Technician,4025.0,Yes,15.0,55.0,3,3.0,0.6,4,No,25.15625,377.34375,0.0375,1
+Research & Development,Research Scientist,3785.0,No,5.0,45.0,6,3.0,0.6,5,No,23.65625,118.28125,0.09999999999999999,0
+Sales,Sales Executive,10854.0,Yes,15.0,55.0,3,3.0,0.6,3,Yes,67.8375,1017.5625000000001,0.0375,1
+Sales,Sales Executive,12031.0,No,5.0,45.0,8,3.0,0.6,20,No,75.19375,375.96875,0.09999999999999999,0
+Research & Development,Manufacturing Director,9936.0,No,5.0,45.0,8,3.0,0.6,9,No,62.1,310.5,0.09999999999999999,0
+Sales,Sales Representative,2966.0,No,5.0,45.0,4,3.0,0.6,4,No,18.5375,92.6875,0.09999999999999999,0
+Research & Development,Laboratory Technician,2571.0,No,5.0,45.0,4,3.0,0.6,5,No,16.06875,80.34375,0.09999999999999999,0
+Research & Development,Healthcare Representative,9991.0,No,5.0,45.0,8,3.0,0.6,7,No,62.44375,312.21875,0.09999999999999999,0
+Research & Development,Manufacturing Director,6142.0,Yes,15.0,55.0,6,4.0,0.8,6,No,38.3875,575.8125,0.05,0
+Sales,Sales Executive,5390.0,No,5.0,45.0,7,3.0,0.6,9,No,33.6875,168.4375,0.09999999999999999,0
+Research & Development,Laboratory Technician,4404.0,No,5.0,45.0,4,3.0,0.6,4,No,27.525,137.625,0.09999999999999999,0
