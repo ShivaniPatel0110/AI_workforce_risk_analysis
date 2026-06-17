@@ -159,5 +159,3 @@ Dynamic insights using DAX:
 Data Analyst | Power BI | SQL | Python | Cloud  
 
 ---
-
-## 📂 Project Structure
