@@ -118,7 +118,7 @@ workforce-analytics/
 ---
 
 ### 🧠 AI Insights Dashboard
-![AI Insights](images/AI_Insights.png)
+![AI Insights](images/AIInsight.png)
 
 ---
 
@@ -128,12 +128,11 @@ workforce-analytics/
 ---
 
 ### 🌐 Power BI Service Deployment
-![Power BI Service]
-(images/powerbi_service1.png)
-(images/powerbi_service2.png)
-(images/powerbi_service3.png)
-(images/powerbi_service4.png)
-(images/powerbi_service5.png)
+![Power BI Service](images/powerbiservice1.png)
+![Power BI Service](images/powerbiservice2.png)
+![Power BI Service](images/powerbiservice3.png)
+![Power BI Service](images/powerbiservice4.png)
+![Power BI Service](images/powerbiservice5.png)
 
 
 ---
